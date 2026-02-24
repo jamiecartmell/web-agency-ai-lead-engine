@@ -1,0 +1,57 @@
+{
+  "business_name": "Woodfire Westport",
+  "audit_focus_area": "Conversion audit",
+  "opportunity_level": "High",
+  "primary_service_angle": "Conversion optimization",
+  "audit_summary": "Woodfire Westport has strong public reputation signals with 573 Google reviews and a near-perfect desktop performance score, but the website currently offers no contact form or booking system — leaving visitors with no direct way to engage. This is the most significant conversion gap across all signals and should be treated as an immediate priority. Adding even a basic enquiry pathway would directly leverage the reputational traffic the business is already generating.",
+  "findings": {
+    "performance": [
+      "Mobile PageSpeed score of 74 indicates moderate performance and sits one point below the strong threshold — possible contributing factors include unoptimised images or render-blocking scripts, though this cannot be confirmed from public signals alone",
+      "Desktop PageSpeed score of 99 is strong — the core build is technically well-optimised"
+    ],
+    "mobile_ux": [
+      "Mobile UX is rated ok — the site is functional on mobile, but the absence of any contact or booking pathway means mobile visitors have no conversion route regardless of usability",
+      "Adding a prominent click-to-call button and an enquiry or booking CTA as immediate priorities would address both the UX friction and the conversion gap simultaneously"
+    ],
+    "conversion": [
+      "No contact form is present — visitors currently have no way to send a direct enquiry from the website",
+      "No booking or reservation system is present — for a hospitality business with 573 reviews this is a critical conversion gap",
+      "Notes confirm no online ordering or booking system is visible and the single-page layout offers no dedicated conversion sections"
+    ],
+    "seo_fundamentals": [
+      "No blog or updates section is present — the site offers no dynamic content to support ongoing search visibility",
+      "Notes confirm a single-page layout with minimal content depth and no dedicated about section — limited indexable content reduces keyword reach",
+      "Notes explicitly state limited structured SEO content — local schema markup and on-page improvements would strengthen local search appearance"
+    ],
+    "trust_social_proof": [
+      "4.6 Google rating across 573 reviews is an exceptionally strong trust signal and represents significant earned credibility",
+      "This social proof is not visibly surfaced on the website — embedding a Google Reviews widget would convert this reputational asset into an on-site conversion tool"
+    ],
+    "security_maintenance": [
+      "SSL is active — secure browsing is in place",
+      "Site runs on WordPress — keeping themes, plugins, and core updated on a regular schedule is recommended to maintain stability and performance"
+    ]
+  },
+  "prioritised_recommendations": {
+    "p1_quick_wins": [
+      "Add a contact form or enquiry button immediately — this is the most urgent gap and currently leaves visitors with no way to engage with the business from the website",
+      "Add a click-to-call button visible on mobile — lowest-effort conversion addition for a restaurant audience browsing on the go"
+    ],
+    "p2_growth_improvements": [
+      "Add an online booking or reservation system — directly converts the strong review-driven traffic into seated customers",
+      "Embed a Google Reviews widget to surface the 573-review, 4.6-rating social proof on the site itself",
+      "Review mobile PageSpeed — targeted image compression could push the score from moderate to strong with minimal structural change"
+    ],
+    "p3_strategic_enhancements": [
+      "Expand from single-page to multi-page structure to support deeper SEO coverage, add an about section, and better reflect the full offering to new visitors",
+      "Introduce LocalBusiness and Restaurant schema markup to strengthen local search appearance given the notes indicate limited structured SEO content currently"
+    ]
+  },
+  "assumptions_and_unknowns": [
+    "Hosting provider is unknown",
+    "Social media links and profiles were not included in the input",
+    "Schema markup presence cannot be confirmed from public signals alone",
+    "Online ordering capability was noted as absent in the notes field — confirmed as not present"
+  ],
+  "next_best_action": "Make contact immediately with a short pitch focused on adding a booking or enquiry system — this is an urgent conversion gap for a business with 573 reviews already driving traffic to a site that offers no way to act on it"
+}

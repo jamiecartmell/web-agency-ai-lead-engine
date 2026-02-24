@@ -1,0 +1,20 @@
+{
+  "business_name": "Core Health and Performance",
+  "website": "https://www.corehealthandperformance.ie/",
+  "location": "Westport, Co. Mayo, Ireland",
+  "industry": "Fitness and Health",
+  "source": "Google Maps",
+  "signals": {
+    "ssl_active": true,
+    "platform": "Wix",
+    "pagespeed_mobile": 63,
+    "pagespeed_desktop": 93,
+    "mobile_ux": "ok",
+    "has_contact_form": true,
+    "has_booking_system": false,
+    "has_blog_or_updates": false,
+    "reviews_rating": 5,
+    "reviews_count": 53
+  },
+  "notes": "Single page layout, static content structure, testimonials manually displayed, no dynamic content section."
+}

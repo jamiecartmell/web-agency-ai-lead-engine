@@ -1,0 +1,56 @@
+{
+  "business_name": "Arnos Bistrot",
+  "audit_focus_area": "Conversion audit",
+  "opportunity_level": "Medium",
+  "primary_service_angle": "Conversion optimization",
+  "audit_summary": "Arnos Bistrot has a well-maintained WordPress website with strong desktop performance and excellent Google review signals. The primary opportunity is the absence of an online booking or reservation pathway, which is a clear gap for a hospitality business with demonstrated demand. Secondary improvements to mobile performance and testimonial integration would further strengthen conversion.",
+  "findings": {
+    "performance": [
+      "Mobile PageSpeed score of 65 indicates moderate performance — possible causes include unoptimised images or render-blocking scripts, though this cannot be confirmed from public signals alone",
+      "Desktop PageSpeed score of 98 is strong and suggests the core site build is well-optimised"
+    ],
+    "mobile_ux": [
+      "Mobile UX is rated ok — the site is usable on mobile but may have friction points such as small tap targets, dense text, or CTA placement that could reduce conversion on smaller screens",
+      "Reviewing button sizing, spacing, and CTA prominence on mobile would support the conversion objective"
+    ],
+    "conversion": [
+      "Contact form is present — basic enquiry pathway is in place",
+      "No booking system is present — for a hospitality business this is the most direct conversion gap",
+      "No click-to-call functionality was identified in the input signals"
+    ],
+    "seo_fundamentals": [
+      "No blog or updates section is present — static content structure limits fresh content signals",
+      "Notes confirm no dynamic content section, which reduces opportunities for ongoing organic visibility",
+      "Location data is available (Westport, Co. Mayo) — local business schema markup would likely improve local search appearance but is not confirmed as present"
+    ],
+    "trust_social_proof": [
+      "Google rating of 4.9 across 293 reviews is a strong trust signal",
+      "Testimonials are manually displayed rather than dynamically embedded — this is a missed opportunity to surface live review data and reduce maintenance overhead"
+    ],
+    "security_maintenance": [
+      "SSL is active — secure browsing is in place",
+      "Site runs on WordPress — keeping themes, plugins, and core updated is recommended as a routine maintenance practice to maintain performance and stability"
+    ]
+  },
+  "prioritised_recommendations": {
+    "p1_quick_wins": [
+      "Add an online booking or reservation system — this is the highest-priority conversion improvement for a hospitality business with strong review demand",
+      "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface live social proof without ongoing manual effort"
+    ],
+    "p2_growth_improvements": [
+      "Investigate and address mobile PageSpeed — image compression and deferring non-critical scripts are common quick gains that could move the score from moderate to strong",
+      "Add a click-to-call button visible on mobile — low effort and directly supports conversion for walk-in and reservation enquiries",
+      "Implement LocalBusiness and Restaurant schema markup to strengthen local search appearance"
+    ],
+    "p3_strategic_enhancements": [
+      "Introduce a lightweight specials or events section to generate periodic fresh content — low editorial commitment and supports long-term local SEO visibility"
+    ]
+  },
+  "assumptions_and_unknowns": [
+    "Hosting provider is unknown",
+    "Click-to-call presence was not confirmed in input signals",
+    "Social media links and profiles were not included in the input",
+    "Full mobile layout details such as font sizes and tap target sizes were not available — mobile UX assessment is based on the provided rating only"
+  ],
+  "next_best_action": "Share a short conversion improvement plan focused on booking system integration and propose a 15 minute call to walk through the recommendations"
+}

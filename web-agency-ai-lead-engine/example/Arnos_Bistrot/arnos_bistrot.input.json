@@ -1,0 +1,20 @@
+{
+  "business_name": "Arnos Bistrot",
+  "website": "https://arnosbistrot.com/",
+  "location": "Westport, Co. Mayo, Ireland",
+  "industry": "Hospitality, Restaurant",
+  "source": "Google Maps",
+  "signals": {
+    "ssl_active": true,
+    "platform": "WordPress",
+    "pagespeed_mobile": 65,
+    "pagespeed_desktop": 98,
+    "mobile_ux": "ok",
+    "has_contact_form": true,
+    "has_booking_system": false,
+    "has_blog_or_updates": false,
+    "reviews_rating": 4.9,
+    "reviews_count": 293
+  },
+  "notes": "Static content structure, strong Google rating, testimonials manually displayed, no dynamic content section."
+}

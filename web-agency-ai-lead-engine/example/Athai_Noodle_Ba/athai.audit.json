@@ -1,0 +1,55 @@
+{
+  "business_name": "a Thai Noodle Bar",
+  "audit_focus_area": "Conversion audit",
+  "opportunity_level": "Low",
+  "primary_service_angle": "Conversion optimization",
+  "audit_summary": "a Thai Noodle Bar has a well-structured, high-performing website with strong mobile experience, booking functionality, and clear call to action placement throughout. All core conversion and performance signals are positive, with no immediate gaps identified. Ongoing maintenance and content freshness represent the only long-term considerations for this lead.",
+  "findings": {
+    "performance": [
+      "Mobile PageSpeed score of 97 is strong — no performance issues identified from available signals",
+      "Desktop PageSpeed score of 99 is strong — site appears well-optimised at a technical level"
+    ],
+    "mobile_ux": [
+      "Mobile UX is rated good — notes confirm the mobile layout appears well-optimised with readable typography and consistent branding",
+      "No usability improvements are indicated from current signals"
+    ],
+    "conversion": [
+      "Booking system is present — the primary conversion pathway for a hospitality business is in place",
+      "Contact form is present — secondary enquiry pathway is covered",
+      "Notes confirm clear call to action placement and defined service sections — conversion flow appears well structured"
+    ],
+    "seo_fundamentals": [
+      "Structured signal indicates no blog or updates section — however notes state a blog or update section is present with structured content. This signal conflict should be verified before drawing conclusions.",
+      "Multi-page structure with defined service sections noted — content depth appears reasonable",
+      "Location data available (Westport, Co. Mayo) — LocalBusiness and Restaurant schema markup would strengthen local search appearance if not already implemented"
+    ],
+    "trust_social_proof": [
+      "Google rating of 4.6 across 102 reviews is a solid trust signal",
+      "Testimonial display method was not noted in the input — worth confirming whether reviews are dynamically embedded or manually managed"
+    ],
+    "security_maintenance": [
+      "SSL is active — secure browsing is in place",
+      "Site runs on WordPress — routine theme, plugin, and core updates are recommended to maintain stability and performance over time"
+    ]
+  },
+  "prioritised_recommendations": {
+    "p1_quick_wins": [
+      "Clarify and resolve the blog signal inconsistency — confirm whether a blog or updates section exists and ensure it is reflected accurately in the lead record before any outreach"
+    ],
+    "p2_growth_improvements": [
+      "Implement LocalBusiness and Restaurant schema markup if not already in place — supports local search visibility with no impact on site design",
+      "Confirm Google Reviews are dynamically surfaced on the site rather than manually managed — reduces maintenance and keeps social proof current"
+    ],
+    "p3_strategic_enhancements": [
+      "Sustain content freshness on any existing blog or updates section to maintain organic search signals as the site matures"
+    ]
+  },
+  "assumptions_and_unknowns": [
+    "Hosting provider is unknown",
+    "Click-to-call presence was not confirmed in input signals",
+    "Social media links and profiles were not included in the input",
+    "Blog signal conflict: has_blog_or_updates is false in structured signals but notes state a blog section is present — verify before using this record for outreach",
+    "Schema markup presence cannot be confirmed from public signals alone"
+  ],
+  "next_best_action": "No immediate outreach action required — resolve the blog signal inconsistency, then schedule a light-touch check-in in 6 to 12 months to review content freshness and maintenance status"
+}
