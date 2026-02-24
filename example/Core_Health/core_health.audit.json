@@ -1,0 +1,56 @@
+{
+  "business_name": "Core Health and Performance",
+  "audit_focus_area": "SEO optimisation audit",
+  "opportunity_level": "Medium",
+  "primary_service_angle": "SEO optimization",
+  "audit_summary": "Core Health and Performance has a clean, well-presented website with a perfect Google rating and solid desktop performance. The primary opportunity is the absence of a content or blog section, which limits ongoing search visibility for a health and fitness business. Adding a content section alongside an online booking pathway would directly address the two most actionable gaps.",
+  "findings": {
+    "performance": [
+      "Mobile PageSpeed score of 63 indicates moderate performance — possible contributing factors include platform script overhead or unoptimised images, though this cannot be confirmed from public signals alone",
+      "Desktop PageSpeed score of 93 is strong — the core build performs well on desktop"
+    ],
+    "mobile_ux": [
+      "Mobile UX is rated ok — the site is functional on mobile but may have friction points affecting new client conversion",
+      "For a health and fitness business, ensuring consultation CTAs and contact options are prominent and easily tappable on mobile would support the enquiry pathway"
+    ],
+    "conversion": [
+      "Contact form is present — a basic enquiry pathway is in place",
+      "No booking or consultation system is present — for a health and fitness business this limits the ability of new clients to take a direct next step",
+      "No click-to-call functionality was identified in the input signals"
+    ],
+    "seo_fundamentals": [
+      "No blog or updates section is present — this is the primary SEO gap for a health and professional business where content authority and freshness directly support search visibility",
+      "Notes confirm a single-page static layout with no dynamic content section — limited content depth reduces the number of indexable pages and keyword targets",
+      "Location data available (Westport, Co. Mayo) — LocalBusiness schema markup relevant to health and fitness would strengthen local search appearance if not already implemented"
+    ],
+    "trust_social_proof": [
+      "Perfect 5.0 Google rating across 53 reviews is an exceptional trust signal for a health business",
+      "Testimonials are manually displayed per notes — dynamically embedding live Google Reviews would surface this strong social proof more effectively and reduce ongoing manual effort"
+    ],
+    "security_maintenance": [
+      "SSL is active — secure browsing is in place",
+      "Site runs on Wix — platform-level infrastructure is managed by Wix, though content freshness, image optimisation, and page structure remain within the owner's control"
+    ]
+  },
+  "prioritised_recommendations": {
+    "p1_quick_wins": [
+      "Add a blog or content section covering fitness tips, client stories, or service updates — this is the most direct action to improve organic search visibility for a health business",
+      "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface the perfect 5.0 rating automatically"
+    ],
+    "p2_growth_improvements": [
+      "Add an online consultation or booking request system — reduces friction for new clients and supports conversion from search traffic",
+      "Review mobile performance settings within Wix, particularly image sizing and lazy loading, to move the mobile score from moderate to strong",
+      "Implement LocalBusiness and relevant health business schema markup to strengthen local search appearance"
+    ],
+    "p3_strategic_enhancements": [
+      "Consider expanding from a single-page to a multi-page structure as content grows — supports deeper SEO coverage and improves navigation for returning visitors"
+    ]
+  },
+  "assumptions_and_unknowns": [
+    "Hosting infrastructure is managed by Wix — hosting provider details beyond platform are not applicable",
+    "Click-to-call presence was not confirmed in input signals",
+    "Social media links and profiles were not included in the input",
+    "Schema markup presence cannot be confirmed from public signals alone"
+  ],
+  "next_best_action": "Share a short SEO improvement plan focused on adding a content section, and propose a 15 minute call to discuss how regular updates and a booking system could grow new client enquiries"
+}

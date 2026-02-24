@@ -1,0 +1,48 @@
+{
+  "type": "object",
+  "required": [
+    "business_name",
+    "website",
+    "location",
+    "industry",
+    "source",
+    "signals"
+  ],
+  "properties": {
+    "business_name": { "type": "string" },
+    "website": { "type": ["string", "null"] },
+    "location": { "type": "string" },
+    "industry": { "type": "string" },
+    "source": { "type": "string" },
+    "signals": {
+      "type": "object",
+      "required": [
+        "ssl_active",
+        "platform",
+        "pagespeed_mobile",
+        "mobile_ux",
+        "has_contact_form",
+        "has_booking_system",
+        "has_blog_or_updates",
+        "reviews_rating",
+        "reviews_count"
+      ],
+      "properties": {
+        "ssl_active": { "type": ["boolean", "null"] },
+        "platform": { "type": "string" },
+        "pagespeed_mobile": { "type": ["number", "null"] },
+        "pagespeed_desktop": { "type": ["number", "null"] },
+        "mobile_ux": {
+          "type": "string",
+          "enum": ["good", "ok", "poor", "unknown"]
+        },
+        "has_contact_form": { "type": ["boolean", "null"] },
+        "has_booking_system": { "type": ["boolean", "null"] },
+        "has_blog_or_updates": { "type": ["boolean", "null"] },
+        "reviews_rating": { "type": ["number", "null"] },
+        "reviews_count": { "type": ["number", "null"] }
+      }
+    },
+    "notes": { "type": "string" }
+  }
+}

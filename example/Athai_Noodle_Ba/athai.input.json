@@ -1,0 +1,20 @@
+{
+  "business_name": "a Thai Noodle Bar",
+  "website": "https://athai.ie/",
+  "location": "Westport, Co. Mayo, Ireland",
+  "industry": "Hospitality and Restaurant",
+  "source": "Google Maps",
+  "signals": {
+    "ssl_active": true,
+    "platform": "WordPress",
+    "pagespeed_mobile": 97,
+    "pagespeed_desktop": 99,
+    "mobile_ux": "good",
+    "has_contact_form": true,
+    "has_booking_system": true,
+    "has_blog_or_updates": false,
+    "reviews_rating": 4.6,
+    "reviews_count": 102
+  },
+  "notes": "Multi page structure with clear navigation and defined service sections. Strong visual hierarchy, readable typography, and consistent branding. Clear call to action placement and mobile layout appears well optimised. Blog or update section present with structured content."
+}

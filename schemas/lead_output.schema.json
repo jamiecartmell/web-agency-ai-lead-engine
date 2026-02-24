@@ -1,0 +1,55 @@
+{
+  "type": "object",
+  "required": [
+    "business_name",
+    "website_status",
+    "opportunity_level",
+    "primary_service_angle",
+    "urgency_level",
+    "confidence_score",
+    "top_visible_issues",
+    "outreach_hook"
+  ],
+  "properties": {
+    "business_name": { "type": "string" },
+    "website_status": {
+      "type": "string",
+      "enum": [
+        "No website",
+        "Basic website",
+        "Modern website",
+        "Modern optimized website"
+      ]
+    },
+    "opportunity_level": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low"]
+    },
+    "primary_service_angle": {
+      "type": "string",
+      "enum": [
+        "New website build",
+        "Website redesign",
+        "Security and maintenance",
+        "SEO optimization",
+        "Hosting and performance upgrade",
+        "Conversion optimization"
+      ]
+    },
+    "urgency_level": {
+      "type": "string",
+      "enum": ["Immediate", "Moderate", "Long term"]
+    },
+    "confidence_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "top_visible_issues": {
+      "type": "array",
+      "maxItems": 3,
+      "items": { "type": "string" }
+    },
+    "outreach_hook": { "type": "string" }
+  }
+}

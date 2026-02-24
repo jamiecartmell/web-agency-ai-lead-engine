@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "required": [
+    "business_name",
+    "audit_focus_area",
+    "opportunity_level",
+    "primary_service_angle",
+    "audit_summary",
+    "findings",
+    "prioritised_recommendations",
+    "next_best_action"
+  ],
+  "properties": {
+    "business_name": { "type": "string" },
+    "audit_focus_area": { "type": "string" },
+    "opportunity_level": { "type": "string" },
+    "primary_service_angle": { "type": "string" },
+    "audit_summary": { "type": "string" },
+    "findings": { "type": "object" },
+    "prioritised_recommendations": { "type": "object" },
+    "assumptions_and_unknowns": { "type": "array" },
+    "next_best_action": { "type": "string" }
+  }
+}
