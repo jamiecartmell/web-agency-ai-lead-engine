@@ -1,0 +1,38 @@
+{
+  "business_name": "Core Health and Performance",
+  "vertical_bucket": "Health and Wellness",
+  "what_matters_in_this_vertical": [
+    "Online booking for consultations and sessions",
+    "Trust signals including reviews, qualifications, and testimonials",
+    "Educational content that demonstrates expertise",
+    "Service clarity so prospective clients understand what is offered",
+    "Local search visibility for health-related intent queries"
+  ],
+  "likely_customer_intent": [
+    "Find a local fitness or health specialist they can trust",
+    "Understand what services and programmes are available",
+    "Read reviews or testimonials before making contact",
+    "Book an initial consultation or session online",
+    "Check location and contact details quickly on mobile"
+  ],
+  "commercial_risk_if_unaddressed": "Without an online booking pathway or regularly updated content, prospective clients who find Core Health through search or referral have no direct next step — they are likely to contact a competitor who makes it easier to act. The absence of a content section also limits ongoing search visibility in a vertical where educational authority directly supports new client acquisition.",
+  "strongest_positioning_angle": "Core Health and Performance has an exceptional 5.0 Google rating across 53 reviews — a rare trust asset in the health and wellness space — but the current site offers no way to convert that reputation into booked consultations or sessions.",
+  "top_3_outreach_talking_points": [
+    "Your 5.0 Google rating is one of the strongest trust signals we see in the fitness space — we can help you surface that on your website and connect it directly to a booking pathway so prospective clients can act on it immediately.",
+    "Health and wellness businesses that add a content section covering tips, client success stories, or service updates consistently see improvements in local search visibility — this is the most practical step to grow organic traffic without paid advertising.",
+    "Adding an online consultation or session booking system removes a key friction point for new clients — many people searching for fitness support will move on quickly if they cannot take a direct next step from your website."
+  ],
+  "likely_objections": [
+    "We already have a website and it works fine for us",
+    "Most of our new clients come from word of mouth or Instagram",
+    "We tried a booking system before and it was more hassle than it was worth",
+    "We are too busy running the business to focus on the website right now"
+  ],
+  "recommended_offer_angle": "Position an entry-point offer around a content and booking package: a simple blog setup and an integrated consultation booking system, framed as a growth package for health and wellness businesses. This directly addresses both audit gaps and is easy to scope for a fixed-price proposal.",
+  "unknowns_to_clarify": [
+    "Is there an existing social media presence that could be linked to the website and used as a source for initial blog content?",
+    "Is the business currently taking bookings by phone or email — and how many enquiries per week does this generate?",
+    "Are Google Reviews dynamically embedded on the site or displayed manually — confirming this determines the complexity of the trust signal improvement",
+    "Is the business open to a phased approach — booking system first, content section second — or does the owner prefer a single combined project?"
+  ]
+}

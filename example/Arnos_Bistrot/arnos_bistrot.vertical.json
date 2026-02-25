@@ -1,0 +1,38 @@
+{
+  "business_name": "Arnos Bistrot",
+  "vertical_bucket": "Hospitality",
+  "what_matters_in_this_vertical": [
+    "Online table booking and reservation pathway",
+    "Mobile conversion for on-the-go diners",
+    "Surfacing review credibility directly on the site",
+    "Click-to-call accessibility for quick enquiries",
+    "Local search visibility for dining intent queries"
+  ],
+  "likely_customer_intent": [
+    "Find a restaurant to book for a specific occasion",
+    "Check availability and book a table online",
+    "Read reviews before deciding where to dine",
+    "Get directions or call quickly from a mobile device",
+    "Browse the menu before visiting or booking"
+  ],
+  "commercial_risk_if_unaddressed": "With no online booking system in place, Arnos Bistrot is likely losing reservation intent to competitors who offer a direct booking pathway — particularly from mobile users who expect to complete the action in the moment. A 4.9 Google rating across 293 reviews is generating significant trust, but without a booking CTA, that traffic has nowhere to convert.",
+  "strongest_positioning_angle": "Arnos Bistrot has one of the strongest review profiles in its local area — a 4.9 rating across 293 reviews — but the website currently cannot convert that credibility into reservations because there is no online booking system.",
+  "top_3_outreach_talking_points": [
+    "With 293 Google reviews and a 4.9 rating, you have exceptional social proof driving people to your website — adding an online booking system would let that reputation directly fill tables without relying on phone calls or third-party platforms.",
+    "Most restaurant bookings today start on a mobile device — your site performs reasonably well on mobile, and adding a prominent reservation button would give those visitors an immediate path to action.",
+    "Embedding your Google Reviews directly on the site rather than displaying them manually means your social proof stays current automatically and carries more weight with new visitors comparing their options."
+  ],
+  "likely_objections": [
+    "We take bookings over the phone and it works well enough",
+    "We are already listed on third-party booking platforms",
+    "We tried a booking plugin before and it caused issues with the site",
+    "We do not have time to manage another system"
+  ],
+  "recommended_offer_angle": "Lead with a focused booking conversion package: integrate an online reservation system, add a click-to-call button, and embed Google Reviews dynamically. Frame this as a single-outcome project — more direct bookings without relying on third-party platforms — with a clear fixed price and minimal ongoing management required from the owner.",
+  "unknowns_to_clarify": [
+    "Is the business currently listed on any third-party booking platform such as OpenTable or Bookatable — if so, direct integration may be preferred over a standalone booking system",
+    "How many reservations per week currently come via phone versus walk-in — this helps frame the value of an online booking pathway",
+    "Is there a click-to-call button currently visible on mobile, as this was not confirmed in the input signals",
+    "Does the business have active social media profiles that could be linked from the site to support local visibility"
+  ]
+}

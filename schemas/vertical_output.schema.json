@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vertical Context Analyzer Output",
+  "description": "Output schema for Skill 3: Vertical Context Analyzer",
+  "type": "object",
+  "required": [
+    "business_name",
+    "vertical_bucket",
+    "what_matters_in_this_vertical",
+    "likely_customer_intent",
+    "commercial_risk_if_unaddressed",
+    "strongest_positioning_angle",
+    "top_3_outreach_talking_points",
+    "likely_objections",
+    "recommended_offer_angle",
+    "unknowns_to_clarify"
+  ],
+  "properties": {
+    "business_name": {
+      "type": "string"
+    },
+    "vertical_bucket": {
+      "type": "string",
+      "enum": [
+        "Hospitality",
+        "Health and Wellness",
+        "Trades and Local Services",
+        "Professional Services",
+        "Ecommerce and Retail",
+        "Other"
+      ]
+    },
+    "what_matters_in_this_vertical": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 5
+    },
+    "likely_customer_intent": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 5
+    },
+    "commercial_risk_if_unaddressed": {
+      "type": "string"
+    },
+    "strongest_positioning_angle": {
+      "type": "string"
+    },
+    "top_3_outreach_talking_points": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "likely_objections": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 2,
+      "maxItems": 4
+    },
+    "recommended_offer_angle": {
+      "type": "string"
+    },
+    "unknowns_to_clarify": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 2,
+      "maxItems": 4
+    }
+  },
+  "additionalProperties": false
+}

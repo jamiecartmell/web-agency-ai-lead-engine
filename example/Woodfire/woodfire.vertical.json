@@ -1,0 +1,38 @@
+{
+  "business_name": "Woodfire Westport",
+  "vertical_bucket": "Hospitality",
+  "what_matters_in_this_vertical": [
+    "Online table booking and reservation pathway",
+    "Mobile conversion for on-the-go diners",
+    "Surfacing review credibility directly on the site",
+    "Click-to-call accessibility for quick enquiries",
+    "Local search visibility for dining intent queries"
+  ],
+  "likely_customer_intent": [
+    "Find a highly-rated local restaurant",
+    "Book a table or check availability online",
+    "Read reviews before deciding where to eat",
+    "Call or get directions quickly from a mobile device",
+    "View the menu and understand the food offering"
+  ],
+  "commercial_risk_if_unaddressed": "Woodfire Westport has 573 Google reviews driving a steady flow of reputation-led traffic to a website that currently offers no contact form, no booking system, and no enquiry pathway. Every visitor who cannot act on that intent is a potential customer lost to a competitor who makes the next step easier. This is an active and ongoing conversion loss, not a future risk.",
+  "strongest_positioning_angle": "With 573 Google reviews and a 4.6 rating, Woodfire Westport is already generating significant reputation-driven traffic — the urgent opportunity is giving those visitors somewhere to go by adding a basic contact or booking pathway before competitors with comparable ratings do.",
+  "top_3_outreach_talking_points": [
+    "You have 573 Google reviews — one of the strongest local restaurant profiles we have come across — but the website currently has no way for visitors to book, enquire, or even call directly. Adding a contact form and booking system would immediately put that reputation to work.",
+    "A click-to-call button alone is one of the lowest-effort, highest-return additions for a restaurant website — mobile users looking to check availability or make a reservation expect to be able to tap and call in seconds.",
+    "Embedding your Google Reviews on the site rather than leaving them only on Google means new visitors see your reputation the moment they land — not just the ones who already searched for you specifically."
+  ],
+  "likely_objections": [
+    "We are very busy already and do not need more bookings right now",
+    "Customers can find us on Google — the website is just there for information",
+    "We do not want to add anything that takes time to manage",
+    "We have been meaning to update the site but have not had time"
+  ],
+  "recommended_offer_angle": "Lead with an urgent, minimal-commitment entry offer: a contact form, click-to-call button, and embedded Google Reviews widget — positioned as a quick conversion fix that takes days not weeks and requires no ongoing management from the owner. Frame it as closing a gap that is actively costing bookings right now, with the booking system as a clear natural next step.",
+  "unknowns_to_clarify": [
+    "Does the business currently take bookings by phone, walk-in only, or through a third-party platform — this determines which booking solution to recommend",
+    "Is there an active social media presence that could be linked from the site and used to support a content strategy",
+    "Is the owner aware the website has no contact or enquiry pathway, or has this not been flagged before",
+    "What is the hosting setup — WordPress theme, hosting provider, and maintenance history would inform a scoped maintenance recommendation"
+  ]
+}
