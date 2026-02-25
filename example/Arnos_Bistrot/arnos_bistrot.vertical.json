@@ -15,24 +15,24 @@
     "Get directions or call quickly from a mobile device",
     "Browse the menu before visiting or booking"
   ],
-  "commercial_risk_if_unaddressed": "With no online booking system in place, Arnos Bistrot is likely losing reservation intent to competitors who offer a direct booking pathway — particularly from mobile users who expect to complete the action in the moment. A 4.9 Google rating across 293 reviews is generating significant trust, but without a booking CTA, that traffic has nowhere to convert.",
-  "strongest_positioning_angle": "Arnos Bistrot has one of the strongest review profiles in its local area — a 4.9 rating across 293 reviews — but the website currently cannot convert that credibility into reservations because there is no online booking system.",
+  "commercial_risk_if_unaddressed": "Arnos Bistrot has strong conversion infrastructure in place with a booking system and contact form, but the 4.9 Google rating across 293 reviews is only displayed manually rather than dynamically embedded — reducing the visibility and credibility of that trust signal for new visitors. Without a content section, the site also has limited ongoing search visibility for a business with this level of local demand.",
+  "strongest_positioning_angle": "Arnos Bistrot already has the booking system and review credibility that most competitors lack — the opportunity is making that reputation visible and searchable by embedding reviews dynamically and adding a lightweight content section.",
   "top_3_outreach_talking_points": [
-    "With 293 Google reviews and a 4.9 rating, you have exceptional social proof driving people to your website — adding an online booking system would let that reputation directly fill tables without relying on phone calls or third-party platforms.",
-    "Most restaurant bookings today start on a mobile device — your site performs reasonably well on mobile, and adding a prominent reservation button would give those visitors an immediate path to action.",
-    "Embedding your Google Reviews directly on the site rather than displaying them manually means your social proof stays current automatically and carries more weight with new visitors comparing their options."
+    "With 293 Google reviews and a 4.9 rating, you have one of the strongest reputations of any restaurant in Westport — embedding those reviews dynamically on the site means every new visitor sees that social proof the moment they land, rather than only those who already searched for you on Google.",
+    "A lightweight content section covering specials, seasonal menus, or local events would give the site regular fresh signals and help it appear for more local dining searches without significant ongoing effort from you.",
+    "Adding a click-to-call button on mobile is one of the lowest-effort improvements available — for a restaurant audience browsing on the go, being able to call in one tap removes a step that costs bookings."
   ],
   "likely_objections": [
-    "We take bookings over the phone and it works well enough",
-    "We are already listed on third-party booking platforms",
-    "We tried a booking plugin before and it caused issues with the site",
-    "We do not have time to manage another system"
+    "The website is already working fine and we get good bookings through it",
+    "We do not have time to write content or maintain a blog",
+    "We are already listed on Google and people can find our reviews there",
+    "We do not want to change anything that might affect the booking system"
   ],
-  "recommended_offer_angle": "Lead with a focused booking conversion package: integrate an online reservation system, add a click-to-call button, and embed Google Reviews dynamically. Frame this as a single-outcome project — more direct bookings without relying on third-party platforms — with a clear fixed price and minimal ongoing management required from the owner.",
+  "recommended_offer_angle": "Lead with a trust and visibility package: dynamically embed Google Reviews, add a click-to-call button, and set up a lightweight content section with an initial batch of posts. Frame it as making the existing strong foundation work harder — not adding complexity — with a clear fixed scope and a low ongoing content commitment.",
   "unknowns_to_clarify": [
-    "Is the business currently listed on any third-party booking platform such as OpenTable or Bookatable — if so, direct integration may be preferred over a standalone booking system",
-    "How many reservations per week currently come via phone versus walk-in — this helps frame the value of an online booking pathway",
     "Is there a click-to-call button currently visible on mobile, as this was not confirmed in the input signals",
+    "Does the business have active social media profiles that could provide initial content for a specials or updates section",
+    "Is the existing booking system self-managed or handled by a third party, as this affects what can be changed around it",
     "Does the business have active social media profiles that could be linked from the site to support local visibility"
   ]
 }

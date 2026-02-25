@@ -11,7 +11,7 @@
     "pagespeed_desktop": 98,
     "mobile_ux": "ok",
     "has_contact_form": true,
-    "has_booking_system": false,
+    "has_booking_system": true,
     "has_blog_or_updates": false,
     "reviews_rating": 4.9,
     "reviews_count": 293

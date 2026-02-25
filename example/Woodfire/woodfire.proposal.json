@@ -1,0 +1,20 @@
+{
+  "business_name": "Woodfire Westport",
+  "proposal_type": "Conversion Sprint",
+  "problem_summary": "Woodfire Westport has 573 Google reviews at a 4.6 rating — a strong public reputation that is already driving traffic to the website. The site currently has no contact form, booking system, or click-to-call button, meaning visitors who arrive with intent to enquire or reserve have no way to act from the site itself. Addressing this is the single highest-impact improvement available and does not require any structural changes to the existing build.",
+  "recommended_solution": "A focused Conversion Sprint to add an enquiry form, click-to-call button, and online reservation system — giving visitors a clear and direct path to contact or book, and putting the existing review-driven traffic to practical use.",
+  "scope_of_work": [
+    "Add a contact or enquiry form to the homepage with email notification and confirmation response",
+    "Implement a click-to-call button visible on mobile, positioned prominently for on-the-go visitors",
+    "Integrate an online reservation or booking system with a confirmation flow and calendar management"
+  ],
+  "expected_outcomes": [
+    "Visitors arriving via Google search or review platforms should have a direct way to enquire or reserve without needing to call or visit in person",
+    "Mobile conversion is likely to improve as visitors browsing on the go can act immediately from the site",
+    "The 573-review reputation already earned on Google should translate more directly into measurable site interactions"
+  ],
+  "timeline_estimate": "1 to 2 weeks",
+  "engagement_model": "One-time project",
+  "next_steps": "Schedule a 15 minute call this week to confirm the preferred booking system, agree the contact form placement, and set a start date.",
+  "risks_if_delayed": "Every week without a contact or booking pathway means reputation-driven visitors continue to have no direct route to engage — and the gap between the business's public credibility and its website remains unresolved."
+}

@@ -3,7 +3,7 @@
   "audit_focus_area": "Conversion audit",
   "opportunity_level": "Medium",
   "primary_service_angle": "Conversion optimization",
-  "audit_summary": "Arnos Bistrot has a well-maintained WordPress website with strong desktop performance and excellent Google review signals. The primary opportunity is the absence of an online booking or reservation pathway, which is a clear gap for a hospitality business with demonstrated demand. Secondary improvements to mobile performance and testimonial integration would further strengthen conversion.",
+  "audit_summary": "Arnos Bistrot has a well-maintained WordPress website with strong desktop performance, an active booking system, and excellent Google review signals. The primary opportunity is to surface that 4.9 Google rating dynamically on the site rather than relying on manually displayed testimonials, and to add a content section to support ongoing local search visibility. Mobile performance and click-to-call also represent secondary improvements.",
   "findings": {
     "performance": [
       "Mobile PageSpeed score of 65 indicates moderate performance — possible causes include unoptimised images or render-blocking scripts, though this cannot be confirmed from public signals alone",
@@ -15,8 +15,8 @@
     ],
     "conversion": [
       "Contact form is present — basic enquiry pathway is in place",
-      "No booking system is present — for a hospitality business this is the most direct conversion gap",
-      "No click-to-call functionality was identified in the input signals"
+      "Booking system is present — the primary reservation pathway for a hospitality business is in place",
+      "No click-to-call functionality was identified in the input signals — adding this would complete the mobile enquiry pathway"
     ],
     "seo_fundamentals": [
       "No blog or updates section is present — static content structure limits fresh content signals",
@@ -34,16 +34,16 @@
   },
   "prioritised_recommendations": {
     "p1_quick_wins": [
-      "Add an online booking or reservation system — this is the highest-priority conversion improvement for a hospitality business with strong review demand",
-      "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface live social proof without ongoing manual effort"
+      "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface the 4.9 rating and 293 reviews automatically without ongoing manual effort",
+      "Add a click-to-call button visible on mobile — low effort and directly supports conversion for visitors browsing on the go"
     ],
     "p2_growth_improvements": [
       "Investigate and address mobile PageSpeed — image compression and deferring non-critical scripts are common quick gains that could move the score from moderate to strong",
-      "Add a click-to-call button visible on mobile — low effort and directly supports conversion for walk-in and reservation enquiries",
-      "Implement LocalBusiness and Restaurant schema markup to strengthen local search appearance"
+      "Implement LocalBusiness and Restaurant schema markup to strengthen local search appearance",
+      "Introduce a lightweight specials or events section to generate periodic fresh content and support ongoing local SEO visibility"
     ],
     "p3_strategic_enhancements": [
-      "Introduce a lightweight specials or events section to generate periodic fresh content — low editorial commitment and supports long-term local SEO visibility"
+      "Add a blog or updates section with a low-commitment content plan — service highlights, seasonal menus, or local events would support long-term organic search visibility"
     ]
   },
   "assumptions_and_unknowns": [
@@ -52,5 +52,5 @@
     "Social media links and profiles were not included in the input",
     "Full mobile layout details such as font sizes and tap target sizes were not available — mobile UX assessment is based on the provided rating only"
   ],
-  "next_best_action": "Share a short conversion improvement plan focused on booking system integration and propose a 15 minute call to walk through the recommendations"
+  "next_best_action": "Share a short improvement plan focused on dynamically embedding the Google Reviews and adding a click-to-call button, and propose a short call to discuss how a content section could support ongoing local search visibility"
 }

@@ -1,0 +1,16 @@
+{
+  "business_name": "Woodfire Westport",
+  "recipient_role_guess": "Owner or Manager",
+  "subject_options": [
+    "Woodfire Westport — one thing missing from your site",
+    "573 reviews, no contact form — worth fixing",
+    "Quick improvement for Woodfire Westport"
+  ],
+  "email_body": "I came across Woodfire Westport while researching restaurants in the area and wanted to reach out directly.\n\nYou have 573 Google reviews at 4.6 — that is a strong reputation driving real traffic to your site. The one gap I noticed is that there is currently no contact form or booking pathway on the website, so visitors have no direct way to act on that interest.\n\nI work with hospitality businesses in the west of Ireland on exactly this kind of improvement. A short conversion sprint — adding a contact form, click-to-call button, and reservation system — is typically a 7 to 10 day project with no disruption to your existing setup.\n\nWould you have 15 minutes this week for a quick call so I can walk you through what that would involve?\n\nBest regards\n[Your name]",
+  "cta": "Would you have 15 minutes this week for a quick call so I can walk you through what that would involve?",
+  "follow_up_body": "I wanted to follow up on my email from last week about Woodfire Westport. With 573 Google reviews already working in your favour, adding a contact form and booking pathway to the site is a straightforward project that would give visitors a direct way to act. I can put together a short outline of what is involved if that would be easier to review. Would this be something worth looking at over the coming weeks?",
+  "personalisation_tokens_used": [
+    "573 Google reviews at 4.6 rating",
+    "No contact form or booking system present on the website"
+  ]
+}

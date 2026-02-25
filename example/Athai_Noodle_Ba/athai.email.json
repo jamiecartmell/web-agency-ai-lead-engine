@@ -1,0 +1,16 @@
+{
+  "business_name": "a Thai Noodle Bar",
+  "recipient_role_guess": "Owner or Manager",
+  "subject_options": [
+    "a Thai Noodle Bar — keeping a well-built site in good shape",
+    "WordPress maintenance for a Thai Noodle Bar",
+    "a Thai Noodle Bar — a couple of small improvements worth noting"
+  ],
+  "email_body": "I came across a Thai Noodle Bar while looking at restaurants in Westport and wanted to get in touch.\n\nYour site is well put together — strong mobile performance, clear layout, and a booking system already in place. The main thing worth keeping an eye on is ongoing WordPress maintenance, as sites with a strong setup like yours benefit from regular updates to stay performing at that level.\n\nThere are also a couple of small additions — local schema markup and confirming your Google Reviews are dynamically embedded — that are low effort and would strengthen how the site appears in local search.\n\nI offer a monthly WordPress care plan that covers routine maintenance and picks up improvements like these as part of the service. Happy to set up a light review call if that sounds like something worth a conversation.\n\nBest regards\n[Your name]",
+  "cta": "Happy to set up a light review call if that sounds like something worth a conversation.",
+  "follow_up_body": "Just a quick follow-up on my message from last week. The care plan I mentioned covers routine WordPress maintenance alongside a couple of low-effort improvements to local search visibility — schema markup and confirming your Google Reviews are displaying dynamically. No commitment involved in having a conversation. Is this something you would be open to looking at?",
+  "personalisation_tokens_used": [
+    "Mobile PageSpeed score of 97 — strong technical performance",
+    "WordPress platform with booking system already in place"
+  ]
+}

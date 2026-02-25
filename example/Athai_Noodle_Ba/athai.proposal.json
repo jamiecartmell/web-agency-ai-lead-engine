@@ -1,0 +1,20 @@
+{
+  "business_name": "a Thai Noodle Bar",
+  "proposal_type": "Maintenance Retainer",
+  "problem_summary": "a Thai Noodle Bar has a well-performing WordPress website with strong mobile scores, a booking system, and clear conversion pathways already in place. The site is technically sound, but ongoing WordPress maintenance is required to sustain that performance level — and two small improvements, local schema markup and confirming dynamic Google Reviews embedding, remain unaddressed.",
+  "recommended_solution": "A monthly WordPress care plan covering routine maintenance and scheduled updates, with a one-time setup of LocalBusiness schema markup and Google Reviews dynamic embedding included in the first month.",
+  "scope_of_work": [
+    "Monthly WordPress core, theme, and plugin updates on a scheduled basis to maintain performance and stability",
+    "One-time implementation of LocalBusiness and Restaurant schema markup to strengthen local search appearance",
+    "Confirm and set up dynamic Google Reviews embedding if reviews are currently managed manually, ensuring social proof stays current without ongoing effort"
+  ],
+  "expected_outcomes": [
+    "Routine WordPress maintenance is likely to prevent the performance degradation that can occur over time as plugins and themes fall out of date",
+    "LocalBusiness schema markup should improve how a Thai Noodle Bar appears in local search results for dining queries in the Westport area",
+    "Dynamic Google Reviews embedding reduces ongoing manual effort and ensures the 4.6 rating remains consistently visible to new visitors"
+  ],
+  "timeline_estimate": "Ongoing monthly retainer, schema and reviews setup in week 1",
+  "engagement_model": "Monthly retainer",
+  "next_steps": "Schedule a light review call to confirm the current WordPress setup, check the schema requirements, and agree a monthly maintenance schedule.",
+  "risks_if_delayed": "Without a maintenance plan, the current strong performance baseline is not actively protected — and the two small open improvements continue to leave marginal local search visibility on the table."
+}

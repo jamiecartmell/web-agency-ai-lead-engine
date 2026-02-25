@@ -1,0 +1,108 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Angle Strategy Engine Output",
+  "description": "Output schema for Skill 4: Angle Strategy Engine",
+  "type": "object",
+  "required": [
+    "business_name",
+    "opportunity_level",
+    "vertical_bucket",
+    "primary_service_angle",
+    "primary_angle_type",
+    "angle_summary",
+    "proof_points",
+    "recommended_offer_type",
+    "offer_scope_points",
+    "personalisation_notes",
+    "suggested_cta",
+    "avoid_saying",
+    "unknowns_to_confirm"
+  ],
+  "properties": {
+    "business_name": {
+      "type": "string"
+    },
+    "opportunity_level": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low"]
+    },
+    "vertical_bucket": {
+      "type": "string",
+      "enum": [
+        "Hospitality",
+        "Health and Wellness",
+        "Trades and Local Services",
+        "Professional Services",
+        "Ecommerce and Retail",
+        "Other"
+      ]
+    },
+    "primary_service_angle": {
+      "type": "string",
+      "enum": [
+        "New website build",
+        "Security and maintenance",
+        "Hosting and performance upgrade",
+        "Conversion optimization",
+        "SEO optimization"
+      ]
+    },
+    "primary_angle_type": {
+      "type": "string",
+      "enum": [
+        "Conversion unlock",
+        "Performance and UX uplift",
+        "Local SEO growth",
+        "Trust and social proof leverage",
+        "Maintenance and risk reduction"
+      ]
+    },
+    "angle_summary": {
+      "type": "string"
+    },
+    "proof_points": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "recommended_offer_type": {
+      "type": "string",
+      "enum": [
+        "Quick win package (fixed scope, 7 to 14 days)",
+        "Audit and action plan (paid or credited)",
+        "Monthly care plan (maintenance retainer)",
+        "Conversion sprint (booking, contact, CTA)",
+        "Local SEO starter (schema, pages, content plan)"
+      ]
+    },
+    "offer_scope_points": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "personalisation_notes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "suggested_cta": {
+      "type": "string"
+    },
+    "avoid_saying": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "unknowns_to_confirm": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 2,
+      "maxItems": 2
+    }
+  },
+  "additionalProperties": false
+}

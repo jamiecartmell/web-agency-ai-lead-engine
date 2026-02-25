@@ -1,0 +1,32 @@
+{
+  "business_name": "a Thai Noodle Bar",
+  "opportunity_level": "Low",
+  "vertical_bucket": "Hospitality",
+  "primary_service_angle": "Conversion optimization",
+  "primary_angle_type": "Maintenance and risk reduction",
+  "angle_summary": "a Thai Noodle Bar has a well-performing, well-converting website with no immediate gaps requiring urgent attention. The opportunity is a proactive WordPress maintenance retainer that protects the existing strong position and includes a small number of low-effort improvements to local search visibility.",
+  "proof_points": [
+    "Site runs on WordPress with mobile PageSpeed of 97 and desktop of 99 — technically strong but reliant on ongoing WordPress maintenance to sustain that performance",
+    "Booking system and contact form are both present — core conversion infrastructure is in place and should be maintained rather than rebuilt",
+    "4.6 Google rating across 102 reviews is a solid trust signal — schema markup and review embedding status are unconfirmed and represent the only open optimisation gaps"
+  ],
+  "recommended_offer_type": "Monthly care plan (maintenance retainer)",
+  "offer_scope_points": [
+    "WordPress core, theme, and plugin updates on a scheduled monthly basis",
+    "LocalBusiness and Restaurant schema markup implementation if not already in place",
+    "Confirm and set up dynamic Google Reviews embedding if reviews are currently managed manually"
+  ],
+  "personalisation_notes": [
+    "Multi-page WordPress site with strong visual hierarchy and clear CTAs noted — the care plan framing of protecting a well-built site is a natural and non-threatening entry point",
+    "4.6 rating across 102 reviews with a booking system already live — this business has the fundamentals right, which makes a low-pressure maintenance relationship easier to open"
+  ],
+  "suggested_cta": "If you ever want a quick check to confirm everything is running as it should be and pick up a couple of easy wins on the SEO side, I am happy to set up a light review call.",
+  "avoid_saying": [
+    "Anything implying the current site has problems or gaps — the low-opportunity framing works precisely because the site is well-built; leading with issues would feel inaccurate and reduce credibility",
+    "Suggesting a redesign or platform change — the site is performing well and there is no signal in the audit that justifies raising this"
+  ],
+  "unknowns_to_confirm": [
+    "Is there an existing WordPress developer or maintenance arrangement in place — if so, the care plan pitch needs to be positioned as an alternative or complement rather than a new addition",
+    "Does the business have a blog or updates section in practice — the input signal conflict on has_blog_or_updates should be resolved before any outreach references content strategy"
+  ]
+}

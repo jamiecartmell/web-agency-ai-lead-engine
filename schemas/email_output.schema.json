@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Email Personalisation Engine Output",
+  "description": "Output schema for Skill 5: Email Personalisation Engine",
+  "type": "object",
+  "required": [
+    "business_name",
+    "recipient_role_guess",
+    "subject_options",
+    "email_body",
+    "cta",
+    "follow_up_body",
+    "personalisation_tokens_used"
+  ],
+  "properties": {
+    "business_name": {
+      "type": "string"
+    },
+    "recipient_role_guess": {
+      "type": "string",
+      "enum": [
+        "Owner or Manager",
+        "Owner or Practice Manager",
+        "Owner",
+        "Director or Practice Manager",
+        "Owner or Marketing Manager"
+      ]
+    },
+    "subject_options": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "email_body": {
+      "type": "string",
+      "description": "Plain text email body, under 170 words, including sign-off"
+    },
+    "cta": {
+      "type": "string",
+      "description": "The CTA sentence extracted from email_body"
+    },
+    "follow_up_body": {
+      "type": "string",
+      "description": "Plain text follow-up email, 60 to 90 words"
+    },
+    "personalisation_tokens_used": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 2,
+      "maxItems": 2
+    }
+  },
+  "additionalProperties": false
+}

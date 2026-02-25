@@ -1,0 +1,32 @@
+{
+  "business_name": "Arnos Bistrot",
+  "opportunity_level": "Medium",
+  "vertical_bucket": "Hospitality",
+  "primary_service_angle": "Conversion optimization",
+  "primary_angle_type": "Trust and social proof leverage",
+  "angle_summary": "Arnos Bistrot has a 4.9 Google rating across 293 reviews and an active booking system — a strong foundation that is not yet fully leveraged on the site. Embedding those reviews dynamically and completing the mobile enquiry pathway would let that reputation actively work for the business without adding complexity.",
+  "proof_points": [
+    "4.9 Google rating across 293 reviews is a strong trust signal that is currently displayed manually rather than dynamically embedded on the site",
+    "Booking system and contact form are both present — core conversion infrastructure is in place and the focus shifts to visibility and mobile completion",
+    "No click-to-call was confirmed in input signals — the mobile enquiry pathway is incomplete for a restaurant audience browsing on the go"
+  ],
+  "recommended_offer_type": "Quick win package (fixed scope, 7 to 14 days)",
+  "offer_scope_points": [
+    "Embed a dynamic Google Reviews widget to surface the 4.9 rating and 293 reviews automatically without ongoing manual effort",
+    "Add a click-to-call button visible on mobile to complete the enquiry pathway for on-the-go visitors",
+    "Implement LocalBusiness and Restaurant schema markup to strengthen local search appearance"
+  ],
+  "personalisation_notes": [
+    "4.9 Google rating across 293 reviews is one of the strongest hospitality review profiles we have seen in Westport — it is the natural hook for any outreach message",
+    "Site runs on WordPress with strong desktop performance (98 PageSpeed) — the quick win package is low risk and achievable without any structural changes"
+  ],
+  "suggested_cta": "I can put together a one-page outline of exactly what this would include and what it would cost — happy to send that over if it would be useful?",
+  "avoid_saying": [
+    "Anything suggesting the business is losing bookings to competitors — the trust framing works better when positioned as making existing demand work harder, not as a competitive threat",
+    "Referencing the static content structure or lack of blog — this is a secondary SEO concern and would dilute the focused conversion and trust angle"
+  ],
+  "unknowns_to_confirm": [
+    "Is click-to-call functionality currently present on mobile — this was not confirmed in the input signals and affects one of the offer scope points",
+    "Is the existing booking system self-managed or handled by a third-party platform — this determines what can be changed around it and how to frame the offer"
+  ]
+}

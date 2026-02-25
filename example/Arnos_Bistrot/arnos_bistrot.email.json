@@ -1,0 +1,16 @@
+{
+  "business_name": "Arnos Bistrot",
+  "recipient_role_guess": "Owner or Manager",
+  "subject_options": [
+    "Arnos Bistrot — making your 4.9 rating work harder",
+    "One small change to surface your Google reviews",
+    "Arnos Bistrot — your reviews deserve more visibility"
+  ],
+  "email_body": "I came across Arnos Bistrot while looking at restaurants in Westport and wanted to get in touch.\n\nA 4.9 Google rating across 293 reviews is genuinely exceptional — one of the strongest profiles I have seen for a restaurant in the area. Right now those reviews are displayed manually on the site rather than embedded dynamically, which means they require ongoing effort to keep current and carry less weight with new visitors than live Google Reviews would.\n\nI help hospitality businesses in the west of Ireland make small, high-impact improvements to how their reputation shows up online. Embedding your reviews dynamically, adding a click-to-call button on mobile, and implementing local schema markup is typically a fixed-scope project completed in under two weeks.\n\nI can put together a one-page outline of exactly what this would include and what it would cost — happy to send that over if it would be useful?\n\nBest regards\n[Your name]",
+  "cta": "I can put together a one-page outline of exactly what this would include and what it would cost — happy to send that over if it would be useful?",
+  "follow_up_body": "Just following up on my message from last week about Arnos Bistrot. A 4.9 rating across 293 reviews is a real asset — embedding those dynamically on the site alongside a click-to-call button would be a quick, fixed-scope project with no disruption to your existing booking setup. Happy to send over a short outline if it would be easier to review at your own pace. Would that be useful?",
+  "personalisation_tokens_used": [
+    "4.9 Google rating across 293 reviews",
+    "Testimonials manually displayed rather than dynamically embedded"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Proposal Generator Output",
+  "description": "Output schema for Skill 6: Proposal Generator",
+  "type": "object",
+  "required": [
+    "business_name",
+    "proposal_type",
+    "problem_summary",
+    "recommended_solution",
+    "scope_of_work",
+    "expected_outcomes",
+    "timeline_estimate",
+    "engagement_model",
+    "next_steps",
+    "risks_if_delayed"
+  ],
+  "properties": {
+    "business_name": {
+      "type": "string"
+    },
+    "proposal_type": {
+      "type": "string",
+      "enum": [
+        "Conversion Sprint",
+        "Local SEO Starter",
+        "Performance Upgrade",
+        "Maintenance Retainer",
+        "Hybrid Package"
+      ]
+    },
+    "problem_summary": {
+      "type": "string"
+    },
+    "recommended_solution": {
+      "type": "string"
+    },
+    "scope_of_work": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "expected_outcomes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "timeline_estimate": {
+      "type": "string"
+    },
+    "engagement_model": {
+      "type": "string",
+      "enum": [
+        "One-time project",
+        "Monthly retainer",
+        "Phased approach (two defined phases)"
+      ]
+    },
+    "next_steps": {
+      "type": "string"
+    },
+    "risks_if_delayed": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

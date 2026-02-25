@@ -1,0 +1,32 @@
+{
+  "business_name": "Woodfire Westport",
+  "opportunity_level": "High",
+  "vertical_bucket": "Hospitality",
+  "primary_service_angle": "Conversion optimization",
+  "primary_angle_type": "Conversion unlock",
+  "angle_summary": "Woodfire Westport is generating strong reputation-led traffic through 573 Google reviews but has no contact form, booking system, or enquiry pathway on the site. Adding a basic conversion layer — contact form, click-to-call, and reservation system — would directly connect that earned credibility to seated customers.",
+  "proof_points": [
+    "No contact form and no booking system are present — visitors currently have no way to enquire or reserve from the website",
+    "573 Google reviews at a 4.6 rating confirm significant public-facing demand that the current site cannot convert",
+    "Mobile PageSpeed of 74 and mobile UX rated ok indicate a functional but unconverted mobile experience with no enquiry route for on-the-go visitors"
+  ],
+  "recommended_offer_type": "Conversion sprint (booking, contact, CTA)",
+  "offer_scope_points": [
+    "Add a contact or enquiry form to the homepage or a dedicated contact section",
+    "Implement a click-to-call button visible on mobile",
+    "Integrate an online reservation or booking system with confirmation flow"
+  ],
+  "personalisation_notes": [
+    "573 Google reviews at 4.6 — one of the strongest public review profiles for a restaurant in the Westport area — makes this a high-credibility lead where conversion framing lands naturally",
+    "The site runs on WordPress with a single-page layout and no dynamic sections — the conversion sprint scope is achievable without structural changes"
+  ],
+  "suggested_cta": "Would you have 15 minutes this week for a quick call — I can walk you through exactly what we would add and how it works?",
+  "avoid_saying": [
+    "Your website is broken or missing basic features — frame it as an opportunity to connect existing demand to action, not as criticism of the current site",
+    "Anything implying the business is losing significant revenue — this risks triggering defensiveness before a relationship is established"
+  ],
+  "unknowns_to_confirm": [
+    "Does the business currently take bookings by phone or through a third-party platform — this determines whether to recommend a standalone booking system or an integration",
+    "Who manages the WordPress site and is there an existing maintenance arrangement in place"
+  ]
+}

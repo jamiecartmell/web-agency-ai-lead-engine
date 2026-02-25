@@ -1,0 +1,20 @@
+{
+  "business_name": "Arnos Bistrot",
+  "proposal_type": "Hybrid Package",
+  "problem_summary": "Arnos Bistrot has a 4.9 Google rating across 293 reviews and an active booking system — strong foundations that are not yet fully leveraged on the website. Reviews are currently displayed manually, which reduces their credibility and requires ongoing effort to keep current. The mobile enquiry pathway is also incomplete, with no confirmed click-to-call button, and the site has no content section to support ongoing local search visibility.",
+  "recommended_solution": "A Hybrid Package covering three complementary improvements: dynamically embedding Google Reviews, adding a click-to-call button on mobile, and implementing local schema markup — delivered as a single fixed-scope project that makes the existing strong foundation work harder without adding complexity.",
+  "scope_of_work": [
+    "Embed a dynamic Google Reviews widget to surface the 4.9 rating and 293 reviews automatically, replacing the current manual testimonial display",
+    "Add a click-to-call button visible on mobile to complete the enquiry pathway for visitors browsing on the go",
+    "Implement LocalBusiness and Restaurant schema markup to strengthen how the business appears in local search results"
+  ],
+  "expected_outcomes": [
+    "Google Reviews displayed dynamically should carry more weight with new visitors and reduce the manual effort required to keep testimonials current",
+    "A click-to-call button is likely to increase direct phone enquiries from mobile visitors who prefer not to use the contact form",
+    "Local schema markup should improve how Arnos Bistrot appears in Google local search results, supporting visibility for dining intent queries in the Westport area"
+  ],
+  "timeline_estimate": "1 to 2 weeks",
+  "engagement_model": "One-time project",
+  "next_steps": "Send a one-page scope outline for review, then schedule a short call to confirm the schema details and agree a start date.",
+  "risks_if_delayed": "The 4.9 Google rating continues to be underutilised on the site — each month without dynamic review embedding is a month where new visitors are not seeing that social proof in its most credible form."
+}

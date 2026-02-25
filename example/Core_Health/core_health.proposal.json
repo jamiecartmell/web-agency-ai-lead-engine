@@ -1,0 +1,20 @@
+{
+  "business_name": "Core Health and Performance",
+  "proposal_type": "Local SEO Starter",
+  "problem_summary": "Core Health and Performance has a perfect 5.0 Google rating across 53 reviews — a strong trust signal for a health and fitness business — but the site is a single-page static layout with no blog or content section. This limits the number of indexable pages and keyword targets available to the site, reducing how often it surfaces for local health and fitness searches beyond the business name. Adding a content section and local schema markup would directly address this gap.",
+  "recommended_solution": "A Local SEO Starter package delivered in two phases: Phase 1 sets up the technical foundation — schema markup, dynamic Google Reviews embedding, and a content section with an initial batch of posts. Phase 2 delivers a lightweight content plan to guide ongoing updates without requiring significant time from the business owner.",
+  "scope_of_work": [
+    "Set up a blog or content section within the existing Wix layout, with an initial 3 to 5 posts covering fitness tips, service overviews, or client success themes",
+    "Implement LocalBusiness schema markup relevant to a health and fitness business to strengthen local search appearance",
+    "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface the 5.0 rating automatically"
+  ],
+  "expected_outcomes": [
+    "A content section with regular updates is likely to increase the number of indexable pages and relevant keyword targets available to the site over time",
+    "LocalBusiness schema markup should improve how Core Health and Performance appears in local search results for health and fitness queries in the Westport area",
+    "Dynamically embedded Google Reviews reduces ongoing manual effort and ensures the 5.0 rating is consistently visible to new visitors"
+  ],
+  "timeline_estimate": "2 to 3 weeks for Phase 1, content plan delivered in week 3",
+  "engagement_model": "Phased approach (two defined phases)",
+  "next_steps": "Schedule a short walkthrough call to confirm the content themes, agree on the schema categories, and set a Phase 1 start date.",
+  "risks_if_delayed": "Without a content section, the site continues to compete for local health and fitness searches on a single static page — which limits long-term organic visibility in a vertical where content authority directly supports new client acquisition."
+}

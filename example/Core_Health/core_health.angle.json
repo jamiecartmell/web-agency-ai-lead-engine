@@ -1,0 +1,32 @@
+{
+  "business_name": "Core Health and Performance",
+  "opportunity_level": "Medium",
+  "vertical_bucket": "Health and Wellness",
+  "primary_service_angle": "SEO optimization",
+  "primary_angle_type": "Local SEO growth",
+  "angle_summary": "Core Health and Performance has a perfect 5.0 Google rating but a static, single-page site with no blog or content section — the primary gap limiting organic search visibility for a health and fitness business. Adding a content section and local schema markup would directly improve discoverability for prospective clients searching for fitness services in Westport.",
+  "proof_points": [
+    "No blog or updates section is present — a static single-page layout with no dynamic content section limits indexable pages and keyword coverage",
+    "5.0 Google rating across 53 reviews confirms strong local credibility, but testimonials are manually displayed rather than dynamically embedded",
+    "Mobile PageSpeed of 63 indicates moderate mobile performance on a Wix platform where content and image settings are within the owner's control"
+  ],
+  "recommended_offer_type": "Local SEO starter (schema, pages, content plan)",
+  "offer_scope_points": [
+    "Set up a blog or content section with an initial 3 to 5 posts covering fitness tips, service overviews, or client success themes",
+    "Implement LocalBusiness schema markup relevant to health and fitness to strengthen local search appearance",
+    "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface the 5.0 rating automatically"
+  ],
+  "personalisation_notes": [
+    "Perfect 5.0 Google rating across 53 reviews is a rare and credible trust signal for a health and fitness business — it should be the opening hook in any outreach message",
+    "Site runs on Wix with a single-page static layout — this context is useful for scoping realistic SEO improvements within the platform's constraints"
+  ],
+  "suggested_cta": "If it would help, I can put together a short walkthrough of what a content and local SEO package would look like for a business like yours — happy to send it over or jump on a quick call.",
+  "avoid_saying": [
+    "Anything critical of Wix as a platform — platform limitations are real but raising this risks triggering defensiveness from an owner who chose and invested in Wix",
+    "Overpromising SEO outcomes or suggesting a specific ranking position — health and fitness SEO timelines vary and making promises undermines credibility"
+  ],
+  "unknowns_to_confirm": [
+    "Is there an active social media presence that could provide initial content for the blog section — this significantly reduces the effort and cost of the starter content plan",
+    "Is the business open to expanding beyond the current single-page structure or does the owner prefer to stay within the existing Wix layout"
+  ]
+}
