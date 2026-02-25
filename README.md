@@ -20,4 +20,4 @@ Track in leads.csv
 Future Vision
 Automated data ingestion from Google Maps and website APIs, structured analysis via Claude, and generation of actionable lead reports and outreach emails.
 
-Test Commit
+Test push working
