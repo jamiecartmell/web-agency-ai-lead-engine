@@ -1,0 +1,16 @@
+{
+  "business_name": "Example Cafe",
+  "recipient_role_guess": "Owner or Manager",
+  "subject_options": [
+    "Getting Example Cafe found online in Westport",
+    "A simple website and Google listing for Example Cafe",
+    "Example Cafe — worth a quick conversation about going online"
+  ],
+  "email_body": "I came across Example Cafe while looking at local businesses in Westport and wanted to get in touch directly.\n\nI was not able to find a website or Google Business listing for the cafe, which means it is not currently appearing when people search for cafes in the area online. For a local hospitality business, that is the most straightforward gap to address.\n\nI work with small businesses in the west of Ireland on exactly this — building simple, well-structured websites and setting up Google Business profiles as a combined starter package. It is a fixed-scope project, typically completed in two to three weeks, and requires minimal ongoing effort from you once it is live.\n\nWould you have 15 minutes this week for a quick call so I can walk you through what is involved and what it would cost?\n\nBest regards\n[Your name]",
+  "cta": "Would you have 15 minutes this week for a quick call so I can walk you through what is involved and what it would cost?",
+  "follow_up_body": "Just following up on my message from last week about Example Cafe. Getting a simple website and Google Business listing in place is a fixed-scope project that creates immediate local search visibility without requiring any ongoing commitment from you. Happy to walk through what is involved in 15 minutes if you would find that useful. Is this something worth a quick conversation?",
+  "personalisation_tokens_used": [
+    "No website found for the business",
+    "No Google Business listing identified — business is not appearing in local search results"
+  ]
+}

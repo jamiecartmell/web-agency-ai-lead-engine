@@ -1,0 +1,20 @@
+{
+  "business_name": "Example Cafe",
+  "proposal_type": "Conversion Sprint",
+  "problem_summary": "Example Cafe is an active local business in Westport with no website and no Google Business listing. The business is currently absent from local search results, meaning potential customers searching for cafes in the area online cannot find it, check the menu, view opening hours, or make contact. Establishing a web presence and Google Business Profile together addresses this gap at its root.",
+  "recommended_solution": "A combined new website and Google Business setup: a clean, mobile-first website covering the essentials for a local cafe, delivered alongside a verified Google Business Profile — giving the business a complete local search presence for the first time.",
+  "scope_of_work": [
+    "Design and build a mobile-first website covering menu or offering, opening hours, location with embedded map, and contact details with a click-to-call button",
+    "Set up and verify a Google Business Profile with accurate business name, category, location, and contact information to establish map and local search presence",
+    "Add a contact enquiry form to the website and assess whether a table booking or reservation feature is appropriate for the cafe's service model"
+  ],
+  "expected_outcomes": [
+    "A verified Google Business Profile should result in Example Cafe appearing in local map and search results for relevant queries in Westport for the first time",
+    "A mobile-first website with clear menu, hours, and location is likely to reduce the friction for first-time visitors who need to verify basic information before travelling",
+    "A contact form and click-to-call button should provide a direct enquiry pathway for customers who discover the business through search or the Google listing"
+  ],
+  "timeline_estimate": "2 to 3 weeks",
+  "engagement_model": "One-time project",
+  "next_steps": "Schedule a 15 minute call to confirm the cafe's service model, agree on the site structure, and clarify whether a booking system is needed — then provide a fixed quote for the combined package.",
+  "risks_if_delayed": "Without a website or Google listing, Example Cafe continues to be invisible in local search — and each week that passes is time during which nearby competitors with even a basic online presence have a structural advantage for capturing new customers."
+}

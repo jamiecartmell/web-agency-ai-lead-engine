@@ -1,0 +1,38 @@
+{
+  "business_name": "Example Cafe",
+  "vertical_bucket": "Hospitality",
+  "what_matters_in_this_vertical": [
+    "Local discoverability through Google search and maps",
+    "Clear display of menu, opening hours, and location",
+    "Mobile-friendly experience for on-the-go visitors",
+    "Google Business Profile and review presence",
+    "Simple contact or booking pathway for new customers"
+  ],
+  "likely_customer_intent": [
+    "Find a cafe nearby that is open and worth visiting",
+    "Check the menu and opening hours before travelling",
+    "Read reviews to decide whether to visit",
+    "Get directions or call ahead to check availability",
+    "Find a local cafe for a meeting, event, or specific occasion"
+  ],
+  "commercial_risk_if_unaddressed": "Without a website or Google Business listing, Example Cafe is completely absent from local search results — any potential customer searching for a cafe in Westport online will not find this business. Every competitor with even a basic web presence or Google listing has a structural discoverability advantage.",
+  "strongest_positioning_angle": "Example Cafe is an active local business with no online presence — establishing a website and Google Business Profile would create immediate discoverability in a market where most searches for local hospitality businesses begin online.",
+  "top_3_outreach_talking_points": [
+    "Most people looking for a cafe in Westport will search on Google before deciding where to go — without a website or Google Business listing, Example Cafe does not appear in those results at all, regardless of how good the offering is.",
+    "Setting up a Google Business Profile is free and takes days, not weeks — but pairing it with a simple website means customers can check your menu, hours, and location before visiting, which directly reduces friction for first-time visitors.",
+    "A new website for a local cafe does not need to be complex — a clean, mobile-first site with your menu, location, and a click-to-call button is often enough to establish a strong local presence and start accumulating Google Reviews."
+  ],
+  "likely_objections": [
+    "We get enough customers through word of mouth and do not need a website",
+    "We are too busy running the cafe to deal with a website right now",
+    "We tried to set something up before and it was complicated",
+    "We cannot afford a website at the moment"
+  ],
+  "recommended_offer_angle": "Position a starter web presence package: a simple mobile-first website plus Google Business Profile setup, framed as a single combined project with a fixed price and no ongoing obligation. Emphasise that the result is immediate local search visibility — not a complex or ongoing commitment.",
+  "unknowns_to_clarify": [
+    "Does the business have any existing social media accounts that could be linked from the new website and used as early trust signals",
+    "Does the cafe operate as walk-in only or would a table booking or reservation system be relevant",
+    "Is there an existing Google Business listing that was missed during research, or has the business previously had a website",
+    "What is the owner's appetite for ongoing content updates or would a purely static site be preferred"
+  ]
+}

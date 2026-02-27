@@ -1,0 +1,32 @@
+{
+  "business_name": "Example Cafe",
+  "opportunity_level": "High",
+  "vertical_bucket": "Hospitality",
+  "primary_service_angle": "New website build",
+  "primary_angle_type": "Conversion unlock",
+  "angle_summary": "Example Cafe has no website and no Google Business listing — there is no online pathway for potential customers to find, evaluate, or contact the business. The opportunity is a combined new website and Google Business setup that creates immediate local search visibility and a direct contact route from scratch.",
+  "proof_points": [
+    "No website found — the business has no online presence and cannot be found through local search",
+    "No Google Business listing identified — the business does not appear in Google Maps or local search results",
+    "No contact, booking, or enquiry pathway exists online — potential customers have no way to act on local awareness"
+  ],
+  "recommended_offer_type": "Conversion sprint (booking, contact, CTA)",
+  "offer_scope_points": [
+    "Build a new mobile-first website covering menu or offering, opening hours, location with map, and contact details with click-to-call",
+    "Set up and verify a Google Business Profile with accurate business information, category, and location",
+    "Add a contact enquiry form and assess whether a table booking or reservation feature suits the cafe's service model"
+  ],
+  "personalisation_notes": [
+    "No website or Google Business listing found — this is the clearest possible signal for a new website build offer and the most direct outreach hook available",
+    "Source is local knowledge and physical visit — this makes the outreach feel genuinely researched rather than scraped, and gives permission to reference the cafe by name with confidence"
+  ],
+  "suggested_cta": "Would you have 15 minutes this week for a quick call — I can walk you through what a simple website and Google listing would involve and what it would cost?",
+  "avoid_saying": [
+    "Anything implying the business is failing or invisible because they have no website — frame it as an untapped opportunity, not a critical gap that should embarrass the owner",
+    "Referencing technical details like PageSpeed, SSL, or platform — none of these are relevant at this stage and would make the outreach feel impersonal and scripted"
+  ],
+  "unknowns_to_confirm": [
+    "Does the business have any existing social media presence that could be referenced in outreach or linked from the new website",
+    "Is the cafe walk-in only or would a booking or reservation system be relevant — this shapes the scope and cost of the project"
+  ]
+}

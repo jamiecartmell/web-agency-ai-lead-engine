@@ -1,0 +1,14 @@
+{
+  "business_name": "Example Cafe",
+  "website_status": "No website",
+  "opportunity_level": "High",
+  "primary_service_angle": "New website build",
+  "urgency_level": "Immediate",
+  "confidence_score": 0.6,
+  "top_visible_issues": [
+    "No website found — the business has no online presence",
+    "No Google Business listing identified — the business is not discoverable through local search",
+    "No review or trust data available — the business cannot be evaluated or found by potential customers searching online"
+  ],
+  "outreach_hook": "Example Cafe is an active local business in Westport with no website or Google Business listing currently identified. For a hospitality business, establishing both would create a clear online foundation and ensure the cafe appears when people search for cafes in the area."
+}

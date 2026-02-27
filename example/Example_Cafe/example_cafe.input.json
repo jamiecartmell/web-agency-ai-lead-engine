@@ -1,0 +1,20 @@
+{
+  "business_name": "Example Cafe",
+  "website": null,
+  "location": "Westport, Co. Mayo, Ireland",
+  "industry": "Hospitality and Cafe",
+  "source": "Local knowledge / physical visit",
+  "signals": {
+    "ssl_active": null,
+    "platform": "Unknown",
+    "pagespeed_mobile": null,
+    "pagespeed_desktop": null,
+    "mobile_ux": "unknown",
+    "has_contact_form": null,
+    "has_booking_system": null,
+    "has_blog_or_updates": null,
+    "reviews_rating": null,
+    "reviews_count": null
+  },
+  "notes": "No website found. No Google Business listing identified. Business appears active locally."
+}

@@ -1,0 +1,58 @@
+{
+  "business_name": "Example Cafe",
+  "audit_focus_area": "New website build assessment",
+  "opportunity_level": "High",
+  "primary_service_angle": "New website build",
+  "audit_summary": "Example Cafe has no website and no Google Business listing, meaning the business is currently invisible to anyone searching for cafes in Westport online. There are no performance, UX, or conversion signals to assess. The audit focuses on what a new website and Google Business setup should include to establish a baseline online presence appropriate for a local hospitality business.",
+  "findings": {
+    "performance": [
+      "No website exists — performance cannot be assessed",
+      "A new build should target mobile PageSpeed of 75 or above from the outset, using a well-optimised platform and appropriately sized images"
+    ],
+    "mobile_ux": [
+      "No website exists — mobile UX cannot be assessed",
+      "A new website for a hospitality business should be designed mobile-first, as the majority of local cafe searches occur on mobile devices"
+    ],
+    "conversion": [
+      "No website exists — no contact form, booking pathway, or click-to-call is in place",
+      "A new website should include at minimum a contact enquiry form and a prominent click-to-call button — a booking or reservation system may be relevant depending on the cafe's service model",
+      "Clear display of opening hours, location, and menu is a baseline conversion requirement for a hospitality business"
+    ],
+    "seo_fundamentals": [
+      "No website exists — no indexed pages or keyword coverage",
+      "No Google Business listing identified — this is the most immediate discoverability gap and should be set up alongside or ahead of the website",
+      "A new site should include LocalBusiness schema markup and a dedicated page structure covering location, menu, and contact to support local search from day one"
+    ],
+    "trust_social_proof": [
+      "No reviews data available — Google rating and count are unknown",
+      "Setting up a Google Business Profile will allow the business to begin accumulating reviews, which are a primary trust signal for hospitality businesses",
+      "Social media presence is unknown — linking any existing profiles from the new website would support trust and return visits"
+    ],
+    "security_maintenance": [
+      "No website exists — SSL status cannot be assessed",
+      "A new website should be built with SSL active from launch",
+      "Platform choice will determine the ongoing maintenance model — a managed platform reduces maintenance overhead but limits flexibility"
+    ]
+  },
+  "prioritised_recommendations": {
+    "p1_quick_wins": [
+      "Set up and verify a Google Business Profile immediately — this is the fastest way to establish discoverability for local search and does not require a website to be in place first",
+      "Build a simple, mobile-first website covering the essentials: menu or offering, opening hours, location with map, and contact details with click-to-call"
+    ],
+    "p2_growth_improvements": [
+      "Add a contact enquiry form and assess whether a table booking or reservation system suits the cafe's service model",
+      "Implement LocalBusiness schema markup at launch to support local search appearance from day one",
+      "Encourage early Google Reviews through the Business Profile to begin building a public trust record"
+    ],
+    "p3_strategic_enhancements": [
+      "Consider a lightweight updates or specials section once the core site is established — this supports ongoing content freshness and local SEO without significant editorial commitment"
+    ]
+  },
+  "assumptions_and_unknowns": [
+    "No website or Google Business listing was identified — all audit categories are assessed as not applicable until a website exists",
+    "It is unknown whether the business has any existing social media presence that could be linked from a new website",
+    "It is unknown whether the cafe model requires a table booking or reservation system, or operates primarily as walk-in",
+    "Platform preference is unknown — this affects build approach, maintenance model, and cost structure"
+  ],
+  "next_best_action": "Confirm the cafe has no social media presence or prior web history, then propose a new website and Google Business setup as a combined starter package"
+}
