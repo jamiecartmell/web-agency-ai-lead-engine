@@ -4,29 +4,29 @@
   "vertical_bucket": "Health and Wellness",
   "primary_service_angle": "SEO optimization",
   "primary_angle_type": "Local SEO growth",
-  "angle_summary": "Petals has one of the strongest Google reputations of any salon in the west of Ireland, but the current website is not converting that reputation into consistent new bookings. Targeted improvements to site structure, content, and local search visibility would bring the online presence in line with the quality of the business behind it.",
+  "angle_summary": "Petals has built one of the strongest local reputations in Westport, with 312 reviews at 4.8 stars, but the current website is not structured to convert that trust into new bookings from organic search. Targeted improvements to navigation, on-page SEO, and content would help the site work harder for new visitors who have not yet discovered the salon through word of mouth.",
   "proof_points": [
-    "Petals has 312 Google reviews at 4.8 stars, an exceptional trust signal that is not currently being surfaced or leveraged on the website.",
-    "There is no blog or content section on the site, meaning the business is not capturing organic search demand from tourists and seasonal visitors searching for services in Westport.",
-    "The contact form is difficult to find and no clear above-the-fold CTA is visible, creating friction for mobile users who want to book quickly."
+    "The desktop PageSpeed score of 25 is notably weak and below the mobile score of 52, suggesting rendering or resource loading issues that may be affecting how Google assesses the site's quality signals.",
+    "The contact form exists but is difficult to find, creating friction in the enquiry pathway at a point where new visitors are deciding whether to book or move on.",
+    "With no blog or content section present, the site is missing an opportunity to rank for local and service-specific search queries in the Westport and Mayo area where new clients are actively looking for a salon."
   ],
   "recommended_offer_type": "Local SEO starter (schema, pages, content plan)",
   "offer_scope_points": [
-    "Restructure site navigation and surface the booking CTA and contact form in a prominent, above-the-fold position on the homepage, particularly for mobile users.",
-    "Produce three to four SEO-optimised blog posts targeting high-intent local and seasonal searches such as bridal hair Westport, hair salon Westport, and special occasion styling Mayo.",
-    "Review and enrich service pages with descriptive copy including location references and service-specific detail, and implement LocalBusiness schema markup to strengthen local search signals."
+    "On-page SEO review and optimisation of page titles, meta descriptions, and heading structure across key service pages targeting queries such as hairdresser Westport and hair salon Mayo.",
+    "Implementation of local business schema markup and a dedicated location or area page to strengthen geographic relevance signals for Westport and surrounding areas.",
+    "A simple content plan outlining three to six blog or update topics relevant to Petals' services and the local Westport audience, designed to be low-maintenance and build organic visibility over time."
   ],
   "personalisation_notes": [
-    "Petals has 312 reviews at 4.8 stars, which is an unusually strong reputation for a salon in the west of Ireland and should be referenced specifically to show the outreach is based on real research rather than a template.",
-    "The business is based in Westport, a tourist destination with strong seasonal footfall, which makes locally targeted content a particularly well-suited and credible recommendation for this specific location."
+    "Petals has 312 Google reviews at 4.8 stars, which is an unusually strong local reputation for a salon in a town the size of Westport and gives the outreach a genuine, specific compliment to open with.",
+    "The site is built on Phorest, a managed platform with known SEO and design limitations, so any proposal should acknowledge this upfront and frame the offer around what is achievable within or alongside the existing setup."
   ],
-  "suggested_cta": "Would you be open to a short walkthrough call this week where I can show you exactly which two or three changes would make the biggest difference for getting more bookings from your site?",
+  "suggested_cta": "Would you be open to a short call this week so I can walk you through a few specific things I noticed and show you what a focused set of improvements could look like for Petals?",
   "avoid_saying": [
-    "Avoid saying the website is letting the business down or implying it reflects poorly on the salon — the business likely takes pride in its Phorest setup and this framing will trigger defensiveness.",
-    "Avoid suggesting the business needs to move away from Phorest or that its current platform is the problem — the recommendation must work within or alongside the existing setup to be credible."
+    "Avoid saying the website looks unprofessional or is letting the business down, as the owner may have invested in the Phorest setup and be proud of what they have built.",
+    "Avoid implying that Phorest is the wrong choice or suggesting a full platform switch without first understanding how much control the owner has and whether they are open to that conversation."
   ],
   "unknowns_to_confirm": [
-    "Does Phorest allow sufficient customisation of homepage layout, navigation structure, and CTA placement, or would meaningful structural changes require a supplementary web presence outside the platform?",
-    "Are the 312 Google reviews currently embedded or referenced anywhere on the website, or is that social proof only visible on Google Maps and not reaching first-time site visitors?"
+    "How much design and SEO control does the owner currently have within their Phorest plan, and are they open to a custom front-end or hybrid solution if platform limitations are confirmed?",
+    "Who currently manages the website, is it handled in-house, through Phorest support, or via an existing agency relationship, as this will affect how the proposal is framed and who the decision-maker is."
   ]
 }

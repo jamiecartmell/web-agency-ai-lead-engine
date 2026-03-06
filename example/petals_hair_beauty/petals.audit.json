@@ -3,66 +3,65 @@
   "audit_focus_area": "SEO optimisation audit",
   "opportunity_level": "Medium",
   "primary_service_angle": "SEO optimization",
-  "audit_summary": "Petals Hair & Beauty Westport has a strong reputation backed by 312 reviews at 4.8 stars, but the current website is underperforming in ways that may limit its ability to convert that goodwill into new bookings. Navigation is cluttered, the contact form is hard to locate, and there is no blog or content section to support organic search visibility in a tourist-active town. Targeted improvements to site structure, content, and on-page SEO would bring the website in line with the quality of the business it represents.",
+  "audit_summary": "Petals Hair & Beauty has a strong local reputation backed by 312 reviews at 4.8 stars, but the current website underperforms in ways that limit organic visibility and new customer acquisition. Navigation issues, a hard-to-find contact form, broken elements, and the absence of any content or blog section are reducing the site's ability to convert new visitors and rank for local search queries. Targeted improvements to structure, navigation, and content would better reflect the salon's standing in the Westport market.",
   "findings": {
     "performance": [
-      "Mobile PageSpeed score of 52 is moderate, indicating room for improvement but not a critical failure. Users on mobile may experience slight delays that increase bounce risk.",
-      "Desktop PageSpeed score of 25 is weak and is an unexpected result for a Phorest-hosted platform. This may suggest heavy image assets, third-party script loading, or embedded elements contributing to render delays. Labelled as possible causes, not confirmed.",
-      "Phorest is a managed platform, meaning direct performance optimisation options may be limited. Any improvements may depend on what Phorest exposes to the site owner or administrator."
+      "Mobile PageSpeed score of 52 is moderate, indicating meaningful room for improvement. On a Phorest-built platform, possible contributing factors may include third-party script loading, unoptimised images, or embedded booking widget overhead, though these are possible causes only and not confirmed.",
+      "Desktop PageSpeed score of 25 is weak and is notably lower than mobile, which is atypical. This suggests rendering or resource loading issues that may be impacting both user experience and search engine crawl efficiency.",
+      "Weak desktop performance in particular may affect Google's assessment of the site's core quality signals, which is relevant to the SEO focus area."
     ],
     "mobile_ux": [
-      "Mobile UX is rated as ok, suggesting the experience is functional but not optimised.",
-      "The cluttered layout noted in the site review is likely contributing to a less-than-ideal mobile experience, particularly around navigation and locating key actions like booking or contact.",
-      "Simplifying the navbar and surfacing the contact form or booking button higher on mobile would reduce friction for users arriving from search or social."
+      "Mobile UX is rated as 'ok', suggesting the site is functional on mobile but not optimised. Given that the majority of local salon searches are conducted on mobile, 'ok' is not sufficient for a competitive local business.",
+      "Cluttered layout and disorganised navbar noted in observations are likely contributing to a below-par mobile browsing experience even if the site is technically responsive.",
+      "The contact form being difficult to locate on desktop will be compounded on mobile where screen space is limited, reducing the likelihood of enquiry conversions from mobile users."
     ],
     "conversion": [
-      "A booking system is present, which is a strong asset. However, if it is buried within a confusing navigation structure, conversion rates may be lower than they should be for a salon with this level of reputation.",
-      "The contact form exists but is reported as difficult to find. For a local service business, ease of enquiry is a direct revenue factor.",
-      "No clear CTA visibility noted from available signals. A persistent or above-the-fold booking or contact prompt would likely improve conversion meaningfully.",
-      "Broken elements noted on the site may be creating trust issues or dead-end user journeys that discourage enquiry."
+      "A booking system is present, which is a positive conversion asset. However, if navigation is confusing, new visitors may not reach the booking flow before abandoning the site.",
+      "The contact form exists but is difficult to find. For a local salon, an accessible contact or enquiry path is a key micro-conversion point and its current placement is a missed opportunity.",
+      "No clear CTA hierarchy is evident from the notes. The salon's strong review profile is not being leveraged visually to guide new visitors toward a booking or enquiry action.",
+      "Broken elements noted on the site may be creating trust friction for first-time visitors who are evaluating whether to book."
     ],
     "seo_fundamentals": [
-      "No blog or content updates are present. For a salon in Westport, a tourist destination with seasonal search demand, content covering topics such as bridal hair, special occasion styling, or local event preparation could capture high-intent organic traffic.",
-      "Content depth on the site is unknown beyond layout and navigation notes. If service pages are thin or lack descriptive copy, they are likely underperforming in local search.",
-      "Local SEO signals such as location references, service-area content, and schema markup are unknown from available data. These would typically be recommendations for a local hospitality or personal services business in a tourist town.",
-      "Suggested improvements include adding a blog or news section, implementing LocalBusiness schema, and ensuring service pages contain sufficient descriptive copy with location and intent signals."
+      "No blog or content updates are present. For a local salon in a competitive tourist and residential market like Westport, content around services, seasonal treatments, or local lifestyle topics would support organic ranking for informational and local intent queries.",
+      "The Phorest platform may have structural limitations on content expansion and on-page SEO control such as meta customisation, heading structure, and schema implementation. This should be explored as a constraint.",
+      "Local SEO signals such as location-specific page content, service area mentions, and structured data for local business are unknown from public signals but are recommended as additions given the local intent opportunity.",
+      "With 312 Google reviews, the business has strong off-page authority signals. The website should be working harder to match this with on-page local relevance."
     ],
     "trust_social_proof": [
-      "312 Google reviews at 4.8 stars is an exceptional trust signal and a significant competitive advantage.",
-      "It is unknown whether reviews are embedded or linked on the website. Surfacing this social proof on the homepage or a dedicated testimonials section would reinforce credibility for first-time visitors.",
-      "Social links presence is unknown from available data."
+      "Reviews rating of 4.8 across 312 reviews is excellent and represents a significant trust asset that is not visibly being integrated into the website experience based on available notes.",
+      "No mention of testimonials being embedded or displayed on the site. Surfacing even a selection of reviews on the homepage or services pages would reinforce credibility for new visitors.",
+      "Social links presence is unknown from the provided data."
     ],
     "security_maintenance": [
-      "SSL is active. The site is secure from a basic public-signal perspective.",
-      "The platform is Phorest, a managed salon software solution. This means core security and platform updates are handled by Phorest, which reduces maintenance risk for the business owner.",
-      "Broken elements noted on the site suggest that periodic content and layout reviews would be beneficial to maintain a professional and functional user experience."
+      "SSL is active, which is a positive baseline signal for both user trust and search ranking.",
+      "The site is built on the Phorest platform. Phorest is a managed salon software solution, which means direct control over performance, layout, and SEO elements may be limited compared to open platforms.",
+      "Broken elements noted on the site suggest the current setup has not been reviewed or maintained recently. A proactive content and layout review would help ensure the site continues to perform and represent the business accurately."
     ]
   },
   "prioritised_recommendations": {
     "p1_quick_wins": [
-      "Simplify and restructure the navbar to surface the most important journeys: booking, services, and contact. A cleaner top-level navigation will immediately reduce confusion and drop-off.",
-      "Move the contact form and booking CTA to a prominent, above-the-fold position on the homepage, particularly on mobile, so users can act without needing to search for it.",
-      "Audit and resolve broken elements on the site to eliminate dead-end journeys and restore professional presentation."
+      "Simplify and restructure the navbar so that core pages such as Services, Booking, and Contact are immediately visible and consistently placed. This directly reduces bounce caused by navigation confusion.",
+      "Reposition the contact form to a prominent location, ideally accessible from the homepage and every key service page, to remove friction from the enquiry pathway.",
+      "Add a visible review callout or testimonial block to the homepage using the 4.8-star rating and review count as a trust anchor for new visitors."
     ],
     "p2_growth_improvements": [
-      "Introduce a simple blog or news section with three to four initial posts targeting local and seasonal search intent, such as bridal hair Westport, hair salon Westport, or special occasion styling Mayo. This directly supports the SEO service angle.",
-      "Embed or prominently link Google review count and rating on the homepage to convert the strong social proof into visible trust for new visitors.",
-      "Review and enrich service pages with descriptive copy that includes location references and specific service detail to improve local search relevance."
+      "Audit and resolve broken elements across the site to restore visual consistency and eliminate trust friction for first-time visitors.",
+      "Introduce a simple blog or news section with locally relevant content covering seasonal services, team updates, or Westport lifestyle topics to build organic search visibility over time.",
+      "Review and optimise page titles, meta descriptions, and heading structures for key service pages to improve local search ranking for queries such as hairdresser Westport or hair salon Mayo."
     ],
     "p3_strategic_enhancements": [
-      "Explore whether Phorest allows sufficient customisation to address performance and structural issues. If the platform is limiting meaningful improvement, a longer-term conversation about a supplementary or replacement web presence may be worth raising once trust is established with the client.",
-      "Develop a local content strategy targeting Westport seasonal events, wedding season, and tourist-facing searches to build sustained organic visibility over time."
+      "Evaluate whether the Phorest platform provides sufficient SEO and design flexibility to meet the business's growth needs. If structural limitations are confirmed, a hybrid approach using a custom front-end with Phorest booking integration may be worth exploring as a medium-term option.",
+      "Implement local business schema markup and consider a dedicated location page to strengthen Google's understanding of the business's geographic relevance for Westport and surrounding areas."
     ]
   },
   "assumptions_and_unknowns": [
-    "Hosting provider is Phorest as a managed platform. Direct server-level performance controls are likely limited.",
-    "Exact nature of broken elements is unknown. Assessment is based on user-supplied notes, not a formal audit.",
-    "Desktop PageSpeed of 25 is notably low for a managed platform. Possible causes include third-party scripts or heavy media, but these are not confirmed.",
-    "Social media links presence is unknown.",
-    "Whether Google reviews are embedded or referenced on the website is unknown.",
-    "Schema markup status is unknown.",
-    "Service page content depth and copy quality are unknown beyond layout and navigation observations.",
-    "CTA placement and visibility above the fold have not been independently verified beyond the notes provided."
+    "Desktop PageSpeed of 25 is unusually low relative to mobile at 52. The cause is unknown without further investigation and may relate to Phorest platform rendering behaviour.",
+    "Social media presence and links are not confirmed from available data.",
+    "Whether the booking system is prominently signposted or buried within navigation is not confirmed beyond the general note about cluttered layout.",
+    "The specific nature and number of broken elements is unknown. Noted as a general signal only.",
+    "Hosting infrastructure is managed by Phorest as a platform and is not independently visible or assessable.",
+    "On-page SEO elements such as meta titles, heading structure, and schema are unknown from public signals alone.",
+    "CTA placement and homepage content depth have not been fully described beyond general layout observations."
   ],
-  "next_best_action": "Prepare a short visual summary of two or three specific improvements, such as a cleaner nav, a visible booking button, and a sample blog topic, and propose a 15-minute call to show how these changes could help Petals convert more of its exceptional reputation into online enquiries."
+  "next_best_action": "Prepare a short visual improvement summary highlighting the navigation, contact form, and review integration issues alongside a projected impact on local enquiries, and propose a 15-minute call to walk the owner through findings."
 }

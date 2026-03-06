@@ -4,15 +4,15 @@
   "field_completeness_score": 1,
   "missing_fields": [],
   "signal_conflicts": [
-    "pagespeed_desktop is 25 while pagespeed_mobile is 52, meaning desktop scores lower than mobile, which is atypical and may indicate a data entry error or measurement anomaly.",
-    "has_contact_form is true but notes state the contact form is difficult to find, which may indicate a functional discrepancy between presence and usability that could affect downstream scoring."
+    "pagespeed_desktop is 25 while pagespeed_mobile is 52, meaning desktop speed is significantly lower than mobile speed, which is an atypical reversal."
   ],
   "edge_cases_detected": [
-    "pagespeed_mobile (52) and pagespeed_desktop (25) differ by 27 points, which is a notable disparity, but more critically desktop is lower than mobile — an unusual reversal worth flagging.",
-    "Notes mention broken elements on the website, suggesting the site may have rendering or functional issues that could affect audit reliability.",
-    "reviews_rating of 4.8 with a review count of 312 represents a strong and well-supported trust signal."
+    "pagespeed_mobile and pagespeed_desktop differ by 27 points, which is a notable disparity between the two scores.",
+    "pagespeed_desktop score of 25 is critically low and indicates severe performance issues on desktop.",
+    "Notes mention broken elements on the website, suggesting the site may have rendering or functional errors requiring investigation.",
+    "platform is Phorest, a closed salon-specific platform, which significantly limits the scope of redesign and hosting recommendations."
   ],
-  "recommended_action": "Resolve the pagespeed_desktop value (25) before proceeding — desktop scoring lower than mobile is anomalous and likely reflects a data error that would skew performance recommendations.",
+  "recommended_action": "Flag for human review before proceeding: resolve the atypical desktop-lower-than-mobile pagespeed reversal, confirm the nature and extent of the broken elements noted, and assess whether the Phorest platform constraint affects the proposed service angle.",
   "normalised_input": {
     "business_name": "Petals Hair & Beauty Westport",
     "website": "https://petals.ie/",

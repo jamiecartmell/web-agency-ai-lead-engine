@@ -54,6 +54,44 @@ async function runSkill(skillFile, userMessage, label) {
   }
 }
 
+// ─── Tracking ─────────────────────────────────────────────────────────────────
+
+function appendToTracker(leadInput, opportunityOutput, angleOutput, proposalOutput, emailOutput) {
+  const trackingPath = path.join(__dirname, 'tracking.csv');
+
+  const headers = [
+    'Date', 'Business Name', 'Industry', 'Location', 'Website',
+    'Opportunity', 'Angle', 'Offer', 'Proposal Type',
+    'Subject 1', 'Subject 2', 'Subject 3',
+    'Status', 'Follow-up Sent', 'Response', 'Notes',
+  ];
+
+  const row = [
+    new Date().toISOString().split('T')[0],
+    leadInput.business_name,
+    leadInput.industry ?? '',
+    leadInput.location ?? '',
+    leadInput.website ?? '',
+    opportunityOutput.opportunity_level ?? '',
+    angleOutput.primary_angle_type ?? '',
+    angleOutput.recommended_offer_type ?? '',
+    proposalOutput.proposal_type ?? '',
+    emailOutput.subject_options[0] ?? '',
+    emailOutput.subject_options[1] ?? '',
+    emailOutput.subject_options[2] ?? '',
+    '', '', '', '',
+  ];
+
+  const escape = val => `"${String(val).replace(/"/g, '""')}"`;
+
+  if (!fs.existsSync(trackingPath)) {
+    fs.writeFileSync(trackingPath, headers.map(escape).join(',') + '\n');
+  }
+
+  fs.appendFileSync(trackingPath, row.map(escape).join(',') + '\n');
+  console.log(`  tracker → tracking.csv`);
+}
+
 // ─── Pipeline ─────────────────────────────────────────────────────────────────
 
 async function runPipeline(inputFile, force = false) {
@@ -161,6 +199,9 @@ async function runPipeline(inputFile, force = false) {
     'Skill 6 — Proposal'
   );
   writeOutput(folder, prefix, 'proposal', proposalOutput);
+
+  // ── Tracking ─────────────────────────────────────────────────────────────
+  appendToTracker(leadInput, opportunityOutput, angleOutput, proposalOutput, emailOutput);
 
   // ── Summary ───────────────────────────────────────────────────────────────
   console.log('\n' + '═'.repeat(56));
