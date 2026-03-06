@@ -1,0 +1,32 @@
+{
+  "business_name": "Petals Hair & Beauty Westport",
+  "opportunity_level": "Medium",
+  "vertical_bucket": "Health and Wellness",
+  "primary_service_angle": "SEO optimization",
+  "primary_angle_type": "Local SEO growth",
+  "angle_summary": "Petals has one of the strongest Google reputations of any salon in the west of Ireland, but the current website is not converting that reputation into consistent new bookings. Targeted improvements to site structure, content, and local search visibility would bring the online presence in line with the quality of the business behind it.",
+  "proof_points": [
+    "Petals has 312 Google reviews at 4.8 stars, an exceptional trust signal that is not currently being surfaced or leveraged on the website.",
+    "There is no blog or content section on the site, meaning the business is not capturing organic search demand from tourists and seasonal visitors searching for services in Westport.",
+    "The contact form is difficult to find and no clear above-the-fold CTA is visible, creating friction for mobile users who want to book quickly."
+  ],
+  "recommended_offer_type": "Local SEO starter (schema, pages, content plan)",
+  "offer_scope_points": [
+    "Restructure site navigation and surface the booking CTA and contact form in a prominent, above-the-fold position on the homepage, particularly for mobile users.",
+    "Produce three to four SEO-optimised blog posts targeting high-intent local and seasonal searches such as bridal hair Westport, hair salon Westport, and special occasion styling Mayo.",
+    "Review and enrich service pages with descriptive copy including location references and service-specific detail, and implement LocalBusiness schema markup to strengthen local search signals."
+  ],
+  "personalisation_notes": [
+    "Petals has 312 reviews at 4.8 stars, which is an unusually strong reputation for a salon in the west of Ireland and should be referenced specifically to show the outreach is based on real research rather than a template.",
+    "The business is based in Westport, a tourist destination with strong seasonal footfall, which makes locally targeted content a particularly well-suited and credible recommendation for this specific location."
+  ],
+  "suggested_cta": "Would you be open to a short walkthrough call this week where I can show you exactly which two or three changes would make the biggest difference for getting more bookings from your site?",
+  "avoid_saying": [
+    "Avoid saying the website is letting the business down or implying it reflects poorly on the salon — the business likely takes pride in its Phorest setup and this framing will trigger defensiveness.",
+    "Avoid suggesting the business needs to move away from Phorest or that its current platform is the problem — the recommendation must work within or alongside the existing setup to be credible."
+  ],
+  "unknowns_to_confirm": [
+    "Does Phorest allow sufficient customisation of homepage layout, navigation structure, and CTA placement, or would meaningful structural changes require a supplementary web presence outside the platform?",
+    "Are the 312 Google reviews currently embedded or referenced anywhere on the website, or is that social proof only visible on Google Maps and not reaching first-time site visitors?"
+  ]
+}

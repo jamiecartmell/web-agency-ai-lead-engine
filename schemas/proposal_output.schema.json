@@ -22,6 +22,7 @@
     "proposal_type": {
       "type": "string",
       "enum": [
+        "New Website Build",
         "Conversion Sprint",
         "Local SEO Starter",
         "Performance Upgrade",

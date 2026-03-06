@@ -30,6 +30,7 @@ Angle Selection Logic
 
 Choose exactly ONE primary_angle_type from the following options:
 
+- New website build
 - Conversion unlock
 - Performance and UX uplift
 - Local SEO growth
@@ -38,6 +39,7 @@ Choose exactly ONE primary_angle_type from the following options:
 
 Select primary_angle_type using this priority order:
 
+0. If primary_service_angle is "New website build" (i.e., website is null), choose "New website build". This takes priority over all other rules.
 1. If opportunity_level is "High" and conversion gaps exist in audit_output findings, choose "Conversion unlock".
 2. Else if primary_service_angle is "Hosting and performance upgrade", choose "Performance and UX uplift".
 3. Else if primary_service_angle is "SEO optimization", choose "Local SEO growth".
@@ -54,6 +56,7 @@ Offer Design
 
 Choose exactly ONE offer_type from the following options:
 
+- New website package (full build, 2 to 4 weeks)
 - Quick win package (fixed scope, 7 to 14 days)
 - Audit and action plan (paid or credited)
 - Monthly care plan (maintenance retainer)
@@ -62,6 +65,7 @@ Choose exactly ONE offer_type from the following options:
 
 Select offer_type using this guidance:
 
+- If primary_angle_type is "New website build" -> "New website package (full build, 2 to 4 weeks)"
 - If primary_angle_type is "Conversion unlock" -> "Conversion sprint (booking, contact, CTA)"
 - If primary_angle_type is "Performance and UX uplift" -> "Quick win package (fixed scope, 7 to 14 days)"
 - If primary_angle_type is "Local SEO growth" -> "Local SEO starter (schema, pages, content plan)"
@@ -125,7 +129,7 @@ Field Guidance
 - primary_service_angle: carry through from audit_output unchanged.
 - angle_summary: 2 sentences, direct and client-friendly. Should frame the opportunity positively without exaggerating urgency.
 - proof_points: exactly 3 items. Must be pulled only from audit_output findings and lead_input signals. Do not invent data. Each should be a concrete, specific observation from the inputs.
-- recommended_offer_type: one of the five offer types listed above.
+- recommended_offer_type: one of the six offer types listed above.
 - offer_scope_points: exactly 3 items. Practical, specific tasks that define the scope of the recommended offer. Avoid vague descriptions — name the deliverables.
 - personalisation_notes: exactly 2 items. Specific details about this business that should be woven into outreach — for example a notable review count, a specific location, or a known platform. These make the outreach feel researched rather than templated.
 - suggested_cta: one direct sentence suitable for use at the end of an outreach message. Match to opportunity_level as defined above.

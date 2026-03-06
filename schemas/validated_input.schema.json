@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Input Validator Output",
+  "description": "Output schema for Skill 0: Input Validator",
+  "type": "object",
+  "required": [
+    "business_name",
+    "validation_status",
+    "field_completeness_score",
+    "missing_fields",
+    "signal_conflicts",
+    "edge_cases_detected",
+    "recommended_action",
+    "normalised_input"
+  ],
+  "properties": {
+    "business_name": {
+      "type": "string"
+    },
+    "validation_status": {
+      "type": "string",
+      "enum": ["ready", "proceed_with_caution", "requires_review"]
+    },
+    "field_completeness_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "missing_fields": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "signal_conflicts": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "edge_cases_detected": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "recommended_action": {
+      "type": "string"
+    },
+    "normalised_input": {
+      "type": "object",
+      "description": "Cleaned copy of lead_input ready to pass to Skill 1"
+    }
+  },
+  "additionalProperties": false
+}

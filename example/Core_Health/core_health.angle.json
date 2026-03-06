@@ -2,31 +2,31 @@
   "business_name": "Core Health and Performance",
   "opportunity_level": "Medium",
   "vertical_bucket": "Health and Wellness",
-  "primary_service_angle": "SEO optimization",
-  "primary_angle_type": "Local SEO growth",
-  "angle_summary": "Core Health and Performance has a perfect 5.0 Google rating but a static, single-page site with no blog or content section — the primary gap limiting organic search visibility for a health and fitness business. Adding a content section and local schema markup would directly improve discoverability for prospective clients searching for fitness services in Westport.",
+  "primary_service_angle": "Conversion optimization",
+  "primary_angle_type": "Conversion unlock",
+  "angle_summary": "Core Health and Performance has built one of the strongest local reputations in Westport, with a perfect 5-star rating across 53 Google reviews, but the site currently has no way for a motivated visitor to book directly. A focused conversion improvement would connect that existing reputation to a clear action path for prospective clients who are ready to commit.",
   "proof_points": [
-    "No blog or updates section is present — a static single-page layout with no dynamic content section limits indexable pages and keyword coverage",
-    "5.0 Google rating across 53 reviews confirms strong local credibility, but testimonials are manually displayed rather than dynamically embedded",
-    "Mobile PageSpeed of 63 indicates moderate mobile performance on a Wix platform where content and image settings are within the owner's control"
+    "No online booking system is present, meaning visitors who are ready to schedule a session have no immediate way to act on that intent from the website.",
+    "Mobile PageSpeed score of 63 indicates a meaningful performance gap compared to the desktop score of 93, increasing the likelihood of mobile drop-off before users reach the contact form.",
+    "Testimonials are manually displayed rather than dynamically embedded, reducing the credibility and recency impact of a 5.0 star, 53-review reputation that could be working much harder on the site."
   ],
-  "recommended_offer_type": "Local SEO starter (schema, pages, content plan)",
+  "recommended_offer_type": "Conversion sprint (booking, contact, CTA)",
   "offer_scope_points": [
-    "Set up a blog or content section with an initial 3 to 5 posts covering fitness tips, service overviews, or client success themes",
-    "Implement LocalBusiness schema markup relevant to health and fitness to strengthen local search appearance",
-    "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface the 5.0 rating automatically"
+    "Integrate an online booking or scheduling system, such as Wix Bookings or a Calendly embed, configured for the relevant service types offered.",
+    "Add a prominent click-to-call button and a sticky mobile CTA so that users on phones can contact or book without excessive scrolling.",
+    "Replace manually displayed testimonials with a live Google review widget to surface the 5-star rating dynamically and keep social proof current without manual effort."
   ],
   "personalisation_notes": [
-    "Perfect 5.0 Google rating across 53 reviews is a rare and credible trust signal for a health and fitness business — it should be the opening hook in any outreach message",
-    "Site runs on Wix with a single-page static layout — this context is useful for scoping realistic SEO improvements within the platform's constraints"
+    "Core Health and Performance holds a perfect 5.0 rating across 53 Google reviews, which is an unusually strong local trust signal for a fitness business in Westport and should be referenced directly to show the outreach is based on genuine research.",
+    "The site is built on Wix, so any proposed improvements should be framed as working within or alongside the existing platform rather than replacing it, given the likely objection that Wix suits how they currently operate."
   ],
-  "suggested_cta": "If it would help, I can put together a short walkthrough of what a content and local SEO package would look like for a business like yours — happy to send it over or jump on a quick call.",
+  "suggested_cta": "Would you be open to a short walkthrough call where I can show you exactly what a booking integration would look like on your current site and what it would take to get it live?",
   "avoid_saying": [
-    "Anything critical of Wix as a platform — platform limitations are real but raising this risks triggering defensiveness from an owner who chose and invested in Wix",
-    "Overpromising SEO outcomes or suggesting a specific ranking position — health and fitness SEO timelines vary and making promises undermines credibility"
+    "Avoid saying the website is letting the business down or underperforming, as this is likely to trigger defensiveness from an owner who manages the site themselves and considers it adequate.",
+    "Avoid suggesting they move away from Wix or implying the platform is the problem, as self-managed simplicity is a known priority and platform migration is not supported by the audit findings."
   ],
   "unknowns_to_confirm": [
-    "Is there an active social media presence that could provide initial content for the blog section — this significantly reduces the effort and cost of the starter content plan",
-    "Is the business open to expanding beyond the current single-page structure or does the owner prefer to stay within the existing Wix layout"
+    "Whether they are already using any informal booking method such as phone, WhatsApp, or a third-party tool like Calendly, as this shapes how a booking integration should be positioned and scoped.",
+    "What specific services they offer, for example personal training, physiotherapy, group classes, or nutrition coaching, as this determines how booking flows and any future service page structure should be built."
   ]
 }

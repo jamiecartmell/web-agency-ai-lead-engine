@@ -1,0 +1,38 @@
+{
+  "business_name": "Petals Hair & Beauty Westport",
+  "vertical_bucket": "Health and Wellness",
+  "what_matters_in_this_vertical": [
+    "Clear service descriptions that help new clients understand what is offered and at what level",
+    "Easy booking access with minimal friction, particularly on mobile",
+    "Visible social proof and credibility signals to convert first-time visitors",
+    "Local search visibility to capture tourist and seasonal demand in Westport",
+    "A professional, trustworthy presentation that reflects the quality of the in-person experience"
+  ],
+  "likely_customer_intent": [
+    "Find a well-reviewed local hair or beauty salon in Westport",
+    "Book an appointment quickly without having to search for a contact method",
+    "Check services offered and confirm the salon handles their specific need, such as bridal or colour",
+    "Read reviews or look for credibility signals before committing to a first visit",
+    "Get directions or contact details as a returning customer or tourist"
+  ],
+  "commercial_risk_if_unaddressed": "A prospective client who arrives on the site and cannot easily find the booking system or contact form is likely to leave and book with a competitor, regardless of Petals' reputation. With no content supporting local or seasonal search queries, the business is also missing a consistent source of new organic traffic in a town with strong tourist footfall.",
+  "strongest_positioning_angle": "Petals has 312 reviews at 4.8 stars, an exceptional reputation that its current website is not converting effectively due to navigation issues, a hard-to-find booking pathway, and no content presence to capture local and seasonal search demand.",
+  "top_3_outreach_talking_points": [
+    "Your Google reputation is one of the strongest we have seen for a salon in the west of Ireland. A few targeted changes to how the site is structured could mean that reputation is doing real work for you online, not just on Google Maps.",
+    "Right now, visitors to your site who want to book have to work to find the form. Surfacing that booking path on the homepage, especially on mobile, is one of the fastest ways to turn existing traffic into confirmed appointments.",
+    "Westport attracts a lot of visitors year-round, many of whom search for local services while travelling. A small content section targeting searches like bridal hair Westport or hair salon Westport could bring in a steady stream of high-intent new clients you are not currently reaching."
+  ],
+  "likely_objections": [
+    "We already have a website and a booking system through Phorest, so we are covered",
+    "Most of our clients come back to us or find us through word of mouth",
+    "We get a lot of enquiries through social media, so the website is less important to us",
+    "We would not have the time to manage a blog or keep content updated"
+  ],
+  "recommended_offer_angle": "Given the medium opportunity level and SEO as the primary service angle, a strong entry point would be a focused SEO and content starter package: a navigation and CTA audit with a concrete set of fixes, three to four SEO-optimised blog posts targeting local and seasonal searches, and on-page copy improvements to service pages. This is deliverable without requiring platform migration and provides measurable early results tied directly to bookings.",
+  "unknowns_to_clarify": [
+    "Does Phorest allow sufficient customisation of navigation, homepage layout, and CTA placement, or are structural changes effectively limited by the platform?",
+    "Are the Google reviews currently embedded or referenced anywhere on the website, or is that social proof only visible on Google Maps?",
+    "Is there an active social media presence, and if so, is it driving meaningful traffic to the site or functioning as a standalone channel?",
+    "Does the business have seasonal peaks, such as summer tourism or a strong wedding client base, that should shape the priority content topics?"
+  ]
+}

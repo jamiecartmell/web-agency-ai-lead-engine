@@ -1,0 +1,45 @@
+{
+  "business_name": "Example Cafe",
+  "validation_status": "requires_review",
+  "field_completeness_score": 0.0,
+  "missing_fields": [
+    "ssl_active",
+    "platform (Unknown)",
+    "pagespeed_mobile",
+    "pagespeed_desktop",
+    "mobile_ux (unknown)",
+    "has_contact_form",
+    "has_booking_system",
+    "has_blog_or_updates",
+    "reviews_rating",
+    "reviews_count",
+    "website"
+  ],
+  "signal_conflicts": [],
+  "edge_cases_detected": [
+    "website is null — no website exists, all performance and conversion signals are irrelevant, pipeline will route to New website build",
+    "Notes confirm no Google Business listing identified — additional discoverability gap beyond the website absence",
+    "All signal fields are null or unknown — confidence score will be at floor value, output reliability is low"
+  ],
+  "recommended_action": "Confirm no social media presence or prior web history exists before proceeding, then pass to Skill 1 — the no-website path is handled predictably by the pipeline.",
+  "normalised_input": {
+    "business_name": "Example Cafe",
+    "website": null,
+    "location": "Westport, Co. Mayo, Ireland",
+    "industry": "Hospitality And Cafe",
+    "source": "Local knowledge / physical visit",
+    "signals": {
+      "ssl_active": null,
+      "platform": "Unknown",
+      "pagespeed_mobile": null,
+      "pagespeed_desktop": null,
+      "mobile_ux": "unknown",
+      "has_contact_form": null,
+      "has_booking_system": null,
+      "has_blog_or_updates": null,
+      "reviews_rating": null,
+      "reviews_count": null
+    },
+    "notes": "No website found. No Google Business listing identified. Business appears active locally."
+  }
+}

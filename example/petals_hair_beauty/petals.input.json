@@ -1,0 +1,20 @@
+{
+  "business_name": "Petals Hair & Beauty Westport",
+  "website": "https://petals.ie/",
+  "location": "Westport, Co. Mayo, Ireland",
+  "industry": "Hairdresser",
+  "source": "Local knowledge/ google maps",
+  "signals": {
+    "ssl_active": true,
+    "platform": "Phorest",
+    "pagespeed_mobile": 52,
+    "pagespeed_desktop": 25,
+    "mobile_ux": "ok",
+    "has_contact_form": true,
+    "has_booking_system": true,
+    "has_blog_or_updates": false,
+    "reviews_rating": 4.8,
+    "reviews_count": 312
+  },
+  "notes": "Layout is cluttered. The navbar is all over the place it can be refined. Conatct form is difficult to find. The website is made using phorest. There are broken elements and they could benefit from a blog. The website is confusing and difficultto navigate"
+}

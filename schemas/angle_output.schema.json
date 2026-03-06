@@ -50,6 +50,7 @@
     "primary_angle_type": {
       "type": "string",
       "enum": [
+        "New website build",
         "Conversion unlock",
         "Performance and UX uplift",
         "Local SEO growth",
@@ -69,6 +70,7 @@
     "recommended_offer_type": {
       "type": "string",
       "enum": [
+        "New website package (full build, 2 to 4 weeks)",
         "Quick win package (fixed scope, 7 to 14 days)",
         "Audit and action plan (paid or credited)",
         "Monthly care plan (maintenance retainer)",

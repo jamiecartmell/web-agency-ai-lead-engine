@@ -1,0 +1,11 @@
+{
+  "name": "web-agency-ai-lead-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "pipeline": "node --env-file=.env pipeline.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0"
+  }
+}

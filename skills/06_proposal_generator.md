@@ -30,6 +30,7 @@ Proposal Type Selection
 
 Choose exactly ONE proposal_type from the following:
 
+- New Website Build
 - Conversion Sprint
 - Local SEO Starter
 - Performance Upgrade
@@ -38,6 +39,7 @@ Choose exactly ONE proposal_type from the following:
 
 Select proposal_type using this guidance:
 
+- If primary_angle_type is "New website build" -> "New Website Build"
 - If primary_angle_type is "Conversion unlock" -> "Conversion Sprint"
 - If primary_angle_type is "Local SEO growth" -> "Local SEO Starter"
 - If primary_angle_type is "Performance and UX uplift" -> "Performance Upgrade"
@@ -55,6 +57,7 @@ Choose exactly ONE engagement_model from the following:
 
 Select using this guidance:
 
+- New Website Build -> "Phased approach (two defined phases)" — Phase 1: design and build; Phase 2: Google Business setup and initial content
 - Conversion Sprint -> "One-time project"
 - Local SEO Starter -> "Phased approach (two defined phases)" — Phase 1: technical setup; Phase 2: content plan
 - Performance Upgrade -> "One-time project"
@@ -92,7 +95,7 @@ Use this exact JSON structure and field names:
 Field Guidance
 
 - business_name: carry through from lead_input.
-- proposal_type: one of the five types listed above.
+- proposal_type: one of the six types listed above.
 - problem_summary: 2 to 3 sentences summarising the commercial opportunity based on audit_output and angle_output. Frame as opportunity, not criticism. Use specific signals from the inputs.
 - recommended_solution: 1 to 2 sentences clearly describing the proposed package in plain language. Name the specific deliverables at a high level.
 - scope_of_work: exactly 3 items. Concrete, specific tasks drawn from offer_scope_points in angle_output and prioritised_recommendations in audit_output. Each item should be actionable and name a deliverable.

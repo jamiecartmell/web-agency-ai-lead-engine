@@ -1,0 +1,34 @@
+{
+  "business_name": "Arnos Bistrot",
+  "validation_status": "ready",
+  "field_completeness_score": 0.9,
+  "missing_fields": [
+    "pagespeed_desktop (not counted — desktop score present, this field is complete)",
+    "has_blog_or_updates — false, confirmed present"
+  ],
+  "signal_conflicts": [],
+  "edge_cases_detected": [
+    "reviews_rating of 4.9 across 293 reviews is an exceptionally strong trust signal — pipeline should prioritise surfacing this"
+  ],
+  "recommended_action": "Proceed to Skill 1 — all critical signal fields are present and no conflicts detected.",
+  "normalised_input": {
+    "business_name": "Arnos Bistrot",
+    "website": "https://arnosbistrot.com/",
+    "location": "Westport, Co. Mayo, Ireland",
+    "industry": "Hospitality, Restaurant",
+    "source": "Google Maps",
+    "signals": {
+      "ssl_active": true,
+      "platform": "WordPress",
+      "pagespeed_mobile": 65,
+      "pagespeed_desktop": 98,
+      "mobile_ux": "ok",
+      "has_contact_form": true,
+      "has_booking_system": true,
+      "has_blog_or_updates": false,
+      "reviews_rating": 4.9,
+      "reviews_count": 293
+    },
+    "notes": "Static content structure, strong Google rating, testimonials manually displayed, no dynamic content section."
+  }
+}

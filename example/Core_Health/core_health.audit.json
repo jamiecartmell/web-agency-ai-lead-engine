@@ -1,56 +1,72 @@
 {
   "business_name": "Core Health and Performance",
-  "audit_focus_area": "SEO optimisation audit",
+  "audit_focus_area": "Conversion optimisation audit",
   "opportunity_level": "Medium",
-  "primary_service_angle": "SEO optimization",
-  "audit_summary": "Core Health and Performance has a clean, well-presented website with a perfect Google rating and solid desktop performance. The primary opportunity is the absence of a content or blog section, which limits ongoing search visibility for a health and fitness business. Adding a content section alongside an online booking pathway would directly address the two most actionable gaps.",
+  "primary_service_angle": "Conversion optimization",
+  "audit_summary": "Core Health and Performance presents a clean, modern Wix website with strong trust signals, including a perfect 5-star rating across 53 Google reviews. However, the absence of an online booking system, a single-page static structure, and a moderate mobile PageSpeed score of 63 are limiting the site's ability to convert interested visitors into paying clients. Targeted improvements to booking flow, mobile performance, and content depth would meaningfully strengthen client acquisition from organic and local search traffic.",
   "findings": {
     "performance": [
-      "Mobile PageSpeed score of 63 indicates moderate performance — possible contributing factors include platform script overhead or unoptimised images, though this cannot be confirmed from public signals alone",
-      "Desktop PageSpeed score of 93 is strong — the core build performs well on desktop"
+      "Mobile PageSpeed score of 63 is rated moderate, indicating there is meaningful room for improvement on mobile load performance.",
+      "Desktop PageSpeed score of 93 is strong, suggesting the core site build is well-optimised for desktop environments.",
+      "The performance gap between mobile (63) and desktop (93) is notable. Possible contributing factors on a Wix platform include render-blocking scripts, unoptimised image delivery for mobile viewports, or third-party embed overhead, though these are possible causes and not confirmed without further inspection.",
+      "For a health and fitness audience that is likely to browse and convert on mobile, closing this gap should be treated as a priority."
     ],
     "mobile_ux": [
-      "Mobile UX is rated ok — the site is functional on mobile but may have friction points affecting new client conversion",
-      "For a health and fitness business, ensuring consultation CTAs and contact options are prominent and easily tappable on mobile would support the enquiry pathway"
+      "Mobile UX is rated as ok, which indicates a functional but not fully optimised mobile experience.",
+      "Single-page layout may present scrolling and navigation challenges on smaller screens, particularly when users are trying to locate contact details or understand service offerings quickly.",
+      "CTA placement and tap target sizing should be reviewed to ensure key actions such as contacting or enquiring are immediately accessible on mobile without excessive scrolling.",
+      "No booking system is present, which removes the highest-value mobile conversion pathway entirely."
     ],
     "conversion": [
-      "Contact form is present — a basic enquiry pathway is in place",
-      "No booking or consultation system is present — for a health and fitness business this limits the ability of new clients to take a direct next step",
-      "No click-to-call functionality was identified in the input signals"
+      "A contact form is present, which provides a baseline enquiry pathway.",
+      "No online booking system is available. For a health and fitness business, the absence of a direct booking flow is a significant conversion gap. Prospective clients who are ready to commit may leave if they cannot schedule a session immediately.",
+      "The single-page static layout limits the ability to guide users through a structured conversion journey, such as services overview to social proof to booking action.",
+      "Testimonials are manually displayed rather than dynamically embedded, which reduces their visual impact and credibility signalling compared to live review integrations.",
+      "No visible click-to-call element was noted. For mobile users, a prominently displayed phone link can meaningfully increase direct contact rates."
     ],
     "seo_fundamentals": [
-      "No blog or updates section is present — this is the primary SEO gap for a health and professional business where content authority and freshness directly support search visibility",
-      "Notes confirm a single-page static layout with no dynamic content section — limited content depth reduces the number of indexable pages and keyword targets",
-      "Location data available (Westport, Co. Mayo) — LocalBusiness schema markup relevant to health and fitness would strengthen local search appearance if not already implemented"
+      "No blog or content updates section is present. This limits the site's ability to build topical authority, rank for long-tail health and fitness queries, and signal freshness to search engines.",
+      "Single-page static structure reduces the number of indexable pages and opportunities to target distinct service or location-based search terms.",
+      "Local intent support is partially addressed by the business location in Westport, Co. Mayo, though the extent of on-page location optimisation across headings, meta descriptions, and body content is unknown from available signals.",
+      "Schema markup such as LocalBusiness, FAQPage, or Service schema is not confirmed as present. Adding structured data would be a recommended enhancement to improve local search appearance.",
+      "Content depth appears limited based on the static single-page structure, reducing the site's ability to demonstrate expertise to both users and search engines."
     ],
     "trust_social_proof": [
-      "Perfect 5.0 Google rating across 53 reviews is an exceptional trust signal for a health business",
-      "Testimonials are manually displayed per notes — dynamically embedding live Google Reviews would surface this strong social proof more effectively and reduce ongoing manual effort"
+      "Google reviews rating of 5.0 across 53 reviews is excellent and represents a strong trust asset.",
+      "Testimonials are manually displayed on the site, which confirms some social proof integration but lacks the credibility and recency signalling of a live review embed.",
+      "Integrating a live Google review feed or widget would increase perceived authenticity and keep social proof content current without manual updates.",
+      "Social media links presence is unknown from available signals."
     ],
     "security_maintenance": [
-      "SSL is active — secure browsing is in place",
-      "Site runs on Wix — platform-level infrastructure is managed by Wix, though content freshness, image optimisation, and page structure remain within the owner's control"
+      "SSL certificate is active. The site is served securely, which is a baseline requirement met.",
+      "Platform is Wix, which is a hosted solution. Core updates and security patching are managed by Wix at the platform level, reducing some maintenance risk.",
+      "As a hosted platform, Wix does limit certain customisation options related to performance optimisation and advanced SEO configurations. This is worth considering if growth ambitions increase beyond what the current platform supports.",
+      "Proactive content and UX maintenance, such as keeping service information current, refreshing testimonials, and monitoring PageSpeed scores, would support ongoing performance."
     ]
   },
   "prioritised_recommendations": {
     "p1_quick_wins": [
-      "Add a blog or content section covering fitness tips, client stories, or service updates — this is the most direct action to improve organic search visibility for a health business",
-      "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface the perfect 5.0 rating automatically"
+      "Add an online booking system or scheduling link, even a lightweight solution such as Calendly or a Wix Bookings integration. This directly addresses the most significant conversion gap and removes friction for ready-to-book clients.",
+      "Add a prominent click-to-call button or sticky contact CTA on mobile to capture users who prefer to call rather than fill out a form. This is a low-effort addition with immediate conversion impact.",
+      "Replace or supplement manually displayed testimonials with a live Google review widget or embed to improve credibility signalling and reduce manual update burden."
     ],
     "p2_growth_improvements": [
-      "Add an online consultation or booking request system — reduces friction for new clients and supports conversion from search traffic",
-      "Review mobile performance settings within Wix, particularly image sizing and lazy loading, to move the mobile score from moderate to strong",
-      "Implement LocalBusiness and relevant health business schema markup to strengthen local search appearance"
+      "Introduce a simple blog or news section with monthly posts covering fitness tips, training advice, or client success themes. This supports local SEO, demonstrates expertise, and gives returning visitors a reason to re-engage.",
+      "Implement LocalBusiness schema markup to improve the site's structured data footprint and support enhanced appearance in local search results for Westport and surrounding areas.",
+      "Audit and optimise mobile image delivery and review any third-party script loading on the Wix site to close the gap between the mobile PageSpeed score of 63 and the strong desktop score of 93."
     ],
     "p3_strategic_enhancements": [
-      "Consider expanding from a single-page to a multi-page structure as content grows — supports deeper SEO coverage and improves navigation for returning visitors"
+      "Consider expanding the single-page structure into a multi-page site to support distinct service pages, each targeting specific search queries such as personal training Westport or physiotherapy Mayo. This would significantly improve SEO reach and allow more tailored conversion journeys per service type."
     ]
   },
   "assumptions_and_unknowns": [
-    "Hosting infrastructure is managed by Wix — hosting provider details beyond platform are not applicable",
-    "Click-to-call presence was not confirmed in input signals",
-    "Social media links and profiles were not included in the input",
-    "Schema markup presence cannot be confirmed from public signals alone"
+    "Hosting provider is not applicable as the site is on Wix, a fully hosted platform.",
+    "Social media links presence was not confirmed in available signals.",
+    "Click-to-call element presence was not confirmed in available signals.",
+    "On-page SEO details such as meta titles, meta descriptions, heading structure, and existing schema markup are unknown without direct inspection.",
+    "Specific services offered and their individual page or section treatment are unknown beyond the general fitness and health industry classification.",
+    "Whether the contact form is functional and actively monitored was not confirmed.",
+    "No information was provided on current traffic sources or paid advertising activity."
   ],
-  "next_best_action": "Share a short SEO improvement plan focused on adding a content section, and propose a 15 minute call to discuss how regular updates and a booking system could grow new client enquiries"
+  "next_best_action": "Prepare a short visual improvement summary highlighting the booking gap and mobile performance opportunity, and propose a 15-minute discovery call to discuss how a booking integration and content plan could convert their strong 5-star reputation into more direct client enquiries."
 }

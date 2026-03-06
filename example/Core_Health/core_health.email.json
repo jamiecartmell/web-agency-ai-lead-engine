@@ -2,15 +2,15 @@
   "business_name": "Core Health and Performance",
   "recipient_role_guess": "Owner or Practice Manager",
   "subject_options": [
-    "Core Health and Performance — local search visibility",
-    "A content gap worth addressing for Core Health",
-    "Core Health — one improvement for organic reach"
+    "Core Health and Performance — one gap worth closing",
+    "Turning 53 five-star reviews into direct bookings",
+    "What happens after someone finds you on Google"
   ],
-  "email_body": "I came across Core Health and Performance while researching fitness and wellness businesses in Westport and wanted to reach out.\n\nYou have a perfect 5.0 Google rating — a strong signal of trust for anyone looking for a health and fitness provider in the area. The main gap I noticed is the absence of a blog or content section, which limits how often the site surfaces for relevant local searches beyond your existing audience.\n\nI work with health and wellness businesses on local SEO improvements — specifically setting up a content section, adding structured schema markup, and embedding Google Reviews dynamically. This is a defined starter package, typically completed in two weeks, that creates an ongoing foundation for organic visibility.\n\nIf it would help, I am happy to send over a short walkthrough of what that would look like for a business like yours.\n\nBest regards\n[Your name]",
-  "cta": "If it would help, I am happy to send over a short walkthrough of what that would look like for a business like yours.",
-  "follow_up_body": "Just following up on my email from last week about Core Health and Performance. The core opportunity I mentioned — adding a content section and local schema markup — is a defined, fixed-scope project that would help the site surface for more local searches without requiring ongoing effort from you. Happy to put together a short outline if that would be easier to review. Is this something worth exploring over the coming months?",
+  "email_body": "I came across Core Health and Performance while looking at fitness businesses in Westport and wanted to reach out directly.\n\nYou have a perfect 5-star rating across 53 Google reviews, which is a genuinely strong signal for anyone searching for a trainer or clinic in the area. The one thing the site does not currently offer is a way for that person to book a session on the spot — there is no scheduling option, so a motivated visitor has to take an extra step to follow through.\n\nI work with health and wellness businesses on focused conversion improvements — in this case, integrating a booking system into your existing Wix site, along with some mobile contact improvements to make it easier for people to act quickly.\n\nWould you be open to a short walkthrough call where I can show you exactly what a booking integration would look like on your current site and what it would take to get it live?\n\nBest regards\n[Your name]",
+  "cta": "Would you be open to a short walkthrough call where I can show you exactly what a booking integration would look like on your current site and what it would take to get it live?",
+  "follow_up_body": "I sent a note last week about adding a booking integration to your Wix site — wanted to follow up briefly in case it got buried.\n\nThe short version is that with 53 five-star reviews driving trust, a direct scheduling option could close the gap between someone finding you and actually becoming a client. It is a contained piece of work with no platform change required.\n\nIs this something you would consider over the coming months, or is there someone else on your end who looks after the website?",
   "personalisation_tokens_used": [
-    "Perfect 5.0 Google rating across 53 reviews",
-    "No blog or content section present on the site"
+    "5-star rating across 53 Google reviews",
+    "Wix platform (referenced to frame the offer as working within the existing setup)"
   ]
 }

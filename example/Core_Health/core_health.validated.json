@@ -1,0 +1,35 @@
+{
+  "business_name": "Core Health and Performance",
+  "validation_status": "ready",
+  "field_completeness_score": 0.9,
+  "missing_fields": [
+    "mobile_ux"
+  ],
+  "signal_conflicts": [],
+  "edge_cases_detected": [
+    "reviews_rating is 5.0 — unusually strong trust signal, flag for pipeline output.",
+    "pagespeed_mobile (63) and pagespeed_desktop (93) differ by 30 points — within normal range but notable mobile underperformance relative to desktop.",
+    "mobile_ux is 'ok' while pagespeed_mobile is 63 — not a conflict but indicates room for mobile experience improvement."
+  ],
+  "recommended_action": "Proceed to Skill 1.",
+  "normalised_input": {
+    "business_name": "Core Health and Performance",
+    "website": "https://www.corehealthandperformance.ie/",
+    "location": "Westport, Co. Mayo, Ireland",
+    "industry": "Fitness And Health",
+    "source": "Google Maps",
+    "signals": {
+      "ssl_active": true,
+      "platform": "Wix",
+      "pagespeed_mobile": 63,
+      "pagespeed_desktop": 93,
+      "mobile_ux": "ok",
+      "has_contact_form": true,
+      "has_booking_system": false,
+      "has_blog_or_updates": false,
+      "reviews_rating": 5,
+      "reviews_count": 53
+    },
+    "notes": "Single page layout, static content structure, testimonials manually displayed, no dynamic content section."
+  }
+}
