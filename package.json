@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "pipeline": "node --env-file=.env pipeline.js"
+    "pipeline": "node --env-file=.env pipeline.js",
+    "backfill": "node backfill.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.0"

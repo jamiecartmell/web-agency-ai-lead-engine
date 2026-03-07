@@ -63,6 +63,7 @@ function appendToTracker(leadInput, opportunityOutput, angleOutput, proposalOutp
     'Date', 'Business Name', 'Industry', 'Location', 'Website',
     'Opportunity', 'Angle', 'Offer', 'Proposal Type',
     'Subject 1', 'Subject 2', 'Subject 3',
+    'Email Body', 'CTA', 'Follow-up Body',
     'Status', 'Follow-up Sent', 'Response', 'Notes',
   ];
 
@@ -79,6 +80,9 @@ function appendToTracker(leadInput, opportunityOutput, angleOutput, proposalOutp
     emailOutput.subject_options[0] ?? '',
     emailOutput.subject_options[1] ?? '',
     emailOutput.subject_options[2] ?? '',
+    emailOutput.email_body ?? '',
+    emailOutput.cta ?? '',
+    emailOutput.follow_up_body ?? '',
     '', '', '', '',
   ];
 
