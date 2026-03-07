@@ -2,37 +2,37 @@
   "business_name": "a Thai Noodle Bar",
   "vertical_bucket": "Hospitality",
   "what_matters_in_this_vertical": [
-    "Online table booking and reservation pathway",
-    "Mobile conversion for on-the-go diners",
-    "Surfacing review credibility directly on the site",
-    "Click-to-call accessibility for quick enquiries",
-    "Local search visibility for dining intent queries"
+    "Seamless booking and reservation pathway",
+    "Visible social proof and review integration at point of conversion",
+    "Local search visibility for dining and food queries in Westport",
+    "Content freshness to capture seasonal and tourism-driven traffic",
+    "Mobile experience quality for on-the-go visitors"
   ],
   "likely_customer_intent": [
-    "Find a well-reviewed local restaurant for a specific occasion",
-    "Book a table online quickly without calling",
-    "Browse the menu before visiting",
-    "Check opening hours, location, and contact details on mobile",
-    "Read reviews to confirm the restaurant meets their expectations"
+    "Find a Thai restaurant in Westport and check it looks reputable",
+    "Read reviews before deciding where to eat",
+    "Make a booking or check availability quickly",
+    "Browse the menu to confirm the food suits them",
+    "Get directions or contact details while already in the area"
   ],
-  "commercial_risk_if_unaddressed": "The current site is well-positioned and performing effectively across all primary conversion and performance signals. The main longer-term risk is allowing the site to become stale — particularly on content freshness and schema markup — as competitors with growing review counts and active content strategies could gradually close the gap in local search visibility.",
-  "strongest_positioning_angle": "a Thai Noodle Bar has a technically strong, well-converting website with a solid review profile — the opportunity is in protecting and extending that position through ongoing maintenance and schema improvements rather than addressing urgent gaps.",
+  "commercial_risk_if_unaddressed": "Without fresh content and local schema in place, the site may underperform on location-based search queries that drive tourist and visitor traffic in a seasonal destination like Westport. As competitor restaurants improve their online presence, a technically strong site that lacks visible social proof and indexable content updates risks losing booking intent to businesses that appear more active and credible in local search results.",
+  "strongest_positioning_angle": "a Thai Noodle Bar already has an excellent technical foundation and strong review reputation, making it well-placed to convert more of its existing traffic with targeted trust-surfacing and local content that require minimal lift to implement.",
   "top_3_outreach_talking_points": [
-    "Your website is performing well — booking system in place, strong mobile experience, and a 4.6 Google rating. We work with hospitality businesses to make sure that strong foundation continues to work as the site matures, with proactive WordPress maintenance and targeted improvements to local search visibility.",
-    "Adding LocalBusiness and Restaurant schema markup is a low-effort improvement that strengthens how your site appears in local search results — it does not change the design and typically takes less than a day to implement.",
-    "Confirming your Google Reviews are dynamically surfaced on the site ensures your social proof stays current without manual updates — a small change that keeps your credibility visible to every new visitor."
+    "Your site is technically one of the best-performing restaurant sites we have reviewed in the region, and there are a handful of small additions that could make it work even harder for you during the busy tourist season.",
+    "You have 102 Google reviews averaging 4.6 stars, which is a genuinely strong asset. Bringing even a few of those reviews onto the site itself, near the booking button, gives first-time visitors the confidence to book without leaving the page.",
+    "Westport attracts significant visitor traffic and there is a clear opportunity to capture more of those searches with a light content section covering seasonal menus or local dining guides, without requiring a major time commitment from you."
   ],
   "likely_objections": [
-    "The site is already working well and we are happy with it",
-    "We do not want to change anything that might break what is already working",
-    "We handle everything through our current developer",
-    "We are not looking to invest in the website right now"
+    "The site is already doing well, so we are not sure what needs to change",
+    "We get a lot of bookings through word of mouth and do not rely heavily on the website",
+    "We do not have time to write blog posts or update content regularly",
+    "We already have someone who built the site and handles it if something breaks"
   ],
-  "recommended_offer_angle": "Position a low-touch maintenance and optimisation retainer: WordPress care plan plus a one-time schema and review embedding setup. Frame it as protecting and extending a strong existing position — not fixing problems — with a clear monthly cost and no lock-in. This suits the low-opportunity profile and keeps the relationship open for a larger engagement later.",
+  "recommended_offer_angle": "Position an entry-level managed maintenance and content support package that handles WordPress updates, backups, and uptime monitoring, with a monthly light-touch content or menu update included. Frame this as protecting and incrementally building on the performance already achieved rather than fixing anything broken.",
   "unknowns_to_clarify": [
-    "Is the blog signal inconsistency resolved — the structured input and notes contradict each other on whether a blog section exists, which should be confirmed before outreach",
-    "Does the business have an existing WordPress developer or maintenance arrangement in place",
-    "Are Google Reviews currently embedded dynamically on the site or managed manually",
-    "Is LocalBusiness and Restaurant schema markup already implemented — this cannot be confirmed from public signals alone"
+    "Are Google reviews currently featured anywhere on the website, or only visible externally on Google Maps?",
+    "Which third-party booking system is in use, and has the mobile booking flow been tested for completion rate and load reliability?",
+    "Does the business have active social media profiles, and are these linked from the website?",
+    "Is there currently any maintenance or hosting support arrangement in place, or is the site largely self-managed since launch?"
   ]
 }

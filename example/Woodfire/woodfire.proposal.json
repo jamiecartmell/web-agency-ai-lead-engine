@@ -1,20 +1,20 @@
 {
   "business_name": "Woodfire Westport",
   "proposal_type": "Conversion Sprint",
-  "problem_summary": "Woodfire Westport has 573 Google reviews at a 4.6 rating — a strong public reputation that is already driving traffic to the website. The site currently has no contact form, booking system, or click-to-call button, meaning visitors who arrive with intent to enquire or reserve have no way to act from the site itself. Addressing this is the single highest-impact improvement available and does not require any structural changes to the existing build.",
-  "recommended_solution": "A focused Conversion Sprint to add an enquiry form, click-to-call button, and online reservation system — giving visitors a clear and direct path to contact or book, and putting the existing review-driven traffic to practical use.",
+  "problem_summary": "Woodfire Westport has built one of the strongest review profiles in its local market with 573 Google ratings at 4.6 stars, yet the current website provides no booking system, no contact form, and no on-site social proof to convert that reputation into direct reservations. Visitors arriving with clear dining intent currently have no action to take beyond browsing, meaning the site is not capturing the commercial value of its strong organic and Google Maps presence.",
+  "recommended_solution": "A focused conversion sprint to add a reservation or enquiry widget, embed a curated Google reviews section on the homepage, and confirm a prominent click-to-call phone number is in place on mobile. All changes will be implemented within the existing WordPress build without disrupting the current site structure or desktop performance.",
   "scope_of_work": [
-    "Add a contact or enquiry form to the homepage with email notification and confirmation response",
-    "Implement a click-to-call button visible on mobile, positioned prominently for on-the-go visitors",
-    "Integrate an online reservation or booking system with a confirmation flow and calendar management"
+    "Install and configure a reservation or enquiry widget on the website, such as OpenTable, ResDiary, or a lightweight contact form, providing visitors with a direct on-site pathway from discovery to confirmed booking or enquiry.",
+    "Embed a curated Google reviews section or live review widget on the homepage to surface the 4.6-star rating and 573 reviews at the point of visitor decision-making, strengthening on-site trust without requiring users to navigate away.",
+    "Audit and implement a prominent click-to-call phone number displayed above the fold on mobile, ensuring every visitor arriving from Google Maps or search has an immediate low-friction contact option available."
   ],
   "expected_outcomes": [
-    "Visitors arriving via Google search or review platforms should have a direct way to enquire or reserve without needing to call or visit in person",
-    "Mobile conversion is likely to improve as visitors browsing on the go can act immediately from the site",
-    "The 573-review reputation already earned on Google should translate more directly into measurable site interactions"
+    "Adding a direct booking or enquiry pathway should improve the site's ability to convert visitors arriving with dining intent into confirmed reservations or active enquiries.",
+    "Surfacing the existing Google review reputation on the homepage is likely to strengthen visitor confidence at the point of decision, reducing reliance on third-party platforms to validate the business.",
+    "A confirmed click-to-call number and improved mobile conversion options should reduce the number of mobile visitors who leave the site without taking any action."
   ],
   "timeline_estimate": "1 to 2 weeks",
   "engagement_model": "One-time project",
-  "next_steps": "Schedule a 15 minute call this week to confirm the preferred booking system, agree the contact form placement, and set a start date.",
-  "risks_if_delayed": "Every week without a contact or booking pathway means reputation-driven visitors continue to have no direct route to engage — and the gap between the business's public credibility and its website remains unresolved."
+  "next_steps": "Schedule a 15-minute call to confirm whether the business takes reservations or operates as walk-in only, and to agree on the preferred booking or enquiry solution before work begins.",
+  "risks_if_delayed": "Each week without a booking pathway means visitors arriving with genuine dining intent continue to have no direct on-site route to reserve a table, leaving that conversion value uncaptured. The longer the 4.6-star review reputation goes unsurfaced on the website itself, the longer it remains an asset that only benefits third-party platforms rather than the business directly."
 }

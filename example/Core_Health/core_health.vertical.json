@@ -2,37 +2,37 @@
   "business_name": "Core Health and Performance",
   "vertical_bucket": "Health and Wellness",
   "what_matters_in_this_vertical": [
-    "Online booking or consultation scheduling as a direct conversion pathway",
-    "Trust and authority signals including reviews, qualifications, and testimonials",
-    "Mobile experience for users researching and booking on the go",
-    "Clear service descriptions that help prospects self-select and take action",
-    "Local credibility and visibility for Westport and surrounding Mayo catchment"
+    "Direct booking or scheduling pathway for sessions and consultations",
+    "Trust and authority signals, including visible reviews and ratings",
+    "Mobile conversion readiness for local intent searches",
+    "Service clarity and structured calls to action",
+    "Local credibility and search visibility in Westport and Co. Mayo"
   ],
   "likely_customer_intent": [
-    "Find a trusted local fitness or health specialist in the Westport area",
-    "Understand what services are available and whether they match their goal",
-    "Read reviews and assess credibility before making contact",
-    "Book a session or initial consultation as quickly as possible",
-    "Get a phone number or contact option without having to search for it"
+    "Find a local fitness or health specialist in Westport",
+    "Understand what services or programmes are available",
+    "Check reviews and assess credibility before making contact",
+    "Book a session, class, or initial consultation directly",
+    "Get contact details quickly on a mobile device"
   ],
-  "commercial_risk_if_unaddressed": "Without an online booking system, motivated prospective clients who are ready to commit have no immediate way to act on that intent and may contact a competitor who offers a simpler path to booking. A mobile PageSpeed score of 63 compounds this by increasing the likelihood that mobile visitors drop off before reaching the contact form at all.",
-  "strongest_positioning_angle": "Core Health and Performance has built exceptional local trust with a perfect 5-star rating across 53 reviews, but the absence of an online booking system means that reputation is not being fully converted into new client appointments.",
+  "commercial_risk_if_unaddressed": "Without a direct booking pathway, prospective clients who are ready to commit must take an additional step through a contact form or phone call, increasing the likelihood they move on to a competitor who offers instant scheduling. The moderate mobile performance score adds a secondary friction point at the moment of highest intent, when a local search leads to a first site visit on a smartphone.",
+  "strongest_positioning_angle": "Core Health and Performance has an exceptional 5-star reputation across 53 reviews and a well-built site, but the absence of an online booking system means motivated new clients cannot convert on-site at the moment they are most ready to act.",
   "top_3_outreach_talking_points": [
-    "Your Google reviews are outstanding, a perfect 5 stars across 53 ratings is a genuinely strong local reputation. We can help make sure that credibility is the first thing prospective clients see and act on when they land on your site.",
-    "Right now, visitors who are ready to book have no way to do so directly from your website. Adding a simple booking integration could turn your existing traffic into confirmed appointments without any additional ad spend.",
-    "There is a noticeable gap between your desktop and mobile performance scores, and most health and fitness clients are browsing on their phones. Closing that gap is a practical step that improves the experience for the majority of your site visitors."
+    "Your 5-star rating across 53 reviews is a genuinely strong asset. There is a straightforward opportunity to make that rating more visible above the fold and use it to convert first-time visitors before they scroll or leave.",
+    "Adding a lightweight booking tool to your existing Wix site would allow clients to schedule sessions directly, without waiting for a reply. This is now a standard expectation in the fitness and health space and represents the single highest-impact improvement available on your current setup.",
+    "Your desktop site performs very well, and a targeted set of mobile improvements could bring your mobile experience in line with that standard. Given that most local health and fitness searches happen on mobile, this is a practical step toward capturing more of the traffic you are already earning."
   ],
   "likely_objections": [
-    "We already have a website and it works fine for us",
-    "Most of our clients come through word of mouth or Instagram, not the website",
-    "We manage bookings ourselves by phone and that suits how we operate",
-    "Wix is simple and we can make changes ourselves when we need to"
+    "We already have a contact form and people use it to get in touch",
+    "We manage bookings manually and that works fine for now",
+    "We are on Wix so there is probably not much that can be changed",
+    "We get a lot of our clients through word of mouth and social media"
   ],
-  "recommended_offer_angle": "Given the medium opportunity level and a clear conversion gap as the primary finding, a focused entry offer around a booking integration and mobile conversion package would be a natural fit. Position it as a done-for-you setup that connects their existing reputation directly to new client enquiries, with a free audit walkthrough call as the first step.",
+  "recommended_offer_angle": "Position an entry-point offer around a Wix conversion audit and quick-win implementation package, covering mobile performance improvements, booking system integration using Wix Bookings or a compatible third-party tool, and hero section trust signal updates. Frame this as a focused engagement that improves the site they already have, with no disruption to the existing setup.",
   "unknowns_to_clarify": [
-    "What services does Core Health and Performance offer specifically, for example personal training, physiotherapy, group classes, or nutrition coaching, as this shapes how service pages and booking flows should be structured.",
-    "Are they currently using any booking or scheduling tool, even informally such as WhatsApp, phone, or a third-party platform like Calendly or Mindbody?",
-    "What are their primary traffic sources currently, and are they running any local search ads or relying solely on organic and social channels?",
-    "Is the business owner also the primary service provider, or do they have a team, as this affects how content depth and multi-page expansion should be prioritised?"
+    "Is the business owner actively managing the Google Business Profile, and are they aware of how their review count and rating can be surfaced more effectively on the website?",
+    "Are there specific services, class types, or session formats that should each have their own booking flow or landing page?",
+    "Does the business have active social media profiles that could be linked from the site to reinforce trust and community signals?",
+    "Has the owner previously explored booking tools such as Wix Bookings, and if so, what stopped them from implementing one?"
   ]
 }

@@ -1,38 +1,38 @@
- {
+{
   "business_name": "Woodfire Westport",
   "vertical_bucket": "Hospitality",
   "what_matters_in_this_vertical": [
-    "Online table booking and reservation pathway",
-    "Mobile conversion for on-the-go diners",
-    "Surfacing review credibility directly on the site",
-    "Click-to-call accessibility for quick enquiries",
-    "Local search visibility for dining intent queries"
+    "Direct table booking and reservation pathways",
+    "Mobile-first experience for on-the-go discovery",
+    "Visibility in local search and Google Maps results",
+    "Social proof and review surfacing at point of decision",
+    "Click-to-call and low-friction contact options"
   ],
   "likely_customer_intent": [
-    "Find a highly-rated local restaurant",
-    "Book a table or check availability online",
-    "Read reviews before deciding where to eat",
-    "Call or get directions quickly from a mobile device",
-    "View the menu and understand the food offering"
+    "Check if the restaurant is open and available on a specific date",
+    "View the menu before deciding where to eat",
+    "Book a table directly or find a quick way to call",
+    "Read reviews to validate the choice before visiting",
+    "Get directions or confirm the location in Westport"
   ],
-  "commercial_risk_if_unaddressed": "Woodfire Westport has 573 Google reviews driving a steady flow of reputation-led traffic to a website that currently offers no contact form, no booking system, and no enquiry pathway. Every visitor who cannot act on that intent is a potential customer lost to a competitor who makes the next step easier. This is an active and ongoing conversion loss, not a future risk.",
-  "strongest_positioning_angle": "With 573 Google reviews and a 4.6 rating, Woodfire Westport is already generating significant reputation-driven traffic — the urgent opportunity is giving those visitors somewhere to go by adding a basic contact or booking pathway before competitors with comparable ratings do.",
+  "commercial_risk_if_unaddressed": "Visitors arriving with genuine intent to dine currently have no on-site pathway to book or enquire, meaning a proportion of that high-review-driven traffic is converting elsewhere or not at all. With no booking system or contact form in place, the site is not capturing the commercial value of its strong Google reputation.",
+  "strongest_positioning_angle": "Woodfire Westport has built one of the strongest review profiles in its local market with 573 ratings at 4.6 stars, but the website currently has no mechanism to convert that credibility into direct reservations, making it a straightforward and high-impact fix.",
   "top_3_outreach_talking_points": [
-    "You have 573 Google reviews — one of the strongest local restaurant profiles we have come across — but the website currently has no way for visitors to book, enquire, or even call directly. Adding a contact form and booking system would immediately put that reputation to work.",
-    "A click-to-call button alone is one of the lowest-effort, highest-return additions for a restaurant website — mobile users looking to check availability or make a reservation expect to be able to tap and call in seconds.",
-    "Embedding your Google Reviews on the site rather than leaving them only on Google means new visitors see your reputation the moment they land — not just the ones who already searched for you specifically."
+    "Your Google reviews are doing serious work for you with 573 ratings at 4.6 stars, and there is a clear opportunity to bring that social proof onto the website itself so visitors see it before they decide where to eat.",
+    "Adding a simple booking widget or reservation pathway to your site would give diners a direct route from discovery to confirmed table, without relying on them to call or find you on a third-party platform.",
+    "Your desktop site is performing at 99 on PageSpeed, which means the technical foundation is solid and targeted mobile improvements could be made quickly without any major rebuild."
   ],
   "likely_objections": [
-    "We are very busy already and do not need more bookings right now",
-    "Customers can find us on Google — the website is just there for information",
-    "We do not want to add anything that takes time to manage",
-    "We have been meaning to update the site but have not had time"
+    "We get most of our bookings through phone or walk-ins so we don't think we need an online system",
+    "We already have a website and it seems to be working fine for us",
+    "We're busy enough and don't have time to manage a booking platform",
+    "We use Instagram and Google for most of our customer communication"
   ],
-  "recommended_offer_angle": "Lead with an urgent, minimal-commitment entry offer: a contact form, click-to-call button, and embedded Google Reviews widget — positioned as a quick conversion fix that takes days not weeks and requires no ongoing management from the owner. Frame it as closing a gap that is actively costing bookings right now, with the booking system as a clear natural next step.",
+  "recommended_offer_angle": "Given the high opportunity level and conversion-focused audit findings, a strong entry point would be a focused conversion starter package: add a booking or enquiry widget, embed a Google reviews section, and confirm click-to-call is properly set up on mobile. This is a contained, low-disruption engagement that delivers visible results quickly and opens the door to broader SEO and content work.",
   "unknowns_to_clarify": [
-    "Does the business currently take bookings by phone, walk-in only, or through a third-party platform — this determines which booking solution to recommend",
-    "Is there an active social media presence that could be linked from the site and used to support a content strategy",
-    "Is the owner aware the website has no contact or enquiry pathway, or has this not been flagged before",
-    "What is the hosting setup — WordPress theme, hosting provider, and maintenance history would inform a scoped maintenance recommendation"
+    "Does the business currently take reservations, or is it walk-in only? This determines whether a booking widget or a simple enquiry form is the more appropriate solution.",
+    "Is a phone number present on the site and is it click-to-call enabled on mobile? Confirming this shapes the urgency of the mobile conversion recommendation.",
+    "Are there active social media profiles linked from the site, and is the business driving traffic from Instagram or Facebook? This affects how the site fits into the wider customer journey.",
+    "Is the business open to or already using any third-party reservation platforms such as OpenTable or ResDiary, or would a lightweight on-site form be preferred?"
   ]
 }

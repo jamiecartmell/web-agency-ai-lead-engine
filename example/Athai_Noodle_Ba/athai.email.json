@@ -2,15 +2,15 @@
   "business_name": "a Thai Noodle Bar",
   "recipient_role_guess": "Owner or Manager",
   "subject_options": [
-    "a Thai Noodle Bar — keeping a well-built site in good shape",
-    "WordPress maintenance for a Thai Noodle Bar",
-    "a Thai Noodle Bar — a couple of small improvements worth noting"
+    "a Thai Noodle Bar — making 102 reviews work harder",
+    "One small addition that supports more bookings",
+    "Something worth a look for a Thai Noodle Bar"
   ],
-  "email_body": "I came across a Thai Noodle Bar while looking at restaurants in Westport and wanted to get in touch.\n\nYour site is well put together — strong mobile performance, clear layout, and a booking system already in place. The main thing worth keeping an eye on is ongoing WordPress maintenance, as sites with a strong setup like yours benefit from regular updates to stay performing at that level.\n\nThere are also a couple of small additions — local schema markup and confirming your Google Reviews are dynamically embedded — that are low effort and would strengthen how the site appears in local search.\n\nI offer a monthly WordPress care plan that covers routine maintenance and picks up improvements like these as part of the service. Happy to set up a light review call if that sounds like something worth a conversation.\n\nBest regards\n[Your name]",
-  "cta": "Happy to set up a light review call if that sounds like something worth a conversation.",
-  "follow_up_body": "Just a quick follow-up on my message from last week. The care plan I mentioned covers routine WordPress maintenance alongside a couple of low-effort improvements to local search visibility — schema markup and confirming your Google Reviews are displaying dynamically. No commitment involved in having a conversation. Is this something you would be open to looking at?",
+  "email_body": "I came across a Thai Noodle Bar while researching well-built restaurant sites in Connaught, and yours stands out technically — which is why I wanted to reach out with something specific rather than a generic pitch.\n\nYou have 102 Google reviews averaging 4.6 stars, which is a genuinely strong reputation signal for a restaurant in Westport. If those reviews are not currently visible on the site itself, first-time visitors making a booking decision are not seeing them at the moment that matters most.\n\nI work with hospitality businesses on a fixed-scope package that surfaces curated review excerpts near the booking area and confirms local schema is in place for Westport dining searches — delivered within one to two weeks, no ongoing commitment required.\n\nIf it would be useful, I am happy to send over a one-page summary of what is involved, or we could have a ten-minute call this week to talk through it.\n\nBest regards\n[Your name]",
+  "cta": "If it would be useful, I am happy to send over a one-page summary of what is involved, or we could have a ten-minute call this week to talk through it.",
+  "follow_up_body": "I wanted to follow up briefly on the email I sent last week about a Thai Noodle Bar. The core idea was a short, fixed-scope piece of work to surface your Google reviews on-site and confirm local search markup is in place for Westport dining queries — something contained and straightforward.\n\nI appreciate timing may not be right, but I wanted to ask — is this something you would consider over the coming months, or is there someone else on the team who handles the website I should direct this to?",
   "personalisation_tokens_used": [
-    "Mobile PageSpeed score of 97 — strong technical performance",
-    "WordPress platform with booking system already in place"
+    "102 Google reviews averaging 4.6 stars",
+    "Westport location used to frame local search and booking intent"
   ]
 }

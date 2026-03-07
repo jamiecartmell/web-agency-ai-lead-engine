@@ -4,11 +4,11 @@
   "opportunity_level": "High",
   "primary_service_angle": "New website build",
   "urgency_level": "Immediate",
-  "confidence_score": 0.6,
+  "confidence_score": 0.5,
   "top_visible_issues": [
-    "No website found — the business has no online presence",
-    "No Google Business listing identified — the business is not discoverable through local search",
-    "No review or trust data available — the business cannot be evaluated or found by potential customers searching online"
+    "No website found, meaning the business has no discoverable online presence for potential customers searching locally.",
+    "No Google Business listing identified, limiting visibility in local search and map results.",
+    "Without an online presence, the business is unable to capture booking interest, display opening hours, or showcase its menu to new customers."
   ],
-  "outreach_hook": "Example Cafe is an active local business in Westport with no website or Google Business listing currently identified. For a hospitality business, establishing both would create a clear online foundation and ensure the cafe appears when people search for cafes in the area."
+  "outreach_hook": "Example Cafe currently has no website or Google Business listing, which means customers searching for cafes in Westport are unlikely to find them online. A professionally built website paired with a Google Business profile could meaningfully increase their local visibility and footfall. We help hospitality businesses in Ireland establish a strong, conversion-ready online presence quickly and affordably."
 }

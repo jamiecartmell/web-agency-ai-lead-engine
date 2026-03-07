@@ -1,15 +1,19 @@
 {
   "business_name": "Woodfire Westport",
-  "validation_status": "ready",
-  "field_completeness_score": 1.0,
+  "validation_status": "proceed_with_caution",
+  "field_completeness_score": 0.9,
+  "missing_fields": [],
   "signal_conflicts": [],
-  "edge_cases_detected": [],
-  "recommended_action": "Proceed — all signal fields are present, no conflicts detected, and notes are consistent with structured signals.",
+  "edge_cases_detected": [
+    "pagespeed_mobile (74) and pagespeed_desktop (99) differ by 25 points, which is within normal range but worth noting as mobile performance lags significantly behind desktop.",
+    "mobile_ux is rated 'ok' rather than 'good', which in combination with a pagespeed_mobile score of 74 suggests a suboptimal but functional mobile experience."
+  ],
+  "recommended_action": "Proceed to Skill 1 with awareness that mobile performance and UX are below desktop standard, and that the site lacks contact, booking, and blog functionality.",
   "normalised_input": {
     "business_name": "Woodfire Westport",
     "website": "https://westportwoodfire.com/",
     "location": "Westport, Co. Mayo, Ireland",
-    "industry": "Hospitality and Restaurant",
+    "industry": "Hospitality And Restaurant",
     "source": "Google Maps",
     "signals": {
       "ssl_active": true,

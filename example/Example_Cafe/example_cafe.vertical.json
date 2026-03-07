@@ -2,37 +2,37 @@
   "business_name": "Example Cafe",
   "vertical_bucket": "Hospitality",
   "what_matters_in_this_vertical": [
-    "Local discoverability through Google search and maps",
-    "Clear display of menu, opening hours, and location",
-    "Mobile-friendly experience for on-the-go visitors",
-    "Google Business Profile and review presence",
-    "Simple contact or booking pathway for new customers"
+    "Visibility in local and tourist-driven search results",
+    "Mobile-first experience for visitors searching on the go",
+    "Clear display of opening hours, location, and menu",
+    "Google Business Profile presence and review accumulation",
+    "Low-friction contact and enquiry pathways including click-to-call"
   ],
   "likely_customer_intent": [
-    "Find a cafe nearby that is open and worth visiting",
-    "Check the menu and opening hours before travelling",
-    "Read reviews to decide whether to visit",
-    "Get directions or call ahead to check availability",
-    "Find a local cafe for a meeting, event, or specific occasion"
+    "Find a cafe nearby while visiting or exploring Westport",
+    "Check opening hours before making the trip",
+    "View the menu to decide whether to visit",
+    "Get directions or confirm the address",
+    "Read reviews to assess quality before choosing"
   ],
-  "commercial_risk_if_unaddressed": "Without a website or Google Business listing, Example Cafe is completely absent from local search results — any potential customer searching for a cafe in Westport online will not find this business. Every competitor with even a basic web presence or Google listing has a structural discoverability advantage.",
-  "strongest_positioning_angle": "Example Cafe is an active local business with no online presence — establishing a website and Google Business Profile would create immediate discoverability in a market where most searches for local hospitality businesses begin online.",
+  "commercial_risk_if_unaddressed": "With no website and no Google Business listing, Example Cafe is invisible to anyone searching online in or around Westport, including the significant tourist traffic the town attracts. Visitors with no prior knowledge of the business will default to competitors who appear in local search results and Google Maps.",
+  "strongest_positioning_angle": "Example Cafe is currently absent from every online channel a potential customer would use to find it, and a mobile-first website combined with a Google Business Profile would immediately open the business to local and tourist search traffic it is currently missing entirely.",
   "top_3_outreach_talking_points": [
-    "Most people looking for a cafe in Westport will search on Google before deciding where to go — without a website or Google Business listing, Example Cafe does not appear in those results at all, regardless of how good the offering is.",
-    "Setting up a Google Business Profile is free and takes days, not weeks — but pairing it with a simple website means customers can check your menu, hours, and location before visiting, which directly reduces friction for first-time visitors.",
-    "A new website for a local cafe does not need to be complex — a clean, mobile-first site with your menu, location, and a click-to-call button is often enough to establish a strong local presence and start accumulating Google Reviews."
+    "Westport attracts a large volume of visitors each year, and the majority will search on their phones for somewhere to eat before making a decision. A Google Business Profile alone, which costs nothing to set up, would put Example Cafe on the map for those searches immediately.",
+    "There is currently no website, no Google listing, and no visible online presence for Example Cafe, which means any potential customer searching online has no way to find the business, check the menu, or confirm opening hours before visiting.",
+    "A straightforward mobile-first website with the menu, location, hours, and a click-to-call button would give Example Cafe a professional online presence that works around the clock to bring in new footfall from both locals and tourists."
   ],
   "likely_objections": [
-    "We get enough customers through word of mouth and do not need a website",
-    "We are too busy running the cafe to deal with a website right now",
-    "We tried to set something up before and it was complicated",
-    "We cannot afford a website at the moment"
+    "We get enough customers through word of mouth and passing trade",
+    "We already have an Instagram or Facebook page so we are covered online",
+    "We would not know how to manage a website ourselves",
+    "It sounds expensive and we are not sure it would make a difference"
   ],
-  "recommended_offer_angle": "Position a starter web presence package: a simple mobile-first website plus Google Business Profile setup, framed as a single combined project with a fixed price and no ongoing obligation. Emphasise that the result is immediate local search visibility — not a complex or ongoing commitment.",
+  "recommended_offer_angle": "Propose a hospitality starter package that includes Google Business Profile setup as a free immediate first step, followed by a fixed-price mobile-first website covering homepage, menu, location and hours, and a contact page with click-to-call. Position this as a complete foundation package for a business starting from zero online, with ongoing hosting and maintenance included as a simple monthly arrangement.",
   "unknowns_to_clarify": [
-    "Does the business have any existing social media accounts that could be linked from the new website and used as early trust signals",
-    "Does the cafe operate as walk-in only or would a table booking or reservation system be relevant",
-    "Is there an existing Google Business listing that was missed during research, or has the business previously had a website",
-    "What is the owner's appetite for ongoing content updates or would a purely static site be preferred"
+    "Does the business have any existing social media accounts such as Facebook or Instagram that could be linked and used as credibility signals during the website build?",
+    "What is the cafe format in terms of table service, walk-in only, or some reservation capability, as this will determine whether a booking integration is appropriate?",
+    "Who is the decision maker for marketing and website investment, and are they the owner or a manager?",
+    "Are there any seasonal trading patterns or upcoming events such as summer tourist season or local festivals that could create a timely hook for getting the project started quickly?"
   ]
 }

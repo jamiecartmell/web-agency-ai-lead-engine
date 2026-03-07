@@ -1,20 +1,20 @@
 {
   "business_name": "Arnos Bistrot",
-  "proposal_type": "Hybrid Package",
-  "problem_summary": "Arnos Bistrot has a 4.9 Google rating across 293 reviews and an active booking system — strong foundations that are not yet fully leveraged on the website. Reviews are currently displayed manually, which reduces their credibility and requires ongoing effort to keep current. The mobile enquiry pathway is also incomplete, with no confirmed click-to-call button, and the site has no content section to support ongoing local search visibility.",
-  "recommended_solution": "A Hybrid Package covering three complementary improvements: dynamically embedding Google Reviews, adding a click-to-call button on mobile, and implementing local schema markup — delivered as a single fixed-scope project that makes the existing strong foundation work harder without adding complexity.",
+  "proposal_type": "Local SEO Starter",
+  "problem_summary": "Arnos Bistrot has built an exceptional online reputation with a 4.9-star rating across 293 Google reviews, yet this credibility is not currently being surfaced dynamically on the website itself. The mobile PageSpeed score of 65 creates friction at the moment tourist and local visitors are most likely to be searching on their phones, and the absence of any fresh content limits the site's ability to appear for a broader range of local and seasonal dining queries. Targeted local SEO improvements would help convert existing organic visibility into more direct bookings.",
+  "recommended_solution": "A focused Local SEO Starter engagement covering schema markup implementation, dynamic Google Reviews embedding, and a structured local content plan. Phase 1 addresses the technical and trust signal foundations, while Phase 2 delivers a practical content framework targeting Westport and Mayo dining queries.",
   "scope_of_work": [
-    "Embed a dynamic Google Reviews widget to surface the 4.9 rating and 293 reviews automatically, replacing the current manual testimonial display",
-    "Add a click-to-call button visible on mobile to complete the enquiry pathway for visitors browsing on the go",
-    "Implement LocalBusiness and Restaurant schema markup to strengthen how the business appears in local search results"
+    "Add Restaurant and LocalBusiness schema markup to the homepage covering location, opening hours, and review aggregate to improve appearance in local search results for Westport and Mayo dining queries.",
+    "Embed a dynamic Google Reviews widget to automatically surface the 4.9-star rating and most recent verified reviews on-site, replacing the current manually maintained testimonials display.",
+    "Deliver a lightweight local content plan outlining four to six post topics per quarter targeting relevant local search intent, including recommended page structure and on-page copy guidance to support implementation without requiring significant time investment from the team."
   ],
   "expected_outcomes": [
-    "Google Reviews displayed dynamically should carry more weight with new visitors and reduce the manual effort required to keep testimonials current",
-    "A click-to-call button is likely to increase direct phone enquiries from mobile visitors who prefer not to use the contact form",
-    "Local schema markup should improve how Arnos Bistrot appears in Google local search results, supporting visibility for dining intent queries in the Westport area"
+    "Schema markup should improve how the business appears in local search results, making key information such as location, hours, and review aggregate more visible to users searching for Westport dining options.",
+    "Dynamically embedded Google Reviews is likely to strengthen on-site trust signals for first-time visitors who are undecided, reducing the gap between discovery and a confirmed reservation.",
+    "A structured content plan should support improved crawl frequency and local search relevance over time, helping the site appear for a broader range of seasonal and location-based queries beyond the homepage."
   ],
-  "timeline_estimate": "1 to 2 weeks",
-  "engagement_model": "One-time project",
-  "next_steps": "Send a one-page scope outline for review, then schedule a short call to confirm the schema details and agree a start date.",
-  "risks_if_delayed": "The 4.9 Google rating continues to be underutilised on the site — each month without dynamic review embedding is a month where new visitors are not seeing that social proof in its most credible form."
+  "timeline_estimate": "3 to 4 weeks",
+  "engagement_model": "Phased approach (two defined phases)",
+  "next_steps": "Schedule a 20-minute review call to walk through the proposed scope, confirm any unknowns around the current booking system and schema setup, and agree a start date for Phase 1.",
+  "risks_if_delayed": "Each week without schema markup and dynamic reviews in place is a missed opportunity to convert the strong Google reputation into on-site credibility for undecided visitors. As local search competition in the Westport hospitality market continues to develop, establishing this foundation sooner supports a more durable long-term position."
 }

@@ -1,58 +1,73 @@
 {
   "business_name": "Example Cafe",
-  "audit_focus_area": "New website build assessment",
+  "audit_focus_area": "New website build and online presence establishment",
   "opportunity_level": "High",
   "primary_service_angle": "New website build",
-  "audit_summary": "Example Cafe has no website and no Google Business listing, meaning the business is currently invisible to anyone searching for cafes in Westport online. There are no performance, UX, or conversion signals to assess. The audit focuses on what a new website and Google Business setup should include to establish a baseline online presence appropriate for a local hospitality business.",
+  "audit_summary": "Example Cafe currently has no website and no identified Google Business listing, leaving the business entirely absent from local online search. For a hospitality business in a tourist-active town like Westport, this represents a significant missed opportunity to capture footfall from visitors and locals searching online. Establishing a conversion-ready website and Google Business profile would form the foundation of a viable digital presence.",
   "findings": {
     "performance": [
-      "No website exists — performance cannot be assessed",
-      "A new build should target mobile PageSpeed of 75 or above from the outset, using a well-optimised platform and appropriately sized images"
+      "No website exists, so no performance data is available.",
+      "Performance benchmarking will only be relevant once a website is built.",
+      "Recommendation: Ensure any new build targets a mobile PageSpeed score of 75 or above from launch."
     ],
     "mobile_ux": [
-      "No website exists — mobile UX cannot be assessed",
-      "A new website for a hospitality business should be designed mobile-first, as the majority of local cafe searches occur on mobile devices"
+      "Mobile UX is unknown as no website exists.",
+      "For a cafe in a tourist destination, the majority of new visitors are likely to search on mobile devices.",
+      "Recommendation: Any new website must be built mobile-first, with large tap targets, fast load times, and immediately visible key information such as opening hours, location, and menu."
     ],
     "conversion": [
-      "No website exists — no contact form, booking pathway, or click-to-call is in place",
-      "A new website should include at minimum a contact enquiry form and a prominent click-to-call button — a booking or reservation system may be relevant depending on the cafe's service model",
-      "Clear display of opening hours, location, and menu is a baseline conversion requirement for a hospitality business"
+      "No booking system, contact form, or click-to-call mechanism is currently in place.",
+      "Without a website, there is no online pathway for customers to enquire, book, or confirm opening hours before visiting.",
+      "Recommendation: New website should include a click-to-call button, a contact or enquiry form, and optionally a table reservation or click-to-book feature appropriate to the cafe format.",
+      "Recommendation: Display opening hours and address prominently above the fold on the homepage."
     ],
     "seo_fundamentals": [
-      "No website exists — no indexed pages or keyword coverage",
-      "No Google Business listing identified — this is the most immediate discoverability gap and should be set up alongside or ahead of the website",
-      "A new site should include LocalBusiness schema markup and a dedicated page structure covering location, menu, and contact to support local search from day one"
+      "No website means no indexed content, no local landing pages, and no organic search visibility.",
+      "No Google Business listing identified, which removes the business from Google Maps results and the local pack entirely.",
+      "Recommendation: Register and fully optimise a Google Business Profile immediately as a standalone quick win, independent of the website build.",
+      "Recommendation: New website should include location-specific content such as 'Cafe in Westport, Co. Mayo' in page titles, headings, and meta descriptions.",
+      "Recommendation: Implement LocalBusiness schema markup on the new website to support local search intent from launch."
     ],
     "trust_social_proof": [
-      "No reviews data available — Google rating and count are unknown",
-      "Setting up a Google Business Profile will allow the business to begin accumulating reviews, which are a primary trust signal for hospitality businesses",
-      "Social media presence is unknown — linking any existing profiles from the new website would support trust and return visits"
+      "No reviews data is available as there is no Google Business listing identified.",
+      "No testimonials or social proof signals are publicly visible.",
+      "Recommendation: Setting up a Google Business Profile will enable customers to leave reviews, which is a critical trust signal for hospitality businesses.",
+      "Recommendation: New website should include a section for customer testimonials or an embedded Google Reviews feed once the profile is established.",
+      "Recommendation: Confirm whether the business has active social media accounts, as these could be linked from the website to add credibility."
     ],
     "security_maintenance": [
-      "No website exists — SSL status cannot be assessed",
-      "A new website should be built with SSL active from launch",
-      "Platform choice will determine the ongoing maintenance model — a managed platform reduces maintenance overhead but limits flexibility"
+      "SSL status is unknown as no website currently exists.",
+      "Platform is unknown.",
+      "Recommendation: Any new website build must include SSL as standard from launch.",
+      "Recommendation: Choose a platform with straightforward ongoing maintenance, automatic security updates, and reliable Irish or EU-based hosting to ensure compliance and performance."
     ]
   },
   "prioritised_recommendations": {
     "p1_quick_wins": [
-      "Set up and verify a Google Business Profile immediately — this is the fastest way to establish discoverability for local search and does not require a website to be in place first",
-      "Build a simple, mobile-first website covering the essentials: menu or offering, opening hours, location with map, and contact details with click-to-call"
+      "Set up and fully complete a Google Business Profile for Example Cafe, including address, opening hours, phone number, photos, and category. This can be done immediately and independent of a website build.",
+      "Secure a suitable domain name for the business before outreach progresses, to avoid it being taken by a competitor or third party.",
+      "Identify and link any existing social media profiles to provide a minimal online footprint while the website is in development."
     ],
     "p2_growth_improvements": [
-      "Add a contact enquiry form and assess whether a table booking or reservation system suits the cafe's service model",
-      "Implement LocalBusiness schema markup at launch to support local search appearance from day one",
-      "Encourage early Google Reviews through the Business Profile to begin building a public trust record"
+      "Build a clean, mobile-first website with core hospitality pages: homepage, menu, location and hours, and a contact or enquiry page with click-to-call functionality.",
+      "Implement on-page local SEO from launch, including location-targeted page titles, meta descriptions, and LocalBusiness schema markup.",
+      "Integrate a Google Reviews prompt or embed once the Business Profile has accumulated initial reviews, to build visible trust signals for new visitors."
     ],
     "p3_strategic_enhancements": [
-      "Consider a lightweight updates or specials section once the core site is established — this supports ongoing content freshness and local SEO without significant editorial commitment"
+      "Once the core site is established, consider adding a simple blog or news section for seasonal menus, events, or local features to support ongoing organic search growth.",
+      "Explore a lightweight online reservation or table booking integration if the cafe format supports it, to reduce friction for customers and increase confirmed footfall."
     ]
   },
   "assumptions_and_unknowns": [
-    "No website or Google Business listing was identified — all audit categories are assessed as not applicable until a website exists",
-    "It is unknown whether the business has any existing social media presence that could be linked from a new website",
-    "It is unknown whether the cafe model requires a table booking or reservation system, or operates primarily as walk-in",
-    "Platform preference is unknown — this affects build approach, maintenance model, and cost structure"
+    "No website URL provided. All findings are based on absence of online presence.",
+    "SSL status unknown. Assumed not applicable until a website is built.",
+    "Platform unknown. No CMS or hosting provider has been identified.",
+    "Mobile and desktop PageSpeed scores unavailable. No site exists to test.",
+    "Reviews rating and count unknown. No Google Business listing identified.",
+    "Contact form, booking system, and blog presence all unknown due to no website.",
+    "Social media presence not confirmed. Unknown whether any active profiles exist.",
+    "Business activity confirmed via local knowledge only. Opening hours, menu format, and seating capacity are not known.",
+    "Confidence score of 0.5 noted from Skill 1, reflecting that no digital signals could be directly verified."
   ],
-  "next_best_action": "Confirm the cafe has no social media presence or prior web history, then propose a new website and Google Business setup as a combined starter package"
+  "next_best_action": "Reach out directly using the outreach hook from Skill 1 and propose a brief 15-minute discovery call to confirm business details, discuss the value of a Google Business Profile as an immediate no-cost first step, and introduce a starter website package tailored to hospitality businesses in the west of Ireland."
 }

@@ -1,15 +1,15 @@
 {
   "business_name": "a Thai Noodle Bar",
-  "validation_status": "proceed_with_caution",
-  "field_completeness_score": 1.0,
+  "validation_status": "requires_review",
+  "field_completeness_score": 1,
   "missing_fields": [],
   "signal_conflicts": [
-    "has_blog_or_updates is false in structured signals but notes state a blog or update section is present with structured content — one of these is incorrect and should be verified before outreach"
+    "has_blog_or_updates is false but notes state a blog or update section is present with structured content."
   ],
   "edge_cases_detected": [
-    "Signal conflict on blog field means content strategy recommendations may be unreliable until verified"
+    "reviews_count is 102 and reviews_rating is 4.6, providing a strong and statistically reliable trust signal."
   ],
-  "recommended_action": "Resolve the has_blog_or_updates conflict by manually checking the site before proceeding — this affects SEO findings and content recommendations in Skills 2 and 3.",
+  "recommended_action": "Resolve conflict on has_blog_or_updates before proceeding: verify whether a blog or updates section exists on the site and correct the structured signal accordingly.",
   "normalised_input": {
     "business_name": "a Thai Noodle Bar",
     "website": "https://athai.ie/",

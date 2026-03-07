@@ -1,56 +1,68 @@
 {
   "business_name": "Arnos Bistrot",
-  "audit_focus_area": "Conversion audit",
+  "audit_focus_area": "SEO optimisation audit",
   "opportunity_level": "Medium",
-  "primary_service_angle": "Conversion optimization",
-  "audit_summary": "Arnos Bistrot has a well-maintained WordPress website with strong desktop performance, an active booking system, and excellent Google review signals. The primary opportunity is to surface that 4.9 Google rating dynamically on the site rather than relying on manually displayed testimonials, and to add a content section to support ongoing local search visibility. Mobile performance and click-to-call also represent secondary improvements.",
+  "primary_service_angle": "SEO optimisation",
+  "audit_summary": "Arnos Bistrot presents a modern, well-structured website with strong trust signals and an excellent Google reputation. The primary opportunities lie in improving mobile page speed, introducing fresh content to support local search visibility, and better surfacing the business's impressive review profile on-site. Targeted SEO improvements could help convert existing organic visibility into more direct bookings.",
   "findings": {
     "performance": [
-      "Mobile PageSpeed score of 65 indicates moderate performance — possible causes include unoptimised images or render-blocking scripts, though this cannot be confirmed from public signals alone",
-      "Desktop PageSpeed score of 98 is strong and suggests the core site build is well-optimised"
+      "Mobile PageSpeed score of 65 is rated moderate, indicating room for improvement for users browsing on the go in a hospitality context where speed directly impacts booking decisions.",
+      "Desktop PageSpeed score of 98 is strong, confirming the core site is well-optimised for desktop delivery.",
+      "The gap between mobile (65) and desktop (98) scores suggests possible render-blocking elements or unoptimised assets that are more impactful on mobile connections. Possible causes include large image files not served in next-gen formats or third-party scripts loading on mobile. These are flagged as possible, not confirmed."
     ],
     "mobile_ux": [
-      "Mobile UX is rated ok — the site is usable on mobile but may have friction points such as small tap targets, dense text, or CTA placement that could reduce conversion on smaller screens",
-      "Reviewing button sizing, spacing, and CTA prominence on mobile would support the conversion objective"
+      "Mobile UX is rated as ok, suggesting the site is functional on mobile devices but may not deliver an optimised experience.",
+      "For a restaurant in a tourist destination like Westport, mobile visitors are likely to be a significant portion of traffic. Even marginal friction in navigation, tap targets, or booking flow on mobile could reduce conversions.",
+      "Recommend reviewing CTA button sizing, spacing, and the ease of reaching the booking pathway on a small screen without zooming or excessive scrolling."
     ],
     "conversion": [
-      "Contact form is present — basic enquiry pathway is in place",
-      "Booking system is present — the primary reservation pathway for a hospitality business is in place",
-      "No click-to-call functionality was identified in the input signals — adding this would complete the mobile enquiry pathway"
+      "A contact form and booking system are both present, which are strong foundational conversion elements for a restaurant.",
+      "It is unknown whether the booking system is integrated directly on-site or redirects to a third-party platform, which could introduce drop-off risk.",
+      "No dynamic content section is present, meaning repeat visitors and search engines see a static experience with limited reason to return or re-index.",
+      "The strong 4.9-star Google rating is not being surfaced automatically on the site. Manually displayed testimonials are less credible and harder to maintain than dynamically embedded Google reviews."
     ],
     "seo_fundamentals": [
-      "No blog or updates section is present — static content structure limits fresh content signals",
-      "Notes confirm no dynamic content section, which reduces opportunities for ongoing organic visibility",
-      "Location data is available (Westport, Co. Mayo) — local business schema markup would likely improve local search appearance but is not confirmed as present"
+      "No blog or updates section is present, removing a key channel for publishing locally relevant content such as seasonal menus, events, or Westport area guides that could attract long-tail search traffic.",
+      "Static content structure limits crawl frequency and reduces opportunities to rank for varied search queries beyond the homepage.",
+      "Local SEO support is unknown beyond the Google Maps presence. It is not confirmed whether the site includes structured data such as LocalBusiness or Restaurant schema, which could improve search result appearance.",
+      "Recommend adding schema markup for restaurant type, location, opening hours, and review aggregate to support local search intent.",
+      "Internal linking and page depth beyond the homepage are unknown and should be reviewed to ensure key pages such as menus and bookings are well-linked."
     ],
     "trust_social_proof": [
-      "Google rating of 4.9 across 293 reviews is a strong trust signal",
-      "Testimonials are manually displayed rather than dynamically embedded — this is a missed opportunity to surface live review data and reduce maintenance overhead"
+      "Google rating of 4.9 across 293 reviews is an exceptional trust signal and a clear competitive differentiator in the Westport hospitality market.",
+      "Testimonials are manually displayed, which reduces credibility compared to dynamically embedded and verified Google reviews.",
+      "Social media links presence is unknown from available signals.",
+      "The strong review volume is not currently being leveraged to its full potential on the website itself."
     ],
     "security_maintenance": [
-      "SSL is active — secure browsing is in place",
-      "Site runs on WordPress — keeping themes, plugins, and core updated is recommended as a routine maintenance practice to maintain performance and stability"
+      "SSL is active, which is a positive baseline signal for both visitor trust and search engine ranking.",
+      "The site is built on WordPress. As a regularly updated platform, WordPress benefits from ongoing maintenance to ensure performance, compatibility, and stability over time.",
+      "Proactive maintenance is recommended to keep the site performing well as the platform and any installed plugins evolve."
     ]
   },
   "prioritised_recommendations": {
     "p1_quick_wins": [
-      "Replace manually displayed testimonials with a dynamically embedded Google Reviews widget to surface the 4.9 rating and 293 reviews automatically without ongoing manual effort",
-      "Add a click-to-call button visible on mobile — low effort and directly supports conversion for visitors browsing on the go"
+      "Embed a dynamic Google Reviews widget on the homepage or a dedicated testimonials section to automatically surface the 4.9-star rating and most recent reviews, replacing the manual display.",
+      "Add Restaurant and LocalBusiness schema markup to the homepage to improve local search result appearance and support Westport-specific search queries.",
+      "Audit and optimise mobile image delivery, prioritising next-gen formats and lazy loading, to improve the mobile PageSpeed score from 65 toward 75 or above."
     ],
     "p2_growth_improvements": [
-      "Investigate and address mobile PageSpeed — image compression and deferring non-critical scripts are common quick gains that could move the score from moderate to strong",
-      "Implement LocalBusiness and Restaurant schema markup to strengthen local search appearance",
-      "Introduce a lightweight specials or events section to generate periodic fresh content and support ongoing local SEO visibility"
+      "Introduce a simple blog or news section to publish seasonal menus, local events, and Westport area content. Even two to four posts per quarter would improve crawl frequency and local search relevance.",
+      "Review the mobile booking pathway end-to-end to identify and reduce friction, ensuring the booking CTA is prominent, tap-friendly, and reachable within one or two scrolls on a small screen.",
+      "Audit internal linking structure to ensure menu, booking, and contact pages are clearly linked from the homepage and from each other, supporting both user navigation and search engine indexing."
     ],
     "p3_strategic_enhancements": [
-      "Add a blog or updates section with a low-commitment content plan — service highlights, seasonal menus, or local events would support long-term organic search visibility"
+      "Consider a light content strategy focused on local intent keywords such as restaurants in Westport or fine dining Mayo, supported by the blog section and on-page copy updates, to build sustainable organic visibility over time."
     ]
   },
   "assumptions_and_unknowns": [
-    "Hosting provider is unknown",
-    "Click-to-call presence was not confirmed in input signals",
-    "Social media links and profiles were not included in the input",
-    "Full mobile layout details such as font sizes and tap target sizes were not available — mobile UX assessment is based on the provided rating only"
+    "Hosting provider is unknown and no hosting-related performance signals were provided.",
+    "It is unknown whether the booking system is embedded on-site or redirects to a third-party platform.",
+    "Social media links presence and activity level are unknown.",
+    "Page depth beyond the homepage is unknown. It is not confirmed how many indexed pages exist.",
+    "Whether any schema markup is currently implemented is unknown and has been recommended as a likely gap, not a confirmed absence.",
+    "Internal linking structure and menu or sub-page content depth have not been assessed.",
+    "No information was provided on whether a Google Business Profile is actively managed beyond the Maps listing."
   ],
-  "next_best_action": "Share a short improvement plan focused on dynamically embedding the Google Reviews and adding a click-to-call button, and propose a short call to discuss how a content section could support ongoing local search visibility"
+  "next_best_action": "Share a concise one-page improvement summary highlighting the Google Reviews embedding opportunity and mobile speed gap, and propose a 15-minute call to walk through how these changes could directly support more bookings."
 }

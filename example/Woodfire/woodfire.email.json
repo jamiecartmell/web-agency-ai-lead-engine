@@ -2,15 +2,15 @@
   "business_name": "Woodfire Westport",
   "recipient_role_guess": "Owner or Manager",
   "subject_options": [
-    "Woodfire Westport — one thing missing from your site",
-    "573 reviews, no contact form — worth fixing",
-    "Quick improvement for Woodfire Westport"
+    "Woodfire Westport — one conversion gap worth fixing",
+    "Turning 573 reviews into direct reservations",
+    "Something small that could change how the site performs"
   ],
-  "email_body": "I came across Woodfire Westport while researching restaurants in the area and wanted to reach out directly.\n\nYou have 573 Google reviews at 4.6 — that is a strong reputation driving real traffic to your site. The one gap I noticed is that there is currently no contact form or booking pathway on the website, so visitors have no direct way to act on that interest.\n\nI work with hospitality businesses in the west of Ireland on exactly this kind of improvement. A short conversion sprint — adding a contact form, click-to-call button, and reservation system — is typically a 7 to 10 day project with no disruption to your existing setup.\n\nWould you have 15 minutes this week for a quick call so I can walk you through what that would involve?\n\nBest regards\n[Your name]",
-  "cta": "Would you have 15 minutes this week for a quick call so I can walk you through what that would involve?",
-  "follow_up_body": "I wanted to follow up on my email from last week about Woodfire Westport. With 573 Google reviews already working in your favour, adding a contact form and booking pathway to the site is a straightforward project that would give visitors a direct way to act. I can put together a short outline of what is involved if that would be easier to review. Would this be something worth looking at over the coming weeks?",
+  "email_body": "I came across Woodfire Westport while researching hospitality businesses in Co. Mayo and wanted to reach out directly.\n\nWith 573 Google reviews at 4.6 stars, the reputation you have built is genuinely one of the strongest for any restaurant in the county. What stood out to me is that the current site has no booking system or contact form, so visitors arriving with intent to dine have no direct on-site action to take. That is a gap worth closing given the volume of goodwill already working in your favour.\n\nI work with a web agency based in Ireland and we offer a focused conversion sprint — adding a reservation or enquiry widget and surfacing your review rating on-site — delivered within your existing WordPress setup without disrupting what is already working.\n\nWould you be open to a 15-minute call this week so I can walk you through exactly what these changes would look like and how quickly they could be in place?\n\nBest regards\n[Your name]",
+  "cta": "Would you be open to a 15-minute call this week so I can walk you through exactly what these changes would look like and how quickly they could be in place?",
+  "follow_up_body": "I wanted to follow up on the email I sent last week about adding a booking or enquiry pathway to the Woodfire Westport site. The core idea was straightforward — a small conversion sprint within your existing WordPress setup, using your 4.6-star reputation as a trust signal on-site. I did not want to assume who handles the website on your end. Is this something you would be open to exploring over the coming weeks, or would it be worth pointing me to the right person?",
   "personalisation_tokens_used": [
-    "573 Google reviews at 4.6 rating",
-    "No contact form or booking system present on the website"
+    "573 Google reviews at 4.6 stars — used as the anchor proof point for the trust asset framing",
+    "No booking system or contact form present on the site — used as the specific conversion gap referenced in the email body"
   ]
 }

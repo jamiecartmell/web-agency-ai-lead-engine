@@ -2,37 +2,37 @@
   "business_name": "Arnos Bistrot",
   "vertical_bucket": "Hospitality",
   "what_matters_in_this_vertical": [
-    "Online table booking and reservation pathway",
-    "Mobile conversion for on-the-go diners",
-    "Surfacing review credibility directly on the site",
-    "Click-to-call accessibility for quick enquiries",
-    "Local search visibility for dining intent queries"
+    "Mobile-first booking experience for on-the-go visitors",
+    "Local search visibility for Westport and Mayo dining queries",
+    "Surfacing reviews and trust signals to convert undecided diners",
+    "Frictionless pathway from discovery to confirmed reservation",
+    "Fresh content to support seasonal and event-driven search intent"
   ],
   "likely_customer_intent": [
-    "Find a restaurant to book for a specific occasion",
-    "Check availability and book a table online",
-    "Read reviews before deciding where to dine",
-    "Get directions or call quickly from a mobile device",
-    "Browse the menu before visiting or booking"
+    "Find a well-reviewed restaurant in Westport for a visit or special occasion",
+    "Check the menu before deciding where to book",
+    "Make a reservation quickly from a mobile device",
+    "Read recent reviews to confirm quality before committing",
+    "Get directions or confirm opening hours on arrival day"
   ],
-  "commercial_risk_if_unaddressed": "Arnos Bistrot has strong conversion infrastructure in place with a booking system and contact form, but the 4.9 Google rating across 293 reviews is only displayed manually rather than dynamically embedded — reducing the visibility and credibility of that trust signal for new visitors. Without a content section, the site also has limited ongoing search visibility for a business with this level of local demand.",
-  "strongest_positioning_angle": "Arnos Bistrot already has the booking system and review credibility that most competitors lack — the opportunity is making that reputation visible and searchable by embedding reviews dynamically and adding a lightweight content section.",
+  "commercial_risk_if_unaddressed": "A mobile PageSpeed score of 65 creates measurable friction at the exact moment tourist and local visitors are most likely to be searching on their phones, and a slower or less intuitive booking path can redirect that intent to a competitor. With no fresh content being published, the site is also missing compounding local search opportunities that better-optimised competitors in the Westport area may already be capturing.",
+  "strongest_positioning_angle": "Arnos Bistrot has an exceptional 4.9-star reputation across nearly 300 reviews that is not currently being leveraged on the website itself, and targeted SEO and mobile improvements would convert that existing credibility into a measurable increase in direct bookings.",
   "top_3_outreach_talking_points": [
-    "With 293 Google reviews and a 4.9 rating, you have one of the strongest reputations of any restaurant in Westport — embedding those reviews dynamically on the site means every new visitor sees that social proof the moment they land, rather than only those who already searched for you on Google.",
-    "A lightweight content section covering specials, seasonal menus, or local events would give the site regular fresh signals and help it appear for more local dining searches without significant ongoing effort from you.",
-    "Adding a click-to-call button on mobile is one of the lowest-effort improvements available — for a restaurant audience browsing on the go, being able to call in one tap removes a step that costs bookings."
+    "Your 4.9-star Google rating is one of the strongest in Westport hospitality, and there is a straightforward way to make that rating work harder for you directly on your website to reassure new visitors before they book.",
+    "Your site performs exceptionally well on desktop, but there is a meaningful gap on mobile where most of your tourist and walk-in audience will be searching. Closing that gap is a practical, low-disruption improvement.",
+    "Adding a light content presence around seasonal menus and Westport dining could help your site appear for a broader range of local search queries at no ongoing cost once the structure is in place."
   ],
   "likely_objections": [
-    "The website is already working fine and we get good bookings through it",
-    "We do not have time to write content or maintain a blog",
-    "We are already listed on Google and people can find our reviews there",
-    "We do not want to change anything that might affect the booking system"
+    "We already have a booking system and a contact form so the site is doing its job",
+    "We get strong word of mouth and our Google rating speaks for itself",
+    "We do not have time to write blog content or manage a news section",
+    "We are busy during peak season and a website project is not a priority right now"
   ],
-  "recommended_offer_angle": "Lead with a trust and visibility package: dynamically embed Google Reviews, add a click-to-call button, and set up a lightweight content section with an initial batch of posts. Frame it as making the existing strong foundation work harder — not adding complexity — with a clear fixed scope and a low ongoing content commitment.",
+  "recommended_offer_angle": "Position an entry-point SEO and performance package that delivers the three P1 quick wins from the audit: Google Reviews embedding, schema markup, and mobile image optimisation. Frame this as a fixed-scope engagement with a clear outcome, making it low-commitment and easy to say yes to before proposing the broader content and growth layer.",
   "unknowns_to_clarify": [
-    "Is there a click-to-call button currently visible on mobile, as this was not confirmed in the input signals",
-    "Does the business have active social media profiles that could provide initial content for a specials or updates section",
-    "Is the existing booking system self-managed or handled by a third party, as this affects what can be changed around it",
-    "Does the business have active social media profiles that could be linked from the site to support local visibility"
+    "Is the current booking system embedded on-site or does it redirect to a third-party platform such as OpenTable or ResDiary, and is the business satisfied with that experience?",
+    "Is the Google Business Profile actively managed, and does the owner monitor and respond to reviews regularly?",
+    "What is the current split of bookings between direct website enquiries, phone calls, and third-party platforms, as this would sharpen the ROI framing for SEO investment?",
+    "Is there any seasonal variation in trading that would make a particular launch window more or less suitable for a site improvement project?"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "business_name": "Core Health and Performance",
   "proposal_type": "Conversion Sprint",
-  "problem_summary": "Core Health and Performance has built an exceptional local reputation with a perfect 5-star rating across 53 Google reviews, yet the current site offers no direct way for motivated visitors to book a session or take immediate action. A mobile PageSpeed score of 63 creates additional friction for the majority of health and fitness clients who are browsing on their phones. Addressing these gaps would allow the business to convert its existing reputation and organic traffic into confirmed client appointments more consistently.",
-  "recommended_solution": "A focused conversion improvement package working within the existing Wix site to integrate an online booking or scheduling system, add clear mobile contact actions, and replace manually displayed testimonials with a live Google review embed that keeps social proof current automatically.",
+  "problem_summary": "Core Health and Performance has built a strong online reputation with a perfect 5-star rating across 53 Google reviews and a professionally presented website, but the absence of an online booking system means prospective clients who are ready to act must submit a form or call rather than scheduling directly. A mobile PageSpeed score of 63 adds a secondary friction point at the moment of first site visit, and the existing review strength is not currently surfaced prominently enough to build immediate confidence with new visitors.",
+  "recommended_solution": "A focused conversion sprint on the existing Wix site, delivering three targeted improvements: online booking integration, hero section trust signal updates, and mobile conversion friction fixes. No rebuild or platform change is required.",
   "scope_of_work": [
-    "Integrate an online booking or scheduling system, such as Wix Bookings or a Calendly embed, configured for the relevant service types offered, so that visitors who are ready to commit can take action directly from the site.",
-    "Add a prominent click-to-call button and a sticky mobile CTA to ensure users on phones can contact or book without excessive scrolling, addressing the most immediate mobile conversion gap.",
-    "Replace manually displayed testimonials with a live Google review widget to surface the 5-star rating and 53 reviews dynamically, reducing manual update effort and strengthening credibility signalling for prospective clients."
+    "Integrate a lightweight online booking solution using Wix Bookings or a compatible third-party scheduler, configured for the business's session or consultation types, so that prospective clients can schedule directly from the site.",
+    "Update the hero section to prominently display the 5-star Google rating and review count as a visible trust badge, ensuring first-time visitors encounter this credibility signal before they scroll or exit.",
+    "Audit and resolve mobile conversion friction points including click-to-call activation on the displayed phone number, tap target sizing on CTAs, and image compression at mobile breakpoints to reduce the PageSpeed gap."
   ],
   "expected_outcomes": [
-    "Adding a direct booking pathway should improve the rate at which ready-to-book visitors convert into confirmed appointments without requiring a follow-up phone call or email exchange.",
-    "A prominent click-to-call button and sticky mobile CTA is likely to increase direct contact rates from mobile users who prefer to call rather than complete a form.",
-    "A live Google review embed should improve the visible impact of the existing 5-star reputation on the site, reducing the need for manual testimonial updates and keeping social proof content current for new visitors."
+    "Adding a direct booking pathway should reduce the number of steps required for a motivated client to convert, making it more likely that visitors who arrive with intent follow through to a confirmed booking.",
+    "Surfacing the 5-star rating and review count above the fold is likely to improve first-impression trust for new visitors who are not yet familiar with the business, supporting higher enquiry rates from cold traffic.",
+    "Resolving mobile friction points should improve the experience for users arriving from local search on smartphones, reducing early exits and making it easier for visitors to make contact or complete a booking on a small screen."
   ],
   "timeline_estimate": "2 to 3 weeks",
   "engagement_model": "One-time project",
-  "next_steps": "Schedule a 20-minute walkthrough call to confirm which services require booking flows, clarify any existing scheduling tools in use, and agree final scope before work begins.",
-  "risks_if_delayed": "Each month without a direct booking pathway is a period in which motivated visitors who are ready to schedule a session have no immediate way to act on that intent from the site. Given the strength of the existing Google review reputation, the current setup is not fully converting the trust that has already been built."
+  "next_steps": "Schedule a 20-minute walkthrough call to confirm the booking flow requirements, review the hero section update, and agree on scope before work begins.",
+  "risks_if_delayed": "Each month without a direct booking pathway is a period during which motivated prospective clients who find the site must take an additional step to make contact, and some proportion will not complete that step. The strong review reputation the business has earned continues to underperform its potential while it remains below the fold and disconnected from a clear conversion action."
 }

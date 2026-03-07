@@ -1,27 +1,28 @@
 {
   "business_name": "Example Cafe",
   "validation_status": "requires_review",
-  "field_completeness_score": 0.0,
+  "field_completeness_score": 0,
   "missing_fields": [
+    "website",
     "ssl_active",
-    "platform (Unknown)",
+    "platform",
     "pagespeed_mobile",
     "pagespeed_desktop",
-    "mobile_ux (unknown)",
+    "mobile_ux",
     "has_contact_form",
     "has_booking_system",
     "has_blog_or_updates",
     "reviews_rating",
-    "reviews_count",
-    "website"
+    "reviews_count"
   ],
   "signal_conflicts": [],
   "edge_cases_detected": [
-    "website is null — no website exists, all performance and conversion signals are irrelevant, pipeline will route to New website build",
-    "Notes confirm no Google Business listing identified — additional discoverability gap beyond the website absence",
-    "All signal fields are null or unknown — confidence score will be at floor value, output reliability is low"
+    "website is null — no website build audit possible, all conversion signals are irrelevant.",
+    "All signal fields are null or unknown — confidence is at floor, output reliability is low.",
+    "platform is Unknown — platform-specific recommendations cannot be made.",
+    "Notes indicate no Google Business listing identified — additional discoverability gap beyond the absence of a website."
   ],
-  "recommended_action": "Confirm no social media presence or prior web history exists before proceeding, then pass to Skill 1 — the no-website path is handled predictably by the pipeline.",
+  "recommended_action": "Record cannot proceed to Skill 1 in its current state — resolve whether a website exists, confirm the absence of a Google Business listing, and determine whether this lead should be routed to a new-build and local SEO service angle before continuing.",
   "normalised_input": {
     "business_name": "Example Cafe",
     "website": null,

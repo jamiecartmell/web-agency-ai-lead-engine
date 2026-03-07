@@ -3,30 +3,30 @@
   "opportunity_level": "Low",
   "vertical_bucket": "Hospitality",
   "primary_service_angle": "Conversion optimization",
-  "primary_angle_type": "Maintenance and risk reduction",
-  "angle_summary": "a Thai Noodle Bar has a well-performing, well-converting website with no immediate gaps requiring urgent attention. The opportunity is a proactive WordPress maintenance retainer that protects the existing strong position and includes a small number of low-effort improvements to local search visibility.",
+  "primary_angle_type": "Trust and social proof leverage",
+  "angle_summary": "a Thai Noodle Bar has built one of the strongest technical restaurant websites in the region, and the next logical step is making the business's excellent reputation more visible at the point where visitors decide to book. Surfacing existing Google reviews on-site and adding lightweight local content can convert more of the traffic the site already earns, without changing anything that is working.",
   "proof_points": [
-    "Site runs on WordPress with mobile PageSpeed of 97 and desktop of 99 — technically strong but reliant on ongoing WordPress maintenance to sustain that performance",
-    "Booking system and contact form are both present — core conversion infrastructure is in place and should be maintained rather than rebuilt",
-    "4.6 Google rating across 102 reviews is a solid trust signal — schema markup and review embedding status are unconfirmed and represent the only open optimisation gaps"
+    "Google review rating of 4.6 across 102 reviews is a strong and verified trust asset that is not currently confirmed to appear anywhere on the website itself.",
+    "Mobile PageSpeed of 97 and desktop of 99 indicate the site is already technically optimised, meaning any additions can be implemented cleanly without disrupting existing performance.",
+    "No active blog or updates section is present, leaving a gap in locally relevant, indexable content that could capture seasonal and tourism-driven search queries in Westport."
   ],
-  "recommended_offer_type": "Monthly care plan (maintenance retainer)",
+  "recommended_offer_type": "Quick win package (fixed scope, 7 to 14 days)",
   "offer_scope_points": [
-    "WordPress core, theme, and plugin updates on a scheduled monthly basis",
-    "LocalBusiness and Restaurant schema markup implementation if not already in place",
-    "Confirm and set up dynamic Google Reviews embedding if reviews are currently managed manually"
+    "Embed or surface two to three curated Google review excerpts with star ratings on the homepage and near the booking CTA to reinforce trust for first-time visitors.",
+    "Implement and verify local Restaurant schema markup including address, opening hours, cuisine type, and phone number to support local search visibility for Westport dining queries.",
+    "Set up a lightweight content section for seasonal menus or monthly updates, with a simple template the business can update independently or hand off for managed support."
   ],
   "personalisation_notes": [
-    "Multi-page WordPress site with strong visual hierarchy and clear CTAs noted — the care plan framing of protecting a well-built site is a natural and non-threatening entry point",
-    "4.6 rating across 102 reviews with a booking system already live — this business has the fundamentals right, which makes a low-pressure maintenance relationship easier to open"
+    "The business has 102 Google reviews averaging 4.6 stars, which is a genuinely strong reputation signal for a restaurant in Westport and a natural hook for outreach that feels specific rather than generic.",
+    "Westport is a seasonal tourism destination, meaning there is a timely angle around capturing visitor search traffic during peak season that gives the outreach natural urgency without being alarmist."
   ],
-  "suggested_cta": "If you ever want a quick check to confirm everything is running as it should be and pick up a couple of easy wins on the SEO side, I am happy to set up a light review call.",
+  "suggested_cta": "If it would be useful, I am happy to send over a one-page summary of what we would do and why, or we could have a quick ten-minute call this week to talk through it.",
   "avoid_saying": [
-    "Anything implying the current site has problems or gaps — the low-opportunity framing works precisely because the site is well-built; leading with issues would feel inaccurate and reduce credibility",
-    "Suggesting a redesign or platform change — the site is performing well and there is no signal in the audit that justifies raising this"
+    "Avoid suggesting the website has problems or needs fixing, as the business is likely proud of the site and any implication it is underperforming will trigger defensiveness.",
+    "Avoid mentioning the need for regular blog posts or content writing, as this is a known objection and will raise concerns about time commitment before the conversation has begun."
   ],
   "unknowns_to_confirm": [
-    "Is there an existing WordPress developer or maintenance arrangement in place — if so, the care plan pitch needs to be positioned as an alternative or complement rather than a new addition",
-    "Does the business have a blog or updates section in practice — the input signal conflict on has_blog_or_updates should be resolved before any outreach references content strategy"
+    "Whether Google reviews are currently featured anywhere on the website, or only visible externally on Google Maps, as this determines how much of the quick win scope is already in place.",
+    "Whether there is an existing maintenance or hosting support arrangement in place, as this affects whether a care plan conversation is premature or a natural next step after the quick win."
   ]
 }

@@ -1,16 +1,15 @@
 {
   "business_name": "Arnos Bistrot",
-  "validation_status": "ready",
-  "field_completeness_score": 0.9,
-  "missing_fields": [
-    "pagespeed_desktop (not counted — desktop score present, this field is complete)",
-    "has_blog_or_updates — false, confirmed present"
-  ],
+  "validation_status": "proceed_with_caution",
+  "field_completeness_score": 1,
+  "missing_fields": [],
   "signal_conflicts": [],
   "edge_cases_detected": [
-    "reviews_rating of 4.9 across 293 reviews is an exceptionally strong trust signal — pipeline should prioritise surfacing this"
+    "pagespeed_mobile (65) and pagespeed_desktop (98) differ by 33 points, approaching but not exceeding the 40-point disparity threshold — notable performance gap between mobile and desktop.",
+    "reviews_rating is 4.9, which is an unusually strong trust signal and close to a perfect score.",
+    "mobile_ux is rated 'ok' while pagespeed_mobile is 65 — mobile experience is functional but not optimal, which may affect user retention on mobile devices."
   ],
-  "recommended_action": "Proceed to Skill 1 — all critical signal fields are present and no conflicts detected.",
+  "recommended_action": "Proceed to Skill 1 with awareness that mobile performance is a likely optimisation angle and the strong review profile is a key trust asset.",
   "normalised_input": {
     "business_name": "Arnos Bistrot",
     "website": "https://arnosbistrot.com/",

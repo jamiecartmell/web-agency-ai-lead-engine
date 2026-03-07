@@ -4,29 +4,29 @@
   "vertical_bucket": "Health and Wellness",
   "primary_service_angle": "Conversion optimization",
   "primary_angle_type": "Conversion unlock",
-  "angle_summary": "Core Health and Performance has built one of the strongest local reputations in Westport, with a perfect 5-star rating across 53 Google reviews, but the site currently has no way for a motivated visitor to book directly. A focused conversion improvement would connect that existing reputation to a clear action path for prospective clients who are ready to commit.",
+  "angle_summary": "Core Health and Performance has a strong online reputation with a perfect 5-star rating across 53 reviews, but the absence of an online booking system means motivated new clients cannot take action at the moment they are most ready to commit. A focused conversion improvement on their existing Wix site would close that gap without disrupting what is already working well.",
   "proof_points": [
-    "No online booking system is present, meaning visitors who are ready to schedule a session have no immediate way to act on that intent from the website.",
-    "Mobile PageSpeed score of 63 indicates a meaningful performance gap compared to the desktop score of 93, increasing the likelihood of mobile drop-off before users reach the contact form.",
-    "Testimonials are manually displayed rather than dynamically embedded, reducing the credibility and recency impact of a 5.0 star, 53-review reputation that could be working much harder on the site."
+    "No online booking system is present, meaning prospective clients must submit a contact form or call to schedule, introducing friction at the most critical conversion point for a fitness and health business.",
+    "Mobile PageSpeed score of 63 indicates moderate performance on the devices most commonly used for local health and fitness searches, creating a secondary friction point at the moment of first site visit.",
+    "A 5-star Google rating across 53 reviews is not currently surfaced prominently above the fold, meaning first-time visitors may not encounter this trust signal before deciding whether to enquire."
   ],
   "recommended_offer_type": "Conversion sprint (booking, contact, CTA)",
   "offer_scope_points": [
-    "Integrate an online booking or scheduling system, such as Wix Bookings or a Calendly embed, configured for the relevant service types offered.",
-    "Add a prominent click-to-call button and a sticky mobile CTA so that users on phones can contact or book without excessive scrolling.",
-    "Replace manually displayed testimonials with a live Google review widget to surface the 5-star rating dynamically and keep social proof current without manual effort."
+    "Integrate a lightweight online booking solution using Wix Bookings or a compatible third-party scheduler, configured for the business's session or consultation types.",
+    "Update the hero section to prominently display the 5-star Google rating and review count as a visible trust badge, improving first-impression credibility for new visitors.",
+    "Audit and resolve mobile conversion friction points including click-to-call on the phone number, tap target sizing on CTAs, and image optimisation at mobile breakpoints to address the PageSpeed gap."
   ],
   "personalisation_notes": [
-    "Core Health and Performance holds a perfect 5.0 rating across 53 Google reviews, which is an unusually strong local trust signal for a fitness business in Westport and should be referenced directly to show the outreach is based on genuine research.",
-    "The site is built on Wix, so any proposed improvements should be framed as working within or alongside the existing platform rather than replacing it, given the likely objection that Wix suits how they currently operate."
+    "Core Health and Performance holds a perfect 5.0 rating across 53 Google reviews, which is an unusually strong trust asset for a local fitness business in Westport and should be referenced specifically in outreach to show the message is informed rather than generic.",
+    "The site is built on Wix, so all outreach should frame improvements as additions to the existing setup rather than a rebuild, directly addressing the likely objection that Wix limits what can be changed."
   ],
-  "suggested_cta": "Would you be open to a short walkthrough call where I can show you exactly what a booking integration would look like on your current site and what it would take to get it live?",
+  "suggested_cta": "Would you be open to a short walkthrough call where I can show you exactly how these changes would look on your current site?",
   "avoid_saying": [
-    "Avoid saying the website is letting the business down or underperforming, as this is likely to trigger defensiveness from an owner who manages the site themselves and considers it adequate.",
-    "Avoid suggesting they move away from Wix or implying the platform is the problem, as self-managed simplicity is a known priority and platform migration is not supported by the audit findings."
+    "Avoid implying that manual bookings or the contact form are inadequate or unprofessional, as the business likely views its current enquiry process as functional and may be proud of how it operates.",
+    "Avoid suggesting the site needs to be rebuilt or that Wix is a limiting platform, as this is likely to trigger defensiveness and contradicts the recommended framing of improving what already exists."
   ],
   "unknowns_to_confirm": [
-    "Whether they are already using any informal booking method such as phone, WhatsApp, or a third-party tool like Calendly, as this shapes how a booking integration should be positioned and scoped.",
-    "What specific services they offer, for example personal training, physiotherapy, group classes, or nutrition coaching, as this determines how booking flows and any future service page structure should be built."
+    "Whether the business owner has previously explored booking tools such as Wix Bookings and, if so, what prevented implementation, as this would clarify how to frame the booking system recommendation.",
+    "Whether there are specific service types, class formats, or session categories that would each require a separate booking flow, as this affects the scope and complexity of the conversion sprint."
   ]
 }

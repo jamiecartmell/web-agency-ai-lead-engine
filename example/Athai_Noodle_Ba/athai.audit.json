@@ -1,55 +1,67 @@
 {
   "business_name": "a Thai Noodle Bar",
-  "audit_focus_area": "Conversion audit",
+  "audit_focus_area": "Conversion optimisation audit",
   "opportunity_level": "Low",
   "primary_service_angle": "Conversion optimization",
-  "audit_summary": "a Thai Noodle Bar has a well-structured, high-performing website with strong mobile experience, booking functionality, and clear call to action placement throughout. All core conversion and performance signals are positive, with no immediate gaps identified. Ongoing maintenance and content freshness represent the only long-term considerations for this lead.",
+  "audit_summary": "a Thai Noodle Bar operates a well-structured, high-performing WordPress website with excellent PageSpeed scores, a clear mobile experience, and functional conversion pathways including a contact form and booking system. The site presents strongly across all core technical signals, leaving limited immediate remediation needs. The primary opportunity lies in sustaining and incrementally strengthening this performance through content freshness, review integration, and ongoing managed maintenance.",
   "findings": {
     "performance": [
-      "Mobile PageSpeed score of 97 is strong — no performance issues identified from available signals",
-      "Desktop PageSpeed score of 99 is strong — site appears well-optimised at a technical level"
+      "Mobile PageSpeed score of 97 is strong. No performance issues are indicated from available signals.",
+      "Desktop PageSpeed score of 99 is strong. The site appears well-optimised for both delivery and rendering.",
+      "No likely public-signal performance concerns identified. Ongoing monitoring is recommended to preserve these scores as content or plugins are updated over time."
     ],
     "mobile_ux": [
-      "Mobile UX is rated good — notes confirm the mobile layout appears well-optimised with readable typography and consistent branding",
-      "No usability improvements are indicated from current signals"
+      "Mobile UX is rated good based on available signals.",
+      "Navigation, layout, and CTA placement appear well-adapted for mobile visitors per site notes.",
+      "Recommendation: Periodically verify tap target sizing, font legibility, and booking flow completion on smaller screen sizes as the site evolves."
     ],
     "conversion": [
-      "Booking system is present — the primary conversion pathway for a hospitality business is in place",
-      "Contact form is present — secondary enquiry pathway is covered",
-      "Notes confirm clear call to action placement and defined service sections — conversion flow appears well structured"
+      "A contact form and booking system are both present, supporting the primary conversion pathways expected for a hospitality business.",
+      "Clear CTA placement and strong visual hierarchy noted, which supports user decision-making.",
+      "Recommendation: Consider adding an on-site prompt or post-visit touchpoint encouraging satisfied customers to leave a Google review, supporting continued reputation growth.",
+      "Recommendation: If the booking system is third-party embedded, verify it loads reliably on mobile and does not introduce friction or delay in the reservation flow."
     ],
     "seo_fundamentals": [
-      "Structured signal indicates no blog or updates section — however notes state a blog or update section is present with structured content. This signal conflict should be verified before drawing conclusions.",
-      "Multi-page structure with defined service sections noted — content depth appears reasonable",
-      "Location data available (Westport, Co. Mayo) — LocalBusiness and Restaurant schema markup would strengthen local search appearance if not already implemented"
+      "No active blog or updates section is confirmed in structured signals. Notes reference structured content, but this may reflect static service pages rather than regularly updated posts.",
+      "Absence of fresh content over time may limit long-tail organic search visibility, particularly for location-based queries such as Thai restaurant Westport or food dining Westport Mayo.",
+      "Recommendation: Introduce a lightweight content section such as seasonal menus, events, or short updates to generate indexable, location-relevant content on a manageable schedule.",
+      "Recommendation: Verify that local schema markup such as Restaurant schema with address, opening hours, and cuisine type is implemented on key pages to support local search intent."
     ],
     "trust_social_proof": [
-      "Google rating of 4.6 across 102 reviews is a solid trust signal",
-      "Testimonial display method was not noted in the input — worth confirming whether reviews are dynamically embedded or manually managed"
+      "Google review rating of 4.6 across 102 reviews is a strong trust signal for a local hospitality business.",
+      "It is unknown whether Google reviews are embedded or surfaced on the website itself. Integrating a visible review feed or curated testimonials on the homepage or booking page could reinforce trust at the point of conversion.",
+      "Social media links presence is unknown from available signals.",
+      "Recommendation: Surface two to three curated review excerpts with star ratings in a prominent on-page location to support booking decisions from first-time visitors."
     ],
     "security_maintenance": [
-      "SSL is active — secure browsing is in place",
-      "Site runs on WordPress — routine theme, plugin, and core updates are recommended to maintain stability and performance over time"
+      "SSL is active. The site is served securely and this presents no concern.",
+      "Platform is WordPress. WordPress sites require regular core, theme, and plugin updates to remain stable and secure over time.",
+      "No visible indication of a managed maintenance plan was available from public signals.",
+      "Recommendation: A proactive WordPress maintenance plan covering regular updates, uptime monitoring, and scheduled backups is advisable to protect the performance and reliability already achieved."
     ]
   },
   "prioritised_recommendations": {
     "p1_quick_wins": [
-      "Clarify and resolve the blog signal inconsistency — confirm whether a blog or updates section exists and ensure it is reflected accurately in the lead record before any outreach"
+      "Add a subtle on-site review prompt, such as a footer nudge or post-booking message, to encourage satisfied diners to contribute to Google review growth.",
+      "Surface two to three curated Google review excerpts visibly on the homepage or near the booking CTA to reinforce trust for new visitors.",
+      "Confirm that local Restaurant schema markup is in place with accurate address, opening hours, cuisine type, and phone number to support local search visibility."
     ],
     "p2_growth_improvements": [
-      "Implement LocalBusiness and Restaurant schema markup if not already in place — supports local search visibility with no impact on site design",
-      "Confirm Google Reviews are dynamically surfaced on the site rather than manually managed — reduces maintenance and keeps social proof current"
+      "Introduce a lightweight content update section, such as seasonal specials, upcoming events, or monthly highlights, to generate fresh, locally relevant content for organic search.",
+      "Embed or link to active social media profiles if present, to extend brand touchpoints and provide additional freshness signals.",
+      "Enrol the site in a managed WordPress maintenance plan to ensure updates, backups, and uptime monitoring are handled proactively without disrupting current performance levels."
     ],
     "p3_strategic_enhancements": [
-      "Sustain content freshness on any existing blog or updates section to maintain organic search signals as the site matures"
+      "Over the medium term, develop a small library of location and cuisine-focused content targeting search terms relevant to dining in Westport and West of Ireland tourism, aligning with seasonal visitor traffic patterns."
     ]
   },
   "assumptions_and_unknowns": [
-    "Hosting provider is unknown",
-    "Click-to-call presence was not confirmed in input signals",
-    "Social media links and profiles were not included in the input",
-    "Blog signal conflict: has_blog_or_updates is false in structured signals but notes state a blog section is present — verify before using this record for outreach",
-    "Schema markup presence cannot be confirmed from public signals alone"
+    "Blog presence flagged as false in structured signals but notes reference structured content. It is assumed static service pages are present rather than a regularly updated blog. This should be verified on-site.",
+    "It is unknown whether Google reviews are embedded or referenced anywhere on the website.",
+    "Social media presence and links are unknown. No signal was provided.",
+    "Hosting provider is unknown. Maintenance recommendation is based on WordPress platform signal only.",
+    "Third-party booking system provider is unknown. Reliability and mobile performance of the booking flow has not been independently verified.",
+    "No desktop-specific UX observation was provided beyond PageSpeed score."
   ],
-  "next_best_action": "No immediate outreach action required — resolve the blog signal inconsistency, then schedule a light-touch check-in in 6 to 12 months to review content freshness and maintenance status"
+  "next_best_action": "Share a concise one-page summary of the three quick-win opportunities and propose a brief 15-minute call to explore whether an ongoing maintenance and content support arrangement would suit the business."
 }

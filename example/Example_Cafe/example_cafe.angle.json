@@ -4,29 +4,29 @@
   "vertical_bucket": "Hospitality",
   "primary_service_angle": "New website build",
   "primary_angle_type": "New website build",
-  "angle_summary": "Example Cafe has no website and no Google Business listing — there is no online pathway for potential customers to find, evaluate, or contact the business. The opportunity is a combined new website and Google Business setup that creates immediate local search visibility and a direct contact route from scratch.",
+  "angle_summary": "Example Cafe currently has no website and no Google Business listing, making it invisible to the tourists and locals searching online in Westport every day. A mobile-first website combined with a Google Business Profile would establish a complete online foundation and open the business to search traffic it is currently missing entirely.",
   "proof_points": [
-    "No website found — the business has no online presence and cannot be found through local search",
-    "No Google Business listing identified — the business does not appear in Google Maps or local search results",
-    "No contact, booking, or enquiry pathway exists online — potential customers have no way to act on local awareness"
+    "No website exists and no Google Business listing has been identified, meaning Example Cafe does not appear in Google Maps or local search results for anyone searching in or around Westport.",
+    "Westport is a tourist-active town where the majority of visitors search on mobile devices before deciding where to eat, and there is currently no online pathway for those customers to find the business, view the menu, or confirm opening hours.",
+    "There is no click-to-call, contact form, booking system, or any conversion mechanism in place, meaning the business has no way to capture or convert online interest from either locals or visitors."
   ],
   "recommended_offer_type": "New website package (full build, 2 to 4 weeks)",
   "offer_scope_points": [
-    "Build a new mobile-first website covering menu or offering, opening hours, location with map, and contact details with click-to-call",
-    "Set up and verify a Google Business Profile with accurate business information, category, and location",
-    "Add a contact enquiry form and assess whether a table booking or reservation feature suits the cafe's service model"
+    "Google Business Profile setup and full optimisation including address, opening hours, phone number, photos, and category, delivered as an immediate first step at no extra cost.",
+    "Mobile-first website build covering four core pages: homepage with prominent opening hours and location, menu page, contact page with click-to-call button, and a location and directions page with embedded map.",
+    "On-page local SEO from launch including location-targeted page titles, meta descriptions referencing Westport and Co. Mayo, and LocalBusiness schema markup, plus SSL and EU-based hosting included as standard."
   ],
   "personalisation_notes": [
-    "No website or Google Business listing found — this is the clearest possible signal for a new website build offer and the most direct outreach hook available",
-    "Source is local knowledge and physical visit — this makes the outreach feel genuinely researched rather than scraped, and gives permission to reference the cafe by name with confidence"
+    "The business is located in Westport, Co. Mayo, a town with significant tourist footfall, which makes the absence of a Google Business Profile and website a particularly acute gap during peak visitor seasons.",
+    "The lead was identified through local knowledge and a physical visit rather than any digital signal, which means the outreach can be framed around a genuine local observation rather than a cold data pull, making it feel personal and credible."
   ],
-  "suggested_cta": "Would you have 15 minutes this week for a quick call — I can walk you through what a simple website and Google listing would involve and what it would cost?",
+  "suggested_cta": "Would you have 15 minutes this week for a quick call so I can show you exactly what a Google Business Profile and a simple website would look like for Example Cafe?",
   "avoid_saying": [
-    "Anything implying the business is failing or invisible because they have no website — frame it as an untapped opportunity, not a critical gap that should embarrass the owner",
-    "Referencing technical details like PageSpeed, SSL, or platform — none of these are relevant at this stage and would make the outreach feel impersonal and scripted"
+    "Avoid saying the business is losing customers or falling behind competitors, as this is likely to trigger defensiveness from an owner who relies on word of mouth and may not yet see online presence as relevant to their situation.",
+    "Avoid implying the business needs to be technically involved in managing the website, as one of the likely objections is concern about not knowing how to manage a site themselves."
   ],
   "unknowns_to_confirm": [
-    "Does the business have any existing social media presence that could be referenced in outreach or linked from the new website",
-    "Is the cafe walk-in only or would a booking or reservation system be relevant — this shapes the scope and cost of the project"
+    "Whether the business has any existing social media accounts such as Facebook or Instagram, as this would affect how the online foundation is framed and whether existing content or followers can be leveraged during the build.",
+    "Whether the cafe format supports any form of reservation or table booking, as this determines whether a booking integration should be scoped into the package or excluded from the initial proposal."
   ]
 }

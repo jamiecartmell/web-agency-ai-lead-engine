@@ -1,20 +1,20 @@
 {
   "business_name": "Example Cafe",
   "proposal_type": "New Website Build",
-  "problem_summary": "Example Cafe is an active local business in Westport with no website and no Google Business listing. The business is currently absent from local search results, meaning potential customers searching for cafes in the area online cannot find it, check the menu, view opening hours, or make contact. Establishing a web presence and Google Business Profile together addresses this gap at its root.",
-  "recommended_solution": "A combined new website and Google Business setup: a clean, mobile-first website covering the essentials for a local cafe, delivered alongside a verified Google Business Profile — giving the business a complete local search presence for the first time.",
+  "problem_summary": "Example Cafe currently has no website and no Google Business listing, making the business entirely absent from the online channels that tourists and locals in Westport use to find somewhere to eat. For a hospitality business in a tourist-active town, this means there is no way for potential customers to view the menu, confirm opening hours, or get directions before deciding to visit. Establishing a mobile-first website and a fully optimised Google Business Profile would create a complete online foundation from which the business can begin capturing local and visitor search traffic.",
+  "recommended_solution": "A hospitality starter package covering Google Business Profile setup as an immediate first step, followed by a four-page mobile-first website build including homepage, menu, contact with click-to-call, and location page, with on-page local SEO, SSL, and EU-based hosting included as standard.",
   "scope_of_work": [
-    "Design and build a mobile-first website covering menu or offering, opening hours, location with embedded map, and contact details with a click-to-call button",
-    "Set up and verify a Google Business Profile with accurate business name, category, location, and contact information to establish map and local search presence",
-    "Add a contact enquiry form to the website and assess whether a table booking or reservation feature is appropriate for the cafe's service model"
+    "Set up and fully optimise a Google Business Profile for Example Cafe, including business address, opening hours, phone number, category, and photos, delivered as an immediate standalone first step prior to the website launch.",
+    "Build a four-page mobile-first website covering homepage with prominent opening hours and location, menu page, contact page with click-to-call button, and a location and directions page with embedded map, built to target a mobile PageSpeed score of 75 or above from launch.",
+    "Implement on-page local SEO from launch including location-targeted page titles and meta descriptions referencing Westport and Co. Mayo, plus LocalBusiness schema markup, with SSL and EU-based hosting configured as standard."
   ],
   "expected_outcomes": [
-    "A verified Google Business Profile should result in Example Cafe appearing in local map and search results for relevant queries in Westport for the first time",
-    "A mobile-first website with clear menu, hours, and location is likely to reduce the friction for first-time visitors who need to verify basic information before travelling",
-    "A contact form and click-to-call button should provide a direct enquiry pathway for customers who discover the business through search or the Google listing"
+    "A fully optimised Google Business Profile should improve the visibility of Example Cafe in Google Maps and local search results, making the business discoverable to visitors and locals searching in and around Westport.",
+    "A mobile-first website with clearly displayed opening hours, menu, and click-to-call functionality is likely to reduce friction for new customers and support more confident decisions to visit, particularly among tourists searching on mobile devices.",
+    "On-page local SEO and LocalBusiness schema markup implemented at launch should give the site a stronger foundation for appearing in location-based search results from the outset, reducing the need for significant remedial SEO work later."
   ],
-  "timeline_estimate": "2 to 3 weeks",
+  "timeline_estimate": "3 to 4 weeks",
   "engagement_model": "Phased approach (two defined phases)",
-  "next_steps": "Schedule a 15 minute call to confirm the cafe's service model, agree on the site structure, and clarify whether a booking system is needed — then provide a fixed quote for the combined package.",
-  "risks_if_delayed": "Without a website or Google listing, Example Cafe continues to be invisible in local search — and each week that passes is time during which nearby competitors with even a basic online presence have a structural advantage for capturing new customers."
+  "next_steps": "Schedule a 15 to 20 minute call to confirm key business details such as opening hours, menu format, and any existing social media accounts, and to walk through what the Google Business Profile and website would look like in practice for Example Cafe.",
+  "risks_if_delayed": "Each week without a Google Business Profile or website is a week during which tourists and locals searching online in Westport have no way to find Example Cafe, with that search interest defaulting to businesses that do appear in results. With the peak tourist season in the west of Ireland a recurring commercial window, establishing an online presence sooner rather than later maximises the number of visitor searches the business is able to benefit from."
 }

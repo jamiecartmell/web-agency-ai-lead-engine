@@ -4,7 +4,11 @@
   "opportunity_level": "Low",
   "primary_service_angle": "Conversion optimization",
   "urgency_level": "Long term",
-  "confidence_score": 1.0,
-  "top_visible_issues": [],
-  "outreach_hook": "a Thai Noodle Bar has a fast, well-structured website with clear navigation, booking functionality, and strong mobile performance. There are no immediate gaps to address, though staying ahead on performance and content freshness is worth revisiting as the site matures."
+  "confidence_score": 1,
+  "top_visible_issues": [
+    "No active blog or updates section detected in structured signals, which may limit organic search visibility over time.",
+    "A 4.6 rating across 102 reviews indicates strong reputation, though review count growth could be supported by on-site prompts or integration.",
+    "WordPress platform without visible maintenance or performance monitoring indicators suggests ongoing upkeep may benefit from a managed support plan."
+  ],
+  "outreach_hook": "a Thai Noodle Bar presents a well-built, high-performing website with strong mobile experience and clear conversion pathways already in place. There may be an opportunity to further support the site through ongoing maintenance, content updates, or review integration to sustain its competitive visibility in Westport. We work with hospitality businesses to keep strong sites performing consistently over the long term."
 }

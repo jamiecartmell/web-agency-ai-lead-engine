@@ -1,20 +1,20 @@
 {
   "business_name": "a Thai Noodle Bar",
-  "proposal_type": "Maintenance Retainer",
-  "problem_summary": "a Thai Noodle Bar has a well-performing WordPress website with strong mobile scores, a booking system, and clear conversion pathways already in place. The site is technically sound, but ongoing WordPress maintenance is required to sustain that performance level — and two small improvements, local schema markup and confirming dynamic Google Reviews embedding, remain unaddressed.",
-  "recommended_solution": "A monthly WordPress care plan covering routine maintenance and scheduled updates, with a one-time setup of LocalBusiness schema markup and Google Reviews dynamic embedding included in the first month.",
+  "proposal_type": "Conversion Sprint",
+  "problem_summary": "a Thai Noodle Bar operates a technically excellent website with PageSpeed scores of 97 on mobile and 99 on desktop, a functional booking system, and a strong Google review reputation of 4.6 across 102 reviews. Despite this strong foundation, the business's reputation is not currently confirmed to be visible on the website itself at the point where first-time visitors decide to book. A targeted set of additions could make existing trust signals work harder without changing anything that is already performing well.",
+  "recommended_solution": "A focused, fixed-scope conversion sprint delivering on-site review surfacing, local schema implementation, and a lightweight content section — completed within two weeks with no disruption to current site performance.",
   "scope_of_work": [
-    "Monthly WordPress core, theme, and plugin updates on a scheduled basis to maintain performance and stability",
-    "One-time implementation of LocalBusiness and Restaurant schema markup to strengthen local search appearance",
-    "Confirm and set up dynamic Google Reviews embedding if reviews are currently managed manually, ensuring social proof stays current without ongoing effort"
+    "Embed two to three curated Google review excerpts with star ratings on the homepage and in proximity to the booking CTA, ensuring trust signals are visible at the moment visitors decide to reserve a table.",
+    "Implement and verify local Restaurant schema markup covering address, opening hours, cuisine type, and phone number to strengthen the site's eligibility for location-based search results relevant to Westport dining queries.",
+    "Set up a lightweight content section for seasonal menus or short updates, with a simple self-service template so the business can manage updates independently or hand off to a support arrangement going forward."
   ],
   "expected_outcomes": [
-    "Routine WordPress maintenance is likely to prevent the performance degradation that can occur over time as plugins and themes fall out of date",
-    "LocalBusiness schema markup should improve how a Thai Noodle Bar appears in local search results for dining queries in the Westport area",
-    "Dynamic Google Reviews embedding reduces ongoing manual effort and ensures the 4.6 rating remains consistently visible to new visitors"
+    "Surfacing curated reviews near the booking CTA should improve booking confidence for first-time visitors who have not previously encountered the restaurant through word of mouth.",
+    "Verified local schema markup is likely to improve the site's visibility for location-based search queries, supporting organic discovery from tourists and visitors searching for dining options in Westport.",
+    "A structured content section reduces the need for ad hoc site edits and creates a repeatable format for adding locally relevant, indexable content during peak tourist seasons."
   ],
-  "timeline_estimate": "Ongoing monthly retainer, schema and reviews setup in week 1",
-  "engagement_model": "Monthly retainer",
-  "next_steps": "Schedule a light review call to confirm the current WordPress setup, check the schema requirements, and agree a monthly maintenance schedule.",
-  "risks_if_delayed": "Without a maintenance plan, the current strong performance baseline is not actively protected — and the two small open improvements continue to leave marginal local search visibility on the table."
+  "timeline_estimate": "1 to 2 weeks",
+  "engagement_model": "One-time project",
+  "next_steps": "Schedule a 15-minute call to confirm which elements of the scope are already in place and agree on a start date that suits the business ahead of the busy season.",
+  "risks_if_delayed": "Westport's seasonal visitor traffic represents a time-sensitive opportunity, and each week without on-site reviews or local schema in place is a period during which first-time visitors and tourists searching for dining options may choose an alternative that appears more credible or visible in local search results."
 }
